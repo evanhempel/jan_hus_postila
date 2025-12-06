@@ -1,0 +1,3 @@
+So far I like GPT-5.1 and Gemini-3-pro tranlations best. 
+Google Doc translation and Google translate are very similar (and probably more exact but less readable), but I don't like as much as the 1st two. Grok reads well but isn't as close to source so I rate it 2nd tier
+DeepL is probably best translation from literal standpoint and preserving bad formatting like unmatched braces, but doesn't read great as modern English
