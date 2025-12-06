@@ -25,16 +25,26 @@ def split_text_file(input_file, output_dir="chunks"):
     
     sections = []
     current_section = []
+    consecutive_headers = 0
     
     for line in lines:
         if is_all_caps_header(line):
-            # Save previous section if not empty
-            if current_section:
-                sections.append(current_section)
-                current_section = []
-            # Start new section with the header
+            consecutive_headers += 1
+            # If we have consecutive headers, add to current section
             current_section.append(line)
         else:
+            # If we were in a header sequence and now we're not
+            if consecutive_headers > 0:
+                # If the header sequence was short (less than 10 lines), merge with previous
+                if consecutive_headers < 10 and sections:
+                    # Add headers to previous section
+                    sections[-1].extend(current_section)
+                else:
+                    # Start new section with headers
+                    sections.append(current_section)
+                current_section = []
+                consecutive_headers = 0
+            
             current_section.append(line)
     
     # Add the last section
