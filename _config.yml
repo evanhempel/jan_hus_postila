@@ -1,5 +1,11 @@
-title: Jan Hus Sermons
-description: Czech originals and English translations
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "contrast"                 # try "air", "contrast", "dark", "dirt", etc.
+
+title: Jan Hus Sermons - Czech originals and English translations
+description: >-
+  A digital edition of Jan Hus's Postil with the original Czech text and multiple English translations.
+search: true
+
 baseurl: /jan_hus_postila    # exactly my repo name, no trailing slash
 url: ""                      # leave empty for GitHub Pages
 
@@ -13,3 +19,13 @@ defaults:
       path: "sermons"
     values:
       layout: sermon
+      toc: true
+      toc_label: "Contents"
+      sidebar:
+        nav: "sermons"
+
+navigation:
+  - title: All Sermons
+    url: /
+  - title: About
+    url: /about/
