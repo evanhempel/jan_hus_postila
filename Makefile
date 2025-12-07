@@ -16,7 +16,7 @@ summary:
 		exit 1; \
 	fi
 	@echo "Generating summary for $(SERMON)..."
-	@time cat $(SERMON) | llm -m $(SUMMARY_MODEL) -s "$(cat summary.prompt)" > $(basename $(SERMON)).aa.summary.en.md
+	time cat $(SERMON) | llm -m $(SUMMARY_MODEL) -s "$(cat summary.prompt)" > $(basename $(SERMON)).aa.summary.en.md
 
 # Generate translations for a specific file
 translations:
@@ -25,7 +25,7 @@ translations:
 		exit 1; \
 	fi
 	@echo "Generating translations for $(SERMON)..."
-	@$(foreach model,$(MODELS),\
+	$(foreach model,$(MODELS),\
 		time cat $(SERMON) | llm -m $(model) -s "$(cat translation.prompt)" > $(basename $(SERMON)).en_$(subst /,_,$(subst :,_,$(model))).md; \
 	)
 
