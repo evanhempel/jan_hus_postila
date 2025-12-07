@@ -29,3 +29,6 @@ navigation:
     url: /
   - title: About
     url: /about/
+
+plugins:
+  - jekyll-include-cache
