@@ -16,7 +16,7 @@ summary:
 		exit 1; \
 	fi
 	@echo "Generating summary for $(SERMON)..."
-	time cat $(SERMON) | llm -m $(SUMMARY_MODEL) -s "$(cat summary.prompt)" > $(basename $(SERMON)).aa.summary.en.md
+	@time cat $(SERMON) | llm -m $(SUMMARY_MODEL) -s "$$(cat summary.prompt)" > $(basename $(SERMON)).aa.summary.en.md
 
 # Generate translations for a specific file
 translations:
@@ -25,8 +25,8 @@ translations:
 		exit 1; \
 	fi
 	@echo "Generating translations for $(SERMON)..."
-	$(foreach model,$(MODELS),\
-		time cat $(SERMON) | llm -m $(model) -s "$(cat translation.prompt)" > $(basename $(SERMON)).en_$(subst /,_,$(subst :,_,$(model))).md; \
+	@$(foreach model,$(MODELS),\
+		time cat $(SERMON) | llm -m $(model) -s "$$(cat translation.prompt)" > $(basename $(SERMON)).en_$(subst /,_,$(subst :,_,$(model))).md; \
 	)
 
 # Generate all outputs for a specific file
@@ -62,5 +62,5 @@ help:
 	@echo ""
 	@echo "Usage examples:"
 	@echo "  make summary SERMON=sermons/03_first_sunday_of_advent_readings.cs.md"
-	@echo "  make translations SERMON=sermons/03_first_sunday_of_advent_readings.cs.md"
+	@echo "  make translations SERMON=sermons/03_first_of_advent_readings.cs.md"
 	@echo "  make all SERMON=sermons/03_first_sunday_of_advent_readings.cs.md"
