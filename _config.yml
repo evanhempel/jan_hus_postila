@@ -30,5 +30,11 @@ defaults:
       sidebar:
         nav: "main"
 
+header_pages:
+  - title: All Sermons
+    url: /
+  - title: About
+    url: /about
+
 plugins:
   - jekyll-include-cache

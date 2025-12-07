@@ -1,5 +1,3 @@
-# Jan Hus's Czech Sunday Postil – English Translation Project
-
 ## About This Project
 
 This repository contains the full text of **Magister Jan Hus's *Česká nedělní postila*** (Czech Sunday Postil), a collection of approximately 60 sermons on the Sunday Gospel readings for the liturgical year. Written in Czech during Hus's exile in 1412–1413 and drawing directly from his famous vernacular preaching at Bethlehem Chapel in Prague, the Postil is one of the most important works of early Reformation-era theology in the language of the people.
