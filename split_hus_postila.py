@@ -33,17 +33,24 @@ def generate_descriptive_title(all_caps_lines):
     input_text = "\n".join(all_caps_lines)
     
     try:
-        # Run the llm command
-        result = subprocess.run(
+        # Run the llm command with input via stdin
+        process = subprocess.Popen(
             ['llm', '-m', 'openrouter/amazon/nova-2-lite-v1:free', 
-             '-s', f'translate the title (TEXT IN ALL CAPS) to english and return only the translated title:\n{input_text}'],
-            capture_output=True,
-            text=True,
-            check=True
+             '-s', 'Translate this to English. Return only a sumarized title (max 80 characters).'],
+            stdin=subprocess.PIPE,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True
         )
         
+        # Send input via stdin
+        stdout, stderr = process.communicate(input=input_text)
+        
+        if process.returncode != 0:
+            raise subprocess.CalledProcessError(process.returncode, 'llm', stderr)
+        
         # Get the output and clean it up
-        title = result.stdout.strip()
+        title = stdout.strip()
         
         # Replace consecutive spaces with underscores
         title = re.sub(r'\s+', '_', title)
