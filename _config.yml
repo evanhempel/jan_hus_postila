@@ -8,6 +8,7 @@ search: true
 
 baseurl: /jan_hus_postila    # exactly my repo name, no trailing slash
 url: ""                      # leave empty for GitHub Pages
+masthead_title: true
 
 markdown: kramdown
 
@@ -27,12 +28,8 @@ defaults:
       layout: sermon
       toc: true
       toc_label: "Contents"
-      sidebar:
-        nav: "main"
 
 header_pages:
-  - title: All Sermons
-    url: /
   - title: About
     url: /about
 
