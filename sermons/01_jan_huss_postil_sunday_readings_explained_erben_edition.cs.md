@@ -1,10 +1,9 @@
 ---
 layout: sermon
-sermon_id: 01
+sermon_id: "01"
 lang: cs
 version_name: Czech original
-translator: Jan Hus
-title: SPISY KOMENSKÉHO EVANGELICKÉ FAKULTY BOHOSLOVECKÉ
+title: Jan Huss Postil Sunday Readings Explained Erben Edition
 ---
 ### SPISY KOMENSKÉHO EVANGELICKÉ FAKULTY BOHOSLOVECKÉ
 

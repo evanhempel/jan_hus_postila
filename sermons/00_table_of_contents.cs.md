@@ -1,10 +1,9 @@
 ---
 layout: sermon
-sermon_id: 01
+sermon_id: "00"
 lang: cs
 version_name: Czech original
-translator: Jan Hus
-title: OBSAH
+title: Table of Contents
 ---
 ### OBSAH
 

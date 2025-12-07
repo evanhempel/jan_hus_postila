@@ -1,10 +1,9 @@
 ---
 layout: sermon
-sermon_id: 02
+sermon_id: "02"
 lang: cs
 version_name: Czech original
-translator: Jan Hus
-title: POSTILLA.
+title: Postscript
 ---
 ### POSTILLA.
 

@@ -1,9 +1,8 @@
 ---
 layout: sermon
-sermon_id: 03
+sermon_id: "03"
 lang: en
 version_name: English - NOVA2
-translator: NOVA2
 title: Reading for the First Sunday in Advent  
 ---
 ### Reading for the First Sunday in Advent  

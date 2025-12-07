@@ -9,7 +9,7 @@ title: Jan Hus Sermons
   Group all sermon pages by their sermon_id and show one entry per sermon
 {% endcomment %}
 
-{% assign shown_sermons = "" | split: "" %}  {# Initialize the array here #}
+{% assign shown_sermons = "" | split: "" %}
 
 {% assign sorted_pages = site.pages | where_exp: "p", "p.sermon_id != nil" | sort: "sermon_id" %}
 

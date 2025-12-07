@@ -1,10 +1,9 @@
 ---
 layout: sermon
-sermon_id: 03
+sermon_id: "03"
 lang: cs
 version_name: Czech original
-translator: Jan Hus
-title: ČTENIE NEDĚLE PRVĚ V ADVENT.
+title: Reading for the First Sunday in Advent  
 ---
 ### ČTENIE NEDĚLE PRVĚ V ADVENT.
 
