@@ -26,28 +26,37 @@ def split_text_file(input_file, output_dir="chunks"):
     sections = []
     current_section = []
     in_header_block = False
-    header_block_lines = 0
-    non_header_lines_in_block = 0
     
     for line in lines:
         if is_all_caps_header(line):
             in_header_block = True
-            header_block_lines += 1
             current_section.append(line)
         else:
+            # If we encounter a non-header line after being in a header block
             if in_header_block:
-                # We're in a header block, check if this is a short non-header line
-                if non_header_lines_in_block < 10:
-                    # Still consider this part of the header block
-                    non_header_lines_in_block += 1
-                    current_section.append(line)
-                else:
-                    # Too many non-header lines, end the header block
+                # Check if this is a short non-header sequence (less than 10 lines)
+                # If so, continue the header block
+                # If not, end the header block and start a new section
+                # We'll handle this by looking ahead
+                pass
+            
+            current_section.append(line)
+            
+            # Check if we should end a header block
+            if in_header_block and not is_all_caps_header(line):
+                # Count consecutive non-header lines
+                non_header_count = 0
+                for i in range(len(current_section)-1, -1, -1):
+                    if not is_all_caps_header(current_section[i]):
+                        non_header_count += 1
+                    else:
+                        break
+                
+                # If we have more than 10 non-header lines, end the header block
+                if non_header_count > 10:
                     in_header_block = False
                     sections.append(current_section)
-                    current_section = [line]
-            else:
-                current_section.append(line)
+                    current_section = []
     
     # Add the last section
     if current_section:
