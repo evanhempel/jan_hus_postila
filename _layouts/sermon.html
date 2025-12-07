@@ -1,34 +1,20 @@
 ---
-# This layout extends default
-layout: default
+layout: single
 ---
-{% comment %}
-  Find all versions of this sermon
-{% endcomment %}
-{% assign versions = site.pages | where_exp:"p","p.sermon_id == page.sermon_id" | sort:"version_name" %}
 
-<article class="sermon">
-  <h2>{{ page.title }}</h2>
+{% assign versions = site.pages | where: "sermon_id", page.sermon_id | sort: "version_name" %}
 
-  {% if versions.size > 1 %}
-  <div class="version-switcher">
-    <strong>View version:</strong>
-    {% for version in versions %}
-      <a href="{{ version.url | relative_url }}"{% if version.url == page.url %} class="active"{% endif %}>
-        {{ version.version_name }}
-      </a>{% unless forloop.last %} | {% endunless %}
-    {% endfor %}
-  </div>
-  {% endif %}
+{% if versions.size > 1 %}
+<div class="version-switcher" style="margin: 2em 0; padding: 1em; background: var(--global-bg-color-secondary); border-radius: 8px; text-align: center;">
+  <strong>View version:</strong>
+  {% for version in versions %}
+    <a href="{{ version.url | relative_url }}"
+       class="btn {% if version.url == page.url %}btn--primary{% endif %}"
+       style="margin: 0 0.5em;">
+      {{ version.version_name }}
+    </a>
+  {% endfor %}
+</div>
+{% endif %}
 
-  <div class="sermon-text">
-    {{ content }}
-  </div>
-</article>
-
-<style>
-  .version-switcher { margin: 1em 0; padding: 0.5em; background: #f0f0f0; border-radius: 4px; }
-  .version-switcher a { margin: 0 0.5em; text-decoration: none; }
-  .version-switcher a.active { font-weight: bold; text-decoration: underline; }
-  .sermon-text { }
-</style>
+{{ content }}
