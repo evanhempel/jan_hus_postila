@@ -1,4 +1,15 @@
 title: Jan Hus Sermons
 description: Czech originals and English translations
+baseurl: /jan_hus_postila    # exactly my repo name, no trailing slash
+url: ""                      # leave empty for GitHub Pages
+
 markdown: kramdown
-permalink: pretty
+
+permalink: /sermons/:basename.html
+
+# default front matter for everything in sermons/
+defaults:
+  - scope:
+      path: "sermons"
+    values:
+      layout: sermon
