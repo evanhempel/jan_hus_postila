@@ -30,6 +30,13 @@ def split_text_file(input_file, output_dir="chunks"):
     
     for line in lines:
         if is_all_caps_header(line):
+            # If we encounter a new header and we're already in a header block,
+            # finish the current section first
+            if in_header_block and current_section:
+                sections.append(current_section)
+                current_section = []
+                consecutive_non_headers = 0
+            
             in_header_block = True
             consecutive_non_headers = 0
             current_section.append(line)
