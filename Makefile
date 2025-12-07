@@ -1,19 +1,49 @@
 # Makefile for generating English outputs from Czech sermons
 
+# Default models for translation
+MODELS := openrouter/openai/gpt-5.1 openrouter/amazon/nova-2-lite-v1:free openrouter/google/gemini-3-pro
+
+# Default summary model
+SUMMARY_MODEL := openrouter/deepseek/deepseek-chat
+
 # Default target
 all: summary translations
 
-# Generate summary
+# Generate summary for a specific file
 summary:
-	@echo "Generating summary..."
-	@time cat sermons/03_first_sunday_of_advent_readings.cs.md | llm -m openrouter/deepseek/deepseek-chat -s "$(cat summary.prompt)" > sermons/03_first_sunday_of_advent_readings.aa.summary.en.md
+	@if [ -z "$(SERMON)" ]; then \
+		echo "Usage: make summary SERMON=path/to/sermon.cs.md"; \
+		exit 1; \
+	fi
+	@echo "Generating summary for $(SERMON)..."
+	@time cat $(SERMON) | llm -m $(SUMMARY_MODEL) -s "$(cat summary.prompt)" > $(basename $(SERMON)).aa.summary.en.md
 
-# Generate translations
+# Generate translations for a specific file
 translations:
-	@echo "Generating translations..."
-	@time cat sermons/04_second_sunday_of_advent_readings.cs.md | llm -m openrouter/openai/gpt-5.1 -s "$(cat translation.prompt)" > sermons/04_second_sunday_of_advent_readings.en_gpt5.1.md
-	@time cat sermons/04_second_sunday_of_advent_readings.cs.md | llm -m openrouter/amazon/nova-2-lite-v1:free -s "$(cat translation.prompt)" > sermons/04_second_sunday_of_advent_readings.en_nova2.md
-	@time cat sermons/04_second_sunday_of_advent_readings.cs.md | llm -m openrouter/google/gemini-3-pro -s "$(cat translation.prompt)" > sermons/04_second_sunday_of_advent_readings.en_gemini3.md
+	@if [ -z "$(SERMON)" ]; then \
+		echo "Usage: make translations SERMON=path/to/sermon.cs.md"; \
+		exit 1; \
+	fi
+	@echo "Generating translations for $(SERMON)..."
+	@$(foreach model,$(MODELS),\
+		time cat $(SERMON) | llm -m $(model) -s "$(cat translation.prompt)" > $(basename $(SERMON)).en_$(subst /,_,$(subst :,_,$(model))).md; \
+	)
+
+# Generate all outputs for a specific file
+%:
+	@if [ -f "$(SERMON)" ]; then \
+		if [ "$(MAKECMDGOALS)" = "summary" ]; then \
+			$(MAKE) summary SERMON=$(SERMON); \
+		elif [ "$(MAKECMDGOALS)" = "translations" ]; then \
+			$(MAKE) translations SERMON=$(SERMON); \
+		else \
+			echo "Usage: make [summary|translations] SERMON=path/to/sermon.cs.md"; \
+			exit 1; \
+		fi; \
+	else \
+		echo "Error: File $(SERMON) not found"; \
+		exit 1; \
+	fi
 
 # Clean generated files
 clean:
@@ -25,7 +55,12 @@ clean:
 help:
 	@echo "Available targets:"
 	@echo "  all         - Generate all outputs (summary and translations)"
-	@echo "  summary     - Generate summary only"
-	@echo "  translations - Generate translations only"
+	@echo "  summary     - Generate summary only (requires SERMON variable)"
+	@echo "  translations - Generate translations only (requires SERMON variable)"
 	@echo "  clean       - Remove all generated files"
 	@echo "  help        - Show this help message"
+	@echo ""
+	@echo "Usage examples:"
+	@echo "  make summary SERMON=sermons/03_first_sunday_of_advent_readings.cs.md"
+	@echo "  make translations SERMON=sermons/03_first_sunday_of_advent_readings.cs.md"
+	@echo "  make all SERMON=sermons/03_first_sunday_of_advent_readings.cs.md"
