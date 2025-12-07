@@ -1,5 +1,12 @@
-SPISY KOMENSKÉHO EVANGELICKÉ FAKULTY
-BOHOSLOVECKÉ
+---
+layout: sermon
+sermon_id: 01
+lang: cs
+version_name: Czech original
+translator: Jan Hus
+title: SPISY KOMENSKÉHO EVANGELICKÉ FAKULTY BOHOSLOVECKÉ
+---
+### SPISY KOMENSKÉHO EVANGELICKÉ FAKULTY BOHOSLOVECKÉ
 
 ŘÍDÍ
 F. M. BARTOŠ, F. M. DOBIÁŠ, J. L. HROMÁDKA,

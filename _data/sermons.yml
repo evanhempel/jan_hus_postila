@@ -1,0 +1,10 @@
+# _data/sermons.yml
+- id: "00"
+  title: "Sermon 0"
+- id: "01"
+  title: "Sermon 1"
+- id: "02"
+  title: "Sermon 2"
+- id: "03"
+  title: "Sermon 3"
+# ... add all 50 here

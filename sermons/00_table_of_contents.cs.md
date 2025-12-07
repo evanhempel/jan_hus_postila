@@ -1,4 +1,13 @@
-OBSAH
+---
+layout: sermon
+sermon_id: 01
+lang: cs
+version_name: Czech original
+translator: Jan Hus
+title: OBSAH
+---
+### OBSAH
+
 Předmluva k vydání (str.5-9)
 Úvod k Postille (str.11-12)
 1. Neděle prvá adventní

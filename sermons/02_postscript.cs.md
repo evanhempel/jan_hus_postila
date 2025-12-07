@@ -1,4 +1,12 @@
-POSTILLA.
+---
+layout: sermon
+sermon_id: 02
+lang: cs
+version_name: Czech original
+translator: Jan Hus
+title: POSTILLA.
+---
+### POSTILLA.
 
 Vyloženie svatých čtení nedělních.
 Milosrdný spasitel, pán všemohúcí, syn boží, Ježíš Kristus,

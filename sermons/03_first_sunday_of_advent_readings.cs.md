@@ -1,4 +1,13 @@
-ČTENIE NEDĚLE PRVĚ V ADVENT.
+---
+layout: sermon
+sermon_id: 03
+lang: cs
+version_name: Czech original
+translator: Jan Hus
+title: ČTENIE NEDĚLE PRVĚ V ADVENT.
+---
+### ČTENIE NEDĚLE PRVĚ V ADVENT.
+
 Píše svatý Mat. v 21 kapitole, 1-9 verši.
 Když přiblížil sě Ježíš k Jeruzalému, a přišel jest
 k Betfage (té vescě] k hořě Olivetské, tehdy poslal
