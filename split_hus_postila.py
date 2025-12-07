@@ -26,37 +26,26 @@ def split_text_file(input_file, output_dir="chunks"):
     sections = []
     current_section = []
     in_header_block = False
+    consecutive_non_headers = 0
     
     for line in lines:
         if is_all_caps_header(line):
             in_header_block = True
+            consecutive_non_headers = 0
             current_section.append(line)
         else:
-            # If we encounter a non-header line after being in a header block
             if in_header_block:
-                # Check if this is a short non-header sequence (less than 10 lines)
-                # If so, continue the header block
-                # If not, end the header block and start a new section
-                # We'll handle this by looking ahead
-                pass
-            
-            current_section.append(line)
-            
-            # Check if we should end a header block
-            if in_header_block and not is_all_caps_header(line):
-                # Count consecutive non-header lines
-                non_header_count = 0
-                for i in range(len(current_section)-1, -1, -1):
-                    if not is_all_caps_header(current_section[i]):
-                        non_header_count += 1
-                    else:
-                        break
+                consecutive_non_headers += 1
+                current_section.append(line)
                 
-                # If we have more than 10 non-header lines, end the header block
-                if non_header_count > 10:
+                # If we have too many non-header lines, end the header block
+                if consecutive_non_headers > 10:
                     in_header_block = False
                     sections.append(current_section)
                     current_section = []
+                    consecutive_non_headers = 0
+            else:
+                current_section.append(line)
     
     # Add the last section
     if current_section:
