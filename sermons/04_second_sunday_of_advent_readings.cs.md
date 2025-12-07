@@ -1,3 +1,11 @@
+---
+layout: sermon
+sermon_id: "04"
+lang: cs
+version_name: Czech original
+title: Reading for the Second Sunday in Advent  
+---
+### ČTENIE NEDĚLE PRVĚ V ADVENT.
 ČTENIE DRUHĚ NEDĚLE V ADVENT.
 Píše S. Lukas v 21 kapitole, 25-33 verši.
 V ten čas ř. J. u. s.: Budú znamenie na slunci a na
