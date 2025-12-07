@@ -1,0 +1,7 @@
+main:
+  - title: "All Sermons"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "Table of Contents"
+    url: /sermons/00_table_of_contents.cs

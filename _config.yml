@@ -16,19 +16,19 @@ permalink: /sermons/:basename.html
 # default front matter for everything in sermons/
 defaults:
   - scope:
+      path: ""                # apply to all files
+    values:
+      layout: single
+      sidebar:                # this triggers the narrower content column
+        nav: "main"           # optional – we'll create a simple nav below
+  - scope:
       path: "sermons"
     values:
       layout: sermon
       toc: true
       toc_label: "Contents"
       sidebar:
-        nav: "sermons"
-
-navigation:
-  - title: All Sermons
-    url: /
-  - title: About
-    url: /about/
+        nav: "main"
 
 plugins:
   - jekyll-include-cache
