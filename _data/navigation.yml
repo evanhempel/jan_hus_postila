@@ -1,4 +1,7 @@
 main:
+  - title: "About"
+    url: /about
+sidebar_nav:
   - title: "All Sermons"
     url: /
   - title: "About"

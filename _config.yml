@@ -8,7 +8,6 @@ search: true
 
 baseurl: /jan_hus_postila    # exactly my repo name, no trailing slash
 url: ""                      # leave empty for GitHub Pages
-masthead_title: true
 
 markdown: kramdown
 
@@ -21,17 +20,13 @@ defaults:
     values:
       layout: single
       sidebar:                # this triggers the narrower content column
-        nav: "main"           # optional – we'll create a simple nav below
+        nav: "sidebar_nav"
   - scope:
       path: "sermons"
     values:
       layout: sermon
       toc: true
       toc_label: "Contents"
-
-header_pages:
-  - title: About
-    url: /about
 
 plugins:
   - jekyll-include-cache
