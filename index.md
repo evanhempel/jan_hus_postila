@@ -102,7 +102,7 @@ title: Jan Hus Sermons
 </a>
 </h3>
 
-<div class="versions"
+<div class="versions">
 <ul>
 {% for v in all_versions %}
 <li>
@@ -111,7 +111,7 @@ title: Jan Hus Sermons
 {% endfor %}
 </ul>
 </div>
-</div>
+</article>
 
 {% endunless %}
 {% endfor %}
