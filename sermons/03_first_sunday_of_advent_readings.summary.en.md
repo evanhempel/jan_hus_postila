@@ -1,4 +1,3 @@
-```
 ---
 layout: sermon
 sermon_id: "03"
@@ -25,4 +24,3 @@ This is a summary of Jan Hus' sermon focusing on the First Sunday in Advent, whi
 
 **Key Quote**:
 > "Aj král tvój přišel jest tobě spravedlivý a spasitel, on chudý sedě na oslici a na oslátku." (Behold, your King has come to you, righteous and a Savior, humble and riding on a donkey.)
-```

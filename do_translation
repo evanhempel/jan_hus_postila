@@ -13,9 +13,9 @@ fi
 sermon_base="$(ls sermons/${sermon_id}_*.cs.md | sed s/.cs.md//g)"
 
 # summarize
-echo "cat $sermon_base.cs.md | llm -m openrouter/deepseek/deepseek-chat -s "$(cat summary.prompt)" > $sermon_base.summary.en.md"
+echo "cat $sermon_base.cs.md | llm -m openrouter/deepseek/deepseek-chat -s \"\$(cat summary.prompt)\" > $sermon_base.summary.en.md"
 time  cat $sermon_base.cs.md | llm -m openrouter/deepseek/deepseek-chat -s "$(cat summary.prompt)" > $sermon_base.summary.en.md
 
 # translate
-echo "cat $sermon_base.cs.md | llm -m openrouter/openai/gpt-5.1 -s "$(cat translation.prompt)" > $sermon_base.en_gpt5.1.md"
+echo "cat $sermon_base.cs.md | llm -m openrouter/openai/gpt-5.1 -s \"\$(cat translation.prompt)\" > $sermon_base.en_gpt5.1.md"
 time  cat $sermon_base.cs.md | llm -m openrouter/openai/gpt-5.1 -s "$(cat translation.prompt)" > $sermon_base.en_gpt5.1.md

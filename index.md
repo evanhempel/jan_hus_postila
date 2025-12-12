@@ -64,18 +64,9 @@ title: Jan Hus Sermons
   content: "▸ ";
   color: #666;
 }
-
-/* Optional dark-mode tweak */
-@media (prefers-color-scheme: dark) {
-  .sermon-card {
-    background: #222;
-    border-color: #444;
-    color: #eee;
-  }
-  .sermon-title a { color: #8cc2ff; }
-}
 </style>
 
+<div class="sermons-grid">
 {% comment %}
   Group all sermon pages by their sermon_id and show one entry per sermon
 {% endcomment %}
@@ -115,3 +106,4 @@ title: Jan Hus Sermons
 
 {% endunless %}
 {% endfor %}
+</div>

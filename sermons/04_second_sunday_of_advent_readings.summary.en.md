@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: sermon
 sermon_id: "04"
@@ -33,4 +32,3 @@ Jan Hus's sermon for the Second Sunday in Advent focuses on Christ's second comi
 
 > **Key Quote**:  
 > "Lift up your heads, for your redemption is near." (Luke 21:28)
-```
