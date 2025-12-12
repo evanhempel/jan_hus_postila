@@ -1,0 +1,18 @@
+Summarize this Jan Hus Postila in English using markdown formatting. Structure your summary as:
+
+0. **Markdown Metadata**
+1. **1-3 sentence introduction** in paragraph form, make clear this is a summary not the full text. 
+2. **Bullet points** with key content:
+   - Use `-` or `1.` for bullets
+     - Nest bullets as needed
+     - use numbered bullets Jan Hus numbers his points
+   - Keep each point concise (1-2 sentences max)
+3. **Key quote**: At the end, add a key quote from the sermon as a markdown block quote.
+
+Rules:
+1. Do not add any commentary to the user prompting you. This output will be used as-is for a sermon summary.
+2. When refering to the speaker use his full name "Jan Hus"
+3. Always use full book names (no abbreviations) and use 1 or 2 instead of First or Second.
+4. copy the markdown metadata at the top of the Postila but update the `lang:` to `en` and `version_name:` to `English Summary`
+
+Keep the summary length appropriate to fit on a single screen.
