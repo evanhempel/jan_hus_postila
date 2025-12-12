@@ -1,4 +1,11 @@
-ČTENIE TŘĚTIE NEDĚLE V ADVENT.
+---
+layout: sermon
+sermon_id: "05"
+lang: cs
+version_name: Czech original
+title: Reading for the Third Sunday in Advent  
+---
+### ČTENIE TŘĚTIE NEDĚLE V ADVENT.
 Svat. Mat. v 11 kapitole, 2-10 verši.
 
 V ten čas, když uslyšě Jan v okovách skutky
