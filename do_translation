@@ -22,3 +22,6 @@ time  cat $sermon_base.cs.md | llm -m openrouter/openai/gpt-5.1 -s "$(cat transl
 
 echo "cat $sermon_base.cs.md | llm -m openrouter/openai/gpt-5.2 -s \"\$(cat translation.prompt)\" > $sermon_base.en_gpt5.2.md"
 time  cat $sermon_base.cs.md | llm -m openrouter/openai/gpt-5.2 -s "$(cat translation.prompt)" > $sermon_base.en_gpt5.2.md
+
+echo "cat $sermon_base.cs.md | llm -m openrouter/google/gemini-3-pro-preview -s \"\$(cat translation.prompt)\" > $sermon_base.en_gemini-3-pro.md"
+time  cat $sermon_base.cs.md | llm -m openrouter/google/gemini-3-pro-preview -s "$(cat translation.prompt)" > $sermon_base.en_gemini-3-pro.md

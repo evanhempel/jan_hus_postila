@@ -1,4 +1,11 @@
-ČTENIE NEDĚLE ČTVRTĚ V ADVENT.
+---
+layout: sermon
+sermon_id: "06"
+lang: cs
+version_name: Czech original
+title: Reading for the Fourth Sunday in Advent  
+---
+### ČTENIE NEDĚLE ČTVRTĚ V ADVENT.
 Píše svatý Jan v 1 kapitole, 19-26 verši.
 V ten čas poslali sú židé z Jeruzaléma kněží a jahny k
 Janovi, aby ho otázali (řkúcej: Ty kto jsi? A vyznal jest
