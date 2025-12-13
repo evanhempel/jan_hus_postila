@@ -3,6 +3,7 @@ layout: sermon
 sermon_id: "57"
 lang: en 
 version_name: An English Summary
+title: Twenty-Second Sunday After Holy Trinity
 ---
 
 This is a summary of Jan Hus's sermon based on Matthew 18:23-35, known as the Parable of the Unforgiving Servant. Hus emphasizes the importance of forgiveness and mercy, warning against the dangers of holding grudges and failing to forgive others.
