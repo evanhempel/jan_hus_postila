@@ -3,7 +3,7 @@ layout: sermon
 sermon_id: "32"
 lang: cs
 version_name: Czech original
-title: On The Day Of The Holy Spirit
+title: On The Day Of Pentecost
 ---
 
 NA DEN SVATĚHO DUCHA.

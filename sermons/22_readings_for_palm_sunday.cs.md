@@ -3,7 +3,7 @@ layout: sermon
 sermon_id: "22"
 lang: cs
 version_name: Czech original
-title: Readings For Flower Sunday
+title: Readings For Palm Sunday
 ---
 
 ČTENIE NA KVĚTNŮ NEDĚLI.

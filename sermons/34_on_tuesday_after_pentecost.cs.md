@@ -3,7 +3,7 @@ layout: sermon
 sermon_id: "34"
 lang: cs
 version_name: Czech original
-title: Tuesday In The Soul's Light
+title: On Tuesday After Pentecost
 ---
 
 V ÚTERÝ PO SVĚTLEM DUSE.

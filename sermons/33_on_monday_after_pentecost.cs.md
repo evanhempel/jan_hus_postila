@@ -3,7 +3,7 @@ layout: sermon
 sermon_id: "33"
 lang: cs
 version_name: Czech original
-title: Monday In The Soul's Light
+title: On Monday After Pentecost
 ---
 
 U PONDĚLI PO SVĚTLEM DUŠE.

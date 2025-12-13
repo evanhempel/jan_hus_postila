@@ -3,7 +3,7 @@ layout: sermon
 sermon_id: "62"
 lang: cs
 version_name: Czech original
-title: Dodavek Translation
+title: "Addendum: another sermon on reading 46 (Thirteenth Sunday after Holy Trinity)"
 ---
 
 DODAVEK.
