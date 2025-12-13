@@ -3,7 +3,7 @@ layout: sermon
 sermon_id: "02"
 lang: en
 version_name: English - GPT-5.1
-title: Postscript
+title: Postilla
 ---
 ### POSTILLA.
 

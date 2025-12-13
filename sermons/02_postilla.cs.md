@@ -3,7 +3,7 @@ layout: sermon
 sermon_id: "02"
 lang: cs
 version_name: Czech original
-title: Postscript
+title: Postilla
 ---
 ### POSTILLA.
 

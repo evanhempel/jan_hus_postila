@@ -3,7 +3,7 @@ layout: sermon
 sermon_id: "02"
 lang: en
 version_name: An English Summary
-title: Postscript
+title: Postilla
 ---
 
 This is a summary of Jan Hus's sermon introduction from his Postila, where he explains his purpose in preaching the Sunday gospel readings. He emphasizes Christ's mission to testify to truth and guide lost souls, while lamenting the scarcity of faithful preachers despite many eager listeners.
