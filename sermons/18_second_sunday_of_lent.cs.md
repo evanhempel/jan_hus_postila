@@ -1,0 +1,190 @@
+---
+layout: sermon
+sermon_id: "18"
+lang: cs
+version_name: Czech original
+title: Second Sunday of Lent
+---
+
+NEDĚLE DRUHA U PUOSTĚ.
+S. Mat. v 15 kapitole, 21-28 verši.
+
+V ten čas vyšed Ježíš, odšel jest (z Genezaret od mistróv a
+od zákonníkóv] do krajin Tyrských [Tyru toho města] a
+Sidonských (Sidon toho města]; a aj žena Kananejská (pohanka z těch pohanóv, jenž sluli KananeiJ od krajin těch
+vyšedši, volala (neb křičela] řkúci jemu: Smiluj sě nade mnú
+(neb bud mi milostiv], pane (t. bože], synu Davidóv (t. člověče]!
+dcerka má zle sě od ďábla trápí (neb dcerku mú zle ďábel
+trápí]. Jenž (neb: A on] neodpovědě jí slova. A přistúpivše
+učedlníci jeho, prosili sú ho, řkúce: Pust` ji, nebt volá (křičí] po
+nás. A on odpověděv vece: Nejsem poslán, jedné k ovciem,
+kteréž sú zhynuly domu israelského Jpokolenie židovského,
+jenž pošlo jest od Israel, to jest od Jakob]. A ona přijide (Mar.
+7, 25 padšiJ i modlí sě jemu (jako bohu], řkúc: Pane, pomoz
+mi! Který odpověděv, vece: Nenie dobré vzieti chléb synovský
+(neb synóni t. židóm], a vrci psóm (t. pohanóm]. A ona vece:
+Ovšem [t. tak jest], pane! však (avšak) také štěňátka jedie
+drobty (otrusky kuorkyJ, kteříž padají s stolu pánóv jich. A
+odpověděv Ježíš vece jí: O ženo! veliká jest viera tvá; bud
+(staň sě] tobě, jakož chceš. I uzdravena jest dcera jejie v tu
+hodinu (v kterú Kristus řekl: Bud tobě].
+Svaté čtenie, jakož slova vznie, má dosti lehký rozum. Neb Tyrus a
+Sidon byte sta městě prvé země zaslíbené; ale že židé
+nemohli sú všech pohanóv z země vyhnati, protož v nich a v té krajině
+za času Ježíšova pohané sú přěbývali. Protož tato žena
+vyšedši z těch krajin, přišla najprvé do domu, aby mluvila s Ježíšem,
+jako S. Marek v 7 k. 24-25 v. píše; ale že jie tu neuslyšal, běžela jest po
+něm na cěstě, ustavičně prosiec, aby sě smiloval
+nad ní a uzdravil jí dceru, již ďábel velmě trápí. Ale milostivý
+Kristus neuslyšal jie, ani učedlníkóv, jenž sú za ni prosili, do času
+hodného, a pověděl jest příčinu, řka: že nenie poslán od
+boha, aby uzdravoval nemocné, jedné lidi z domu israelského,
+
+114
+
+Čtenie 16.
+
+to věz, jedné židy. A ac Kristus právě lid pohanský nazval jest psem,
+avšak ona Kristovy řeči pojčivši přidala jest, že psi mají drobty
+jiesti, kteříž padají s panských stolóv; a že je byla usta
+vičná, pokorná, u vietě veliká, protož chválu od Krista své viery jest
+obdržěla, a v tom, co je prosila, jest uslyšána. Protož die svatý
+Beda: Čtenie svaté, které nynie čteno jest, bratřie najmilejší! slyšeli
+sme, že velikú vieru ženy, trpělivost, ustavičnost, a pokoru chválí;
+jejiež viece divné jest náboženstvie, že ona jsúci pohanka,
+neslýchavši svatého písma, ty ctnosti jest měla, kteréž ukazuje
+písmo svaté. To Beda. Z jeho řeči a z té pohanky příkladu máme
+naučenie, abychom, tu drahú pohanku majíce u příkladě, jí u vieřě,
+v trpělivosti, v ustavičnosti, a v pokoře následovali, a tak od
+milostivého spasitele uslyšáni i chváleni byli. O němž die čteme:
+"Vyšed Ježíš," to věz z země Jenezaret, opustiv mistry a zákonníky,
+proto že sú reptali a horšili sě, že učedlníci jeho přěstupují
+přikázanie starších, že jedli sú neumývajíce rukú, proto "odšel;" a
+jakož die výklad, že "vyšel jest," aby věrú ženy pohanské tresktal
+nevěru mistróv. Aj proto "vyšed Ježíš, odšel jest do krajin Tyrských
+a Sidonských."
+"A aj žena Kananejská," to věz z pokolenie pohanóv, jenž sluli sú
+Kananei, —volala- jest neb křičela: "Smiluj sě nade mnú, pane,
+synu Davidóv!" Řeč tato jejie jest krátká, ale múdrosti plná; protož
+die S. Jan zlatoústý: Slyš a viz múdrost ženy, znamenaj, duch jejie
+co die: "Smiluj sě nade mnú," neb, tak jest řekla v sobě pohanka
+Kananejská, neviem co dobrého o sobě; k milosrdenství sě utiekám,
+tu kdež nevýmluvné zdravie jest! Druhé viz, komu smilovánie prosí,
+že "sobě," řkúc: "Smiluj sě nade mnú!" Tu zlatá ústa takto mluvie:
+Co třěba jest, ženo? A ona: Milosrdenstvie hledám. Komu hledáš? A
+opět ona: Mně. Co potřěbie jest? A ona: Neb dceru mú ďábel trápí.
+Proč tedy neprosíš: Smiluje sě nade mnú a nad dcerú? A odpoviedá:
+Ukrutný osten, najhorší hřiech přirozený, milosrdenstvie jest zrušil.
+Opět die S. Jan zlatoústý: Viz múdrost ženy! nedie: Smiluj sě nad
+mú dcerú! ale: "Smiluj sě nade mnú!" nebt ona nečije bolesti, ját
+vše čiji, ját sama biedná bolest mám, já nezčastná každý den své
+muky vizi! Kam pojdu? kam sě ději? "Smiluj sě
+
+Neděle druhá u puostě.
+
+115
+
+nade mnú, pane, synu Davidóv! nebť dcera má od ďábla zle sě trápí." O
+přěslavné vyznánie! žena pohanka i božstvie i člověctvie Kristovo
+vyznává: božstvie proti dábelství, řkúci: "pane!" člověctvie, aby sě ráčil
+smilovati, že jsa bohem, chtěl býti člověkem proto, aby milosrdně od
+ďábla vysvobodil; protož die: "synu Davidóv." Ukazuje, co jí škodí, řkúc,
+že "dcera má od ďábla zle sě trápí:" bolest, že "dcera;" veliká, že zle ji
+ďábel "trápí;" také hrozná, že ji "dábel" trápí. A on neodpověděl jí slova.
+Jan zlatoústý: Příčiny křiku jejie neotázal, volajície neutěšil, ani skrotil
+křiku. Tu tepruv divnú věc znamenám: viděl-li's ženy pilnost, viděl-li's
+mužnost, viděl-li's ustavičnost, viděl-li's vieru? avšak Ježíš neodpověděl
+jí slova! Divná věc, o divná u věcech rozličnosti! prosí žena, modlí sě,
+kvielí, křikem naplnila nebe, lká pádu, přimnožuje prosby, praví bolest:
+a milovník lidí neodpoviedá! slovo mlčí, studnice zavřěna jest, lékař
+lékarstvie zadržěl jest! To zlatá ústa. A proč jie neuslyšal ihned? Prvé
+proto, že prodlenie a vymlúvánie Kristovo viece ctnosti a zbožie jí dalo;
+druhé pro příklad, aby i ty, když sě modlíš, ač ne ihned vezmeš, od
+modlenie nepřěstával.
+"A přistúpivše učedlníci jeho, prosili sú ho, řkúce: Pust ji, nebť volá
+po nás." Prosili sú za ni snad z milosrdenstvie? aneb chtiece býti
+prázdni jejieho křičenie? aneb stydiece sě lidského k nim pro ni
+sběženie? neb jest i napřěd, jakož die S. Marek 7, 25, běhala, i nazad,
+jako ted die čtenie, a křičela. Aj učedlníci řkú: "Pust ji," to věz, učiň ji
+milosrdenstvie nedržě jie, "neb křičí po nás." A on odpověděv vece:
+Nejsem poslán od otcě, zvláště jedné mezi židy, jenž sú zahynuli, to věz
+poblúzením, jako die Isaias v 53 k. 6 v.: Všichni my jako ovcě zblúdili
+sme. A tak něchtěl dáti příčiny židóm, aby sě nepohoršili, když by
+viděli, an s Kananejskú velmě lehcě sě obierá, slyše ji. A ona přišedši
+blíže, již jsúc vesela, že k ní promluvil, i modlila sě jemu, padši k
+nohám jeho, die S. Marek 7, 25, a řekla: "Pane, pomoz mil" Krátké slovo
+umdlelé ženyl nebožka, již během i křikem ustala, bolest velikú mající
+pro dceru; a že ještě nevidí slitovánie, omdlevši k nohám padla, a
+oddechnuvši málo, jedné to řekla: Pane, pomoz mi! jižt běžeti i volati
+nemohu, a tvého milosrdenstvie neodpadnu: "Pane, pomoz mi!"
+
+116
+
+Ctenie 16.
+
+Znamenaj tři prosby: Prvá jejie: "Smiluj sě nade mnúl" Druhá
+učedlnlkóv: "Pust ji!" Třétie ted jejie: "Pane, pomoz mil0 milosrdný,
+smiluj sěl - to ku prvé. O svobodný, nedrž, pust ji svobodnu od
+dábla domóvl - to k druhé. O pane všemohúcí, pomoz od veliké
+ďábelské moci! - to k třětí. Z toho dále máš, že milosrdenstvie snímá
+hřiech, puštěnie vinu neb muku neb pomstu za hřiech, a pomoc v
+pokušení pomáhá. A tak "smiluj sě, pust, a pomoz," ty tři prosby
+pohanku od hřiecha, od trápenie vysvobodily, a k veliké milosti a k
+chvále Kristově sú jí pomohly.
+Dále die čtenie, že on "odpověděv vece: Nenie dobré vzieti chléb
+synovský" neb synóm "a vrci psóm" k jiedlu; to jest: nenie dobré
+vzieti slova spasenie, kteréž prvé má dáno býti židóm, a dáti psóm,
+to jest pohanóm, jenž jako psi vždy proti bohu štěkají, a u modl
+svých s krví okolo jdú jako psi. O tvrdá odpovědi! o meči ostrý slova!
+o ráno těžká od pána nebožičcě dána! Prvé ona k němu přišla do
+domu, a on přěd ní odšel; ona po něm běží, a on přěd ní utieká; ona
+po něm křičí, a on mlčí; za ni učedlníci prosie, a on odpoviedá; a již
+zemdlelé, ana u noh leií, řkúci: "Pane, pomoz mil" kakť ji těší? že
+mezi psy ji pokládá, řka: "Nenie dobré vzieti chleba synóm, a dáti
+psóml" O dobroto lékaře, kde jsi nynie? tak ukrutně raněné sě dotýkáš! tak rány jejie tlačíš! psem nebožičku nazýváš, však v zufalství ji
+vedeš! - Odpovie milý Kristus: Nenie tak, jako diešl nebi já popúziem
+jie, ať by volala; táhnu ji po sobě, aby neodpadla; držím ji, aby jsúc
+pohaněna nepadla; dámť jí odtuchu, at uy iiezuiala. Ját ji naučím,
+žel die: "Ovšem, pane! však také štěňátka jedie drobty, kteříž padají
+s stolu pánóv jich." - Aj coť die? "Ovšem, pane!" to věz, tak jest, jako
+dieš: ját jsem pes, ti jsú synové, jakož ty je mieníš; nebeř od nich
+chleba, kterýžť na ně slušie, aby mně dal, ale jako štěněti otruskóv
+podaj. Daj mé dcerce zdravie, ať to jedno dobroděnstvie sě stane nad
+ní: neb si již mnohá a veliká dobroděnstvie učinil mezi židy. Oniť
+mají za otrusky tvá dobroděnstvie: já, štěňátko tvé, chci dosti na
+tom mieti; rač sě nade mnú smilovati!
+"A odpověděv Ježíš vece jí: O ženo! veliká jest viera tvá, bud tobě
+jakož chceš." 01 to slovo milost velikú Kristovu uka-
+
+Neděle druhá u puostě.
+
+117
+
+zuje, i divenie o vieřě, jakoj' sě divil o vieřě centuriona. O ženo! veliká
+vyznáním, pevným stáním, a srdečným žádáním jest viera tvá. Aj již jest
+jí milost otevřěl, již vieru chválí, již daruje ustavičnost, řka; "Bud tobě,
+jakož chceš!" Tu zlatá ústa takto mluvie: Ty si uzdravena, ty bud již
+lékařem, tobět porúčiem lékarstvie, aby je přiložila vóla tvá, uzdrav
+dcerku! O divná věci! nižádného člověka vóli nečteme, tak velikú by dal
+svobodu; ale i zdalit by ji dal, by příčina tak veliké viery nebyla?
+"A uzdravena jest dcera jejie v tu hodinu." V tu hodinu, když Kristus
+řekl: "Bud tobě, jakož chceš;" neb die S. Marek 7, 30: A když přišla jest
+žena domóv, nalezla dievku sedící na loži bez dábla, neb z nie již byl
+vystúpil. Nravnie máme naučenie, že máme pilně sě modliti pánu bohu,
+aby ráčil nám od ďábla pomoci; také máme naučenie, že pán bóh
+nepřijímá osoby, ale v každém lidu, ktož zachová spravedlnost, ten iest
+jemu vzácen. Jakož die S. Petr v skutciech apoštolských v 10 k. 34-35
+v. Protož milostivý spasitel, obcuje s pohany, činil jest mnohé divy, a
+utěšeně mluvil ku pohanóm, jakož k této pohance a k centurionovi;
+aniž máme, by kdy tak velmě zjevnými slovy chválil vieru čí, jako této
+pohanky a centuriona. Dále máme naučenie, že tato pohanka pro svú
+vieru byla jest obdarována rozumem, že rozuměla, že pohané jsú psi,
+proto že pilni jsú modl mrtvých, jako psi mrch; také rozuměla, že chléb
+Kristus nazval jest duchovní pokrm židóm daný, to věz naučenie a divy;
+a také rozuměla jest, že pohané. když sě obrátie k jeho milosti, že budú
+hodni jeho nasycenie. Amen.
+
+118
+
+čtenie 17.
+

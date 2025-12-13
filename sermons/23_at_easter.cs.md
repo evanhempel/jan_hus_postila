@@ -1,0 +1,224 @@
+---
+layout: sermon
+sermon_id: "23"
+lang: cs
+version_name: Czech original
+title: At Easter
+---
+
+NA VELIKÚ NOC.
+Píše svatý Marek v 16 kapitole, 1-7 verši.
+V ten čas Maria Mandaléna a Maria Jakobova a Salome
+kúpily sú masti, aby při jdúce mazaly Ježíše. A velmě ráno
+jeden den po sobotě přišly sú k hrobu, když vzešlo slunce, a
+řekly sú jedna k druhé (neb spolu]: Kto odvalí nám kámen od
+dveří hroba? A vzezřěvše, uzřěly sú odvalený
+kámen, a bieše velm.ě veliký. A všedšě v hrob, uzřěly sú
+mládence [angelaJ sedícieho na pravici, oblečeného rúchem
+bielým JstolaJ, i lekly sú sě; jenž řekl jest jim: Nerod'te sě
+báti! Ježíše hledáte Nazaretského, ukřižovaného: vstalí jest,
+neniet ted! aj miesto, kde položili sú ho. Ale jděte, povězte
+učedlníkóm jeho a Petrovi, že přědejde vás v Galilei; tu ho
+uzříte, jakož jest řekl vám.
+Ukazuje svaté čtenie, co sě stalo dnes po Kristovu z mrtvých vstání,
+jež dnes slavíme, abychom jsúce vděčni jeho z mrtvých vstánie, svého
+čakali, abychom jsúce oslaveni, s ním sě na věky radovali. Neb jakož
+mluví S. Řehoř v dnešniem kázaní, že dva jsta životy: jeden smrtedlný,
+druhý nesmrtedlný; jeden známe, druhého sme neznali; neb jistě jeden
+život jest smrti, a druhý z mrtvých vstánie. Protož přišed smírce boží s
+lidmi, Kristus Ježíš, přijal jeden život, a druhý ukázal; přijal jeden
+umřěv, a ukázal druhý z mrtvých vstav. Protož by nám, jenž vieme, že
+jest život smrtedlný, z mrtvých vstánie sliboval, a toho zjevně neukázal,
+kto by jeho slibování věřil? Protož byv člověkem, ukázal sě v těle, ráčil
+jest umřieti dobrovolně, a vstal jest z mrtvých slavně; a tak ukázal jest
+u příkladě, co jest nám slíbil k odplatě. Ale snad by řekl někto:
+Spravedlivě jest ten z mrtvých vstal, neb proto že bohem jest, ot smrti
+držien býti nemohl jest. Protož k naučenie našie hlúposti, a k potvrzení
+našie křehkosti, svého z mrtvých vstánie příkladem nám dosti nechtěl
+učiniti; neb ač sám v ten čas umřěl jest, avšak sám nevstal jest. Neb
+psáno jest Matouš 27, 52: "Mnohá těla sva-
+
+Na Velikú noc.
+
+155
+
+tých vstala sú, jenž sú byli zemřěli." Protož odjati sú všichni dóvodové
+nevěry, aby nižádný neřekl: Nemá toho sobě doufati člověk, co jest na
+svém těle učinil bóh člověk. Aj že s bohem vstali sú lidé, vieme, a že sú
+byli púzí lidé, nepochybujeme; protož jsme-li údové našeho vykupitele,
+doufajme téhož na sobě, co sě stalo naší hlavě. To vše S. Řehoř,
+dovodě, že máme z mrtvých vstáti, poňavadž Kristus, hlava naše, ne
+sám toliko vstal jest z mrtvých, ale i jiné s sebú vzkřiesil, aby nás, že
+máme z mrtvých vstáti, o tom potvrdil.
+A o tom z mrtvých vstání slavíme dnes den svatý veliký, pamatujíce
+ve čtení, co sě stalo, že svaté ženy tři: Maria Mandaléna, a Maria
+Jakubova matka, a Maria Salome, to věz dcera toho, jenž jest byl muž
+svaté Anny a slul Salomas; a tak Maria Magdaléna a dvě Maří, sestře
+panny Marie, jsú položeny ve čtení. A ty vedlé židovského obyčeje měly
+sú v poctivosti tělo Ježíše mrtvého; protož kúpily sú masti, aby mazaly
+tělo jeho, jakož die čtenie: "Maria Magdaléna a Maria Jakobova" t. matka, a dos,lyš "Maria Salome," t. dcera toho, jenž slul Salomas, "kúpili
+sú masti, aby přijdúce mazaly Ježíše," vedlé obyčeje židovského, a tak
+aby milost ukázaly k mrtvému, jehož sú milovaly živého. A zpósobil
+milý spasitel, aby v té službě s mastí Marie Magdaléna najprvé byla
+položena, aby ukázal, že duchovnie milovánie jest jemu milejšie, než
+tělestné přirozenie; neb těto dvě Maří byle sta Kristově tetcě, a Maria
+Magdaléna nebyla jemu v rodu tak přívuzna; avšak i tuto ji napřěd položil, i prvé sě jí, vstav z mrtvých, než jiným ukázal, jakož ukazuje S.
+Marek v 16 k. 9 v. řka: Vstav z mrtvých Ježíš jeden den, ukázal sě
+najprvé Maří Magdaléně, z niež byl sedm dábelství vyvrhl. V tom jest
+dal hřiešníkóm kajícím útěchu, že budú-li horlivě sě káti a velmě ho
+milovati, tehdy budú moci jiné přědstihnúti v milosti spasitele Jezu
+Krista.
+Dále die čtenie: "A velmě ráno jeden den" z téhodne "po sobotě," to
+jest dnes, "přišly sú k hrobu, když slunce vzešlo." Tu věz, že tyto svaté
+ženy jako včera pro hod židovský nedělaly sú mastí, ale mlčely sú;
+avšak na večer, jakož sě konal hod židovský, připravily sú masti, a pak
+dnes v neděli, jenž slul jest prvý den po hodu židovském, konečně
+přišly sú k hrobu,
+
+156
+
+Čtenie 21.
+
+byvše s nocí na večer u hrobu, a opět v noci přěd sluncem, jakož S.
+Jeronym die. A tak sjednáš evangelisty. Neb S. Matheus 28, 1 die, že na
+večer, jenž sě počíná prvý den po sobotě, to věz od večera, jakož židé
+den počínají, přišla Maria Magdaléna a druhá Maria, aby ohledale hrob,
+to jako včera večer; a ted svatý Marek 16, 2 die, že přišly sú velmě ráno,
+když vzešlo slunce, to věz, kdy již den ukazovalo svými paprslky. Ale
+pochybovaly sú, jdúce na cestě, kto by jim kámen odvalil od hrobu;
+protož řekly sú všecky spolu: "Kto nám odvalí kámen od dveří hroba?" A
+bóh, jenž svých nemešká v dobré žádosti, přikázal jest angelu, aby jej
+odvalil: ne proto, by Kristus nemohl vyjíti, poňavadž vyšel jest z života
+panny Marie bez porušenie, a všel jest k učedlníkóm skrze zavřěné
+dvéře; ale proto, aby zstrašil rytieře, jenž sú hrobu střiehli, a aby ukázal
+ženám, že hrob jest prázden, a pověděl jim, že vstal z mrtvých a že chce
+je přědjíti v Galilei. A tak když sú tyto ženy přišly k té peleši neb
+komórcě, v níž jest byl hrob, "vzezřevše, uzřěly sú odvalený kámen." A
+aby ukázal svatý Marek, že sú nedarmo rozmlúvaly, kto by jim odvalil
+kámen, že by samy nemohly odvaliti, die: "A bleše" neb jistě bleše
+"kámen velmě veliký." Pilně biskupové a kněžie hrob zavalili, aby ho
+učedlníci z hrobu lehcě neukradli!
+"A všedše ženy v hrob," to jest v tu peleš, v níž jest byl hrob, "uzřěly
+sú mládencě na pravici," t. angela v spósobu mládencě, "oblečeného
+rúchem bielým.I lekly sú sě," proto že těla Kristova nebylo, a hrob byl
+prázden. Ale angel dobrý, jako dobrý boží posel, jinak čině než dábel,
+těšil jest ženy, řka: "Nerodte sě báti!" neb poňavadž "Ježíše hledáte
+Nazaretského ukřižovaného," vězte, žet "vstal jest, a neniet ted" v hrobě
+nynie tělestně, ačt všudy jest vedlé božstvie. "Aj," to věz vizte "miesto,
+kde" to věz v němž "položili sú ho byli," žet jest prázdné. Ale nechajíce
+hledánie, a úmysla těla jeho mazánie, "jděte a povězte učedlníkóm jeho"
+všem vóbec, "a Petrovi" zvláště, at pro zapřěnie mistra svého nezufá, ale
+obrátě sě, jiných u vieře potvrzuje. Neb tu die S. Řehoř, že otázka jest,
+proč, když angel jmenoval jest apoštoly, Petr jmenován jest jmenovitě?
+die, že proto, že, by angel nejmenoval ho zvláště, proto
+
+Na Velikú noc.
+
+153
+
+že jest mistra zapřěl, přijíti mezi učedlníky by nesměl; protož jmenován
+jest jmenovitě, aby nezulal pro zapřěnie. Dále řekl angel: " přědejde vás
+v Galilei; tu ho uzříte, jakož jest řekl vám." Galilea, die S. Řehoř, "
+přěstúpenie" vykládá sě; neb již vykupitel náš od trpenie k z mrtvých
+vstání, od smrti k životu, od muky k oslavě přěstúpil jest, a po z
+mrtvých vstání v Galilei od učedlníkóv vidien jest; neb po z mrtvých
+vstání jeho oslaveného viděti budeme, ač nynie od hřiechóv k povýšení
+ctností přěstúpíme. To krátcě vedlé slov svatého čtenie.
+Ale že by vérné duši na tak veliký hod snad bylo čísti málo, protož
+móž sobě viece utěšenie v svatém čtení naleznúti. Aj zpósobil milostivý
+spasitel, aby jeho z mrtvých vstánie bylo skrze ženy jiným ohlášeno, tak
+že své matcě prvé, jakož za to máme, ač čtenie nepokládá, ukázav sě,
+jim ženám sě ukázal, aby skrze ně jiným jeho z mrtvých vstánie bylo
+oznámeno, proto, že jakož sú méně než apoštolé pochybily, tak aby prvé
+jeho z mrtvých vstánie vědúce, jim je ohlásily. Nu kněžieI když v
+následování Krista pochybíte, napomenú-li vás ženy, mile přijměte: ját
+chci rád přijieti, když mě kolivěk babka co dobrého, a zvláště, abych byl
+dobřě živ, naučí. Ale druzí mají za bláznovstvie, aby ženy dobré je
+tresktaly, neb co dobrého naučily, jakož i učedlníci Kristovi, což sú jim
+svaté ženy o Kristovi z jeho přikázanie pravily, to sú oni za bláznovstvie
+měli, jakož die S. Lukáš v 24 k. 11 v.
+Pak vedlé výklada S. Řehoře, Krista s těmito ženami hledáme, když v
+něho statečně věřiece, vóně ctností jsúce naplněni, a s příkladem
+dobrých skutkóv k němu, jenž za ny v hrobě jest ležel, pospiecháme. A
+jakož ony ženy angely sú viděly, tak věrné duše, kteréž tak ctnostmi sú
+naplněny, jakož sestry Kristovy angelská myšlenie a zvláštně od boha
+vzjevenie mievají. A angel seděl jest na pravici, aby ukázal, že již
+Kristus biedný a smrtedlný život přěstúpil jest, a již u věčné radosti s
+angely jest posazen. A tak bělost rúcha znamená plné Kristovo vítězstvie, a skvostnú a velebnú za vítézstvie odplatu, a ne toliko jeho, ale i
+naši. Neb slavné jeho z mrtvých vstánie i angelské i naše jest utěšenie:
+naše, že ač dobřě skonáme, vstanúce po něm z mrtvých, v radost věčnú
+vstúpíme; a angelské, že jich
+
+158
+
+Ctenie 21.
+
+počet naplníme. A že věrní, kteříž Ježíše hledají, nemájí sě angelóv
+strachovati a tak smrti navštievenie, znamená sě, že řekl angel
+ženám hledajícím Ježíše: "Nerodte sě báti." Die S. Řehoř: Jako by
+zjevně angel řekl: Nechť sě ti bojie, kteříž nemilují nebeských
+měštěnínóv navštievenie; necht sě strachují ti, kteříž tělestnými
+žádostmi jsúce obtieženi, k jich tovařiství by mohli přijíti neutají: ale
+vy proč sě bojíte, když své spoluměštěníny vidíte?
+Aj angela S. Mat. 28, 3, jenž sě jim ukázal, vypisuje, die: "A bieše
+tvář jeho jako blesk, a rúcho jeho jako snieh;" neb v blesku hróza
+bázni jest, ale v sněhu bělosti ochotnost. Protož že všemohúcí bóh i
+hrozný jest hřiešným i ochotný spravedlivým, právě svědek jeho z
+mrtvých vstánie, angel, i s bleskem tváři i v bělosti ukázán jest, aby
+svým zpósobem i zstrašil zlé, i utěšil věrné. A těše ženy svaté, die jim:
+"Nerodte sě báti! Ježíše hledáte Nazaretského;" neb ktož svatým
+úmyslem Ježíše, jenž jest spasitel, hledají, ti jeho svatých angelóv
+báti sě nemají. A znamenitě die S. Mat. v 28 k. 5 v., že řekl jest angel
+ženám: Nerodte báti sě vy, nebt viem, že Ježíše, jenž ukřižován jest,
+hledáte; a tak nerodte, milé paniel báti sě vy: necht sě zlí biskupové,
+kněžie, zákonníci, jenž sú ho umučili, bojie, a ti rytieři a oděnci, jenžt
+ještě u prázdného hrobu Ježíše střěhú. Protož i ženy, radujíce sě, od
+hrobu sú k učedlníkóm běžely, i rytieři lekše sě, jako mrtví u hrobu
+sú leželi, jakož die S. Mat. 28, 4. I co sě stane zlým v súdný den, až
+sě sám Kristus oslavný ukáže? i kterak nebudú veseli ti, jenž sú,
+jsúce dobřě živi, hledali Ježíše, věřiece právě, vyznávajíce vesele, a
+následujíce statečně milostivého Ježíše? k nimž v pravdě móž dnes
+řečeno býti: "Ježíše hledáte Nazaretského, ukřižovaného: vstali jest z
+mrtvých," to jest: neniet mrtev v vašich srdcích, ale živ milostí svú.
+Co jest řečeno: Kristus jest vstal z mrtvých? Obžil jest. Co jest:
+obžil jest? Byv na těle mrtev, již živ jest, a již neumře. Co tiem nám
+ukázal? Že všichni umřeme a tak obživeme. On umřěl jest hřiechu,
+že nehřěšil jest: umřeme my též, abychom byli v spravedlnosti živi.
+On obžil jest a již neumře: my obžili sme na duši milostí, již
+neumierajme. On vstav z mrtvých, die
+
+Na Velikú noc.
+
+159
+
+k otci: Obžil sem, a ještě s tebú jsem. On tak mocný, mezi mrtvými
+položen, ale mezi mrtvými svoboden; a přěs třětí den mrtev neležěl, aby
+jeho prorok, Ozeáš 6, 2, v pravdě byl nalezen, jenž die: Obživeš po dvú
+dní, v třětí den vzkřiesíš nás. Co tu učí prorok? Jistě to, aby údové táhli
+po hlavě. Na kříži u pátek vykúpil člověka; v sobotu odpočíval v hrobě,
+dokonav úřad, který byl přijal; třětí den, jenž jest prvý den plného z
+mrtvých vstánie jeho, vítěz smrti ukázal sě novým člověkem. Též i my,
+ktož táhnem po naší hlavě Ježíšovi, tento den, to věz tento čas, dokud
+jsme živi, nepřěstávajíce nesme kříž svój, trvajíce na něm, jako on trval
+na svém, ažt i die nám duch, abychom odpočinuli od prácě své.
+Neposlúchajme nižádného, ktož nám velí sstúpiti s kříže. Aj na něhu sú
+volali, Matouš 27, 42: Jest-li král Israelský, nechť sstúpí s kříže a
+budem mu věřiti. On jest nesstúpil; ale věččí věc a moc ukázal, že
+mrtev byv, obžil jest a mocně vstal, než by byl ukázal, kdyby neumieraje s kříže sstúpil. Avšak sú neuvěřili ti, jenž sú tak volali; protož
+těch lhářóv neuposlúchal, i nesstúpil s kříže. Též i my, bratřie
+najmilejší! nižádného neposlúchajme, jenž nám radí sstúpiti s kříže;
+neposlúchajme v tom ani těla, ani přátel tělestných krvavých, ani dábla
+neb kterého ducha. Stojme na kříži, umřeme na kříži, nechť nás jiní
+složie s kříže. Krista, hlavu naši, složili sú mužie spravedliví: a nás
+necht složie milostivě angelé světí; neb když tak nám sě dokoná v
+pátek, prvý den, po smrti, druhý den, budem tělem odpočívati zčastně,
+ležeti blahoslaveně, a spáti sladcě v hrobiech, čakajíce blahoslavené
+naděje, to jest odplaty, a navštievenie velikého boha, jenž již jako třětí
+den vzkřiesí našě těla, již k svému tělu v oslavenství připodobněná. Aj
+najmilejší! tři dni položich v práci, v odpočinutí a v z mrtvých vstání, po
+nichž daj nám Kristus bydliti v své radosti!
+
+160
+
+Ctenie 22.
+

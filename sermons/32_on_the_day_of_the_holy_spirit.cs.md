@@ -1,0 +1,240 @@
+---
+layout: sermon
+sermon_id: "32"
+lang: cs
+version_name: Czech original
+title: On The Day Of The Holy Spirit
+---
+
+NA DEN SVATĚHO DUCHA.
+S. Jan v 14 kapitole, 23-31 verši.
+
+V ten čas ř. J. u. s.: Ač kto (právě) miluje mě [nade
+všechny jiné věci], řeč mú zachová (v skutku], a otec mój
+(nebeský] milovati bude ho [a tak i já], a k němu (k tomu,
+jenž mě miluje] přídeme [já s otcem], a přiebytek (věčný] u
+něho (jenž mě miluje] učiníme; kto nemiluje rnne, řeči mé
+nechová (neplní skutkem J. A řeč, kterú ste slyšěli, nenie
+má (toliko], ale jeho, jenž poslal mě, otcě. Ty věci [o
+milování a o zachování mé řeči] mluvil sem vám s vámi
+přěbývaje (tělestné obcuje], a utěšitel duch svatý, jehož
+pošle otec (vám v dařiech] ve jmeno mé (t. ode mne a mým
+jmenem], ten vás naučí (velmě dobřě, což nynie rozuměti
+nemóžete] všechny věci (k spasení hodné], a vzpomene
+vám (potom] všechny věci (jichž ve čas neporaníte], kteréž
+kolivěk poviem vám. Pokoj (jenž jest utěVenie duše od
+hřiecha] ostavuji vám (v příkladé, aby tak byli s lidmi
+pokojni, jako já jsem], pokoj svój (jenž jest s bohem
+sjednánieJ dávám vám, ne jako svět (lid v světě] dává (t.
+pokoj, jenž jest tiché požívánie času], já dávám vám (bez
+přiekazu znamenitého nepřátel]. Nemut sě srdce vaše [pro
+mú smrt, jenž jest vykúpenie vaše], ani strachuj (pro svú
+smrt a pro pátky budúcie]; slyšeli ste, že já řekl sem vám:
+Jdu (na smrt], a přijdu [v třětí den] k vám. Byste (plně]
+milovali mě, radovali byste sě jistě, že k otci jdu (t. den
+vstúpenieJ, neb otec věččí mne jest (jelikožto člověka; neb
+otec jest bóh, ale on jelikožto člověk jest stvořenieJ. A již
+řekl sem vám prvé, než sě stane, aby když sě stane, věřili
+(že pravil sem vám, jakožto bóh věda budúcie věci]. Již
+nemnohé věci (t. přěd smrtí) budu mluviti s vámi, neb přiš
+.~ jest knieže [dábel] světa tohoto (lidu zlého] a na mné
+nemá nic (nižádného hřiecha]; ale by poznal svět (lid
+všeho světa], že miluji otcě [chci umřieti, abych naplnil
+proroctvie, vykúpil vyvolené, a dal příklad v poslušenství
+otcěJ. A jakož dal jest mi přikázanie otec, tak činím (káži
+slovo božie a jdu na smrt pro vaše spasenieJ.
+
+Na den svatého Ducha.
+
+233
+
+Dnes jest hod ducha svatého, jenž jest v dařiech jako dnes dán
+apoštolóm a jiným věrným, kteříž sú s nimi byli; i dnes také týž duch
+dán bude mnohým v milosti zvláští, jenž sě hřiechóv kají a ostřiehají a v
+milování božiem prospievají, chovajíce skutečně slovo svého spasitele,
+Jezu Krista. A že v dnešniem čtení jest zmienka o duchu svatém, protož
+to čteme dnes drží na mši cierkev svatá, aby pamatujíc hod ducha
+svatého, jenž jest pravý bóh, hodna byla přijieti jeho dary. A přijme,
+když bude přikázanie plniti, a tak Jezu Krista milovati, jenž počínaje
+čtenie die učedlníkóm svým: "Ač kto miluje mě, řeč mú zachová." A
+dává milostivý spasitel mnohá naučenie svým věrným: najprvé učí je,
+kterak mají znáti, že ho milují; druhé, že jeho řeč pilně zachovati mají;
+třětie ukazuje jim, že duch svatý je tomu naučí; čtvrté, učedlníky těší;
+páté, že jde k otci skrze smrt, a že po smrti brzy k nim přijde, a to učiní
+proto, aby naplnil, co mu jest otec přikázal.
+I k prvému položení die takto: "Ač kto miluje mě, řeč mú zachová," to
+věz, v paměti držě, sladcě rozjímaje, píše ač móž sobě, ale zvláště
+skutkem jie plně. To čtvrté jest jež bóh přikazuje; a tak die spasitel: Ač
+kto miluje mě, řeč mú zachová, věřě a čině, což sem přikázal. Již z toho
+móž poznati člověk, miluje-li Krista; protož die S. Řehoř: Aj by každý z
+vás byl otázán, miluje-li boha? plnú nadějí a bezpečnú myslí odpovie:
+Miluji! a na počátku čtenie slyšeli ste, že pravda die: Ač kto miluje mě,
+řeč mú zachová. Protož dóvod milovánie jest skutkem ukázanie; protož
+v své epištole, I. Janova 2, 4, ten [t. kterýž toto čtenie píše] Jan die, že
+ktož die: Miluji boha, a přikázaní jeho neostřiehá, lhář jest. Neb právě
+boha milujeme, když k jeho přikázaním od svých sě rozkoší zdržujeme;
+neb ktož ještě po neslušných žádostech běží, jistě boha nemiluje, neb
+jemu sě -,- své vóli protiví. To Řehoř. Z té řeči a z Kristovy prvé máš, že
+ktož kolivěk boha miluje, ten všechna jeho přikázanie plní; druhé z
+toho máš, že ktož boha miluje, ten jest vešken zákon boží naplnil tak,
+což jemu slušie k spasení. Protož die S. Pavel k Římeninóm v 13 kap.
+10 v.: Plnost zákona jest milovánie. A že milovánie Kristovo nenie bez
+odplaty, protož ihned die dále
+
+234
+
+Ctenie 30.
+
+Kristus: "A otec mój milovati bude ho, a k němu přídeme a přiebytek u něho učiníme."
+V té řeči trojí odplatu pokládá spasitel svému milovníku, jenž
+přěsáhá všecky odpustky papežské: prvá odplata, že Kristova
+milovníka otec bude milovati, a tak svatá Trojice i všechna
+nebeská říše; druhá odplata, že Kristus s otcem k svému
+milovníku přijde, to věz, zvláští ho milostí navštieví, a tak i duch
+svatý; třětie odplata, že Kristus u toho milovníka s otcem sobě
+přiebytek učiní, to věz, že s ním tak dlúho bude s otcem i s
+duchem svatým přěbývati, kterak dlúho on bude řeč Kristovu
+chovati. O milý člověče! zdát sě malá odplata, když pro zachovánie
+řeči Kristovy Trojice svatá bude tě milovati, k tobě příde a v tobě
+bude milostí přěbývati? Jistě veliká odplata jest tato, mieti v sobě
+tak velikého hosti! Protož die tu S. Řehoř: Važte, bratřie najmilejší!
+kterak veliká jest slavnost, mieti v srdečné hospodě příchod boží
+[to jest, mieti v srdci boha hostí]. Jistě, by v dóm náš který bohatý
+aneb mocný přietel přišel, vší snažností vešken dóm byl by čištěn,
+aby nic nebylo, což by jeho očima sě nelíbilo; protož vyčist
+nečistoty zlého skutka, ktož bohu dóm připravuje myslí. A vizte,
+cot die pravda: "Přijdeme a u něho přiebytek učiníme." Neb v
+některých srdcě přichodí a přiebytka nečiní; neb skrúšením boží
+milost přijímají, ale časem pokušenie toho zapomínají a tak k
+hřiechóm sě navracují, jako by jich nikdy neplakali. Ale ktož boha
+právě miluje a přikázanie jeho ostřiehá, v jeho srdce bóh přichodí
+a v něm přiebytek činí; neb tak ho milovánie božie skrze proráží,
+že od toho milovánie v čas pokušenie neodstúpí. Protož ten právě
+boha miluje, jehož mysli zlá žádost přivolením nepřěmáhá; neb
+tiem viece člověk od nebeského milovánie sě odchyluje, čím viece v
+zemských věcech sě kochá! Protož i ještě sě dále die: "Ktož
+nemiluje mne, řečí mých nechová."
+To vše svatý Řehoř, váže, že veliká slavnost jest, mieti boha
+hostí v srdci, a kterak máme pilni býti, abychom tomu hosti dóm
+duše své čistě připravili, aby přída neodšel od nás svú milostí, ale
+aby ostal s námi na věky. O běda jim, k kterýmž nikdy ten host
+nepříde! jako jsú pohané, židé i děti nekrstěné;
+
+Na den svatého Ducha.
+
+235
+
+běda jim, k nimž kdy přišel jest, a pak odšel, a opět k kterýmž příde, a
+opět konečně otejde! Ale blaze těm, k nimž přída, přiebytek věčný u
+nich učiní! jakož sám die: "K němu přijdeme, a přiebytek u něho
+učiníme." A že obecně lidé klamají sě, řkúce, že milují boha, jakož
+všichni lidé z přirozenie řkú, že milují boha; protož musí ta lež zkažena
+býti. Neb jakož židé, zabivše Krista, mněli sú, by boha milujíce bohu
+tiem poslúžili, a nynější biskupové a kněžie, hrdlujíce ty, jenž slovo
+božie káží, také mnie, by boha milovali; protož Kristus, aby lidé sě v
+tom neklamali, die pravdu, jiež nižádný nemóž zrušiti, že "ač kto miluje
+mě, řeč mú zachová." Neb nenie dosti člověku, uchem tělestným slyšeti
+slovo Kristovo, neb též mohú slyšeti i hovada, i ptáci; ani jest dosti
+mluviti, neb též móž i dábel učiniti; ani dosti jest psáti, učiti, aneb o
+něm mysliti: ale musie sě skutkem naplniti; a to slove zachovánie slova
+božieho, to věz každého přikázanie. Neb nelzě jest zachovati jednoho
+přikázanie božieho bez jiných přikázaní; neb ktož jednoho nedrží,
+nižádného nedrží, a ktož jedno plní, všechna přikázanie plní; neb
+miluje-li boha, tehdy všechna v té milosti plní; pakli boha nemiluje,
+tehdy nižádného neplní. Protož dále die spasitel: "Ktož nemiluje mne,
+řeči mé nechová." A chtě milý spasitel, aby učedlníci věděli, že ktož jeho
+řeč zachová, že otcě boha řeč zachová, protož die dále: "A řeč, kterú ste
+slyšeli, nenie má, ale toho, jenž poslal mě, otcě." Neb poňavadž Kristus
+jest syn boží, tak že má byt od otcě boha, a tak i řeč; protož řeč Kristova
+nenie samého Krista, ale i otcova. Protož ktož Kristovu řeč zachová, ten
+i otcě nebeského řeč zachová; a že což mluví otec, to mluví i duch svatý,
+protož ktož řeč Kristovu zachová, ten i ducha svatého řeč zachová, a
+tak i všie svaté Trojice.
+Dále die spasitel: "Ty věci mluvil sem vám," to věz o milování a o
+zachování řeči mé i otcě mého, "s vámi přěbývaje," to věz jako mistr váš
+a přietel věrný, táhna vás k věčné radosti; "a utěšitel, duch svatý," jenž
+těší kajície a zamúcené, "jehož pošle otec mój ve jmeno mé," to jest ode
+mne a mým jmenem, aby rozuměl, že otec i Kristus, syn boží, poslal
+jest ducha svatého. Tak rozuměj, ne by s nebes duch svatý přišel siem
+na svět, ale že dary ducha svatého dal jest otec bóh, a to zaslúže-
+
+236
+
+Ctenie 30.
+
+ním pána Ježíše; neb on jest zaslúžil, trpěv jelikožto člověk, a jest
+menší než otec i než duch svatý. A že ti darové nejsú toliko od otcě,
+ale i od ducha svatého, protož ihned die Kristus: "Ten vás naučí
+všechny věci," to věz, naučí velmě dobřě, což nynie rozuměti
+nemóžete; neb sě ve čas mútíte pro mú smrt, a strachujete pro'svú, a
+jste hrubí; protož ještě o mém z mrtvých vstání, prvé než příde
+utěšitel, tak zjevně máte ještě býti naučeni, a aby ducha svatého
+přijeli, spósobeni. A pak ten duch svatý "vzpomene vám," to věz
+potom, když ho otec pošle, "všechny věci, kteréž kolivěk poviem vám."
+Tak sě stalo. Protož učedlníci, což sú psali ve čtení, to sú psali
+svatého ducha naučením a vzpomenutím.
+Dále die spasitel: "Pokoj ostavuji vám" u příkladě, aby tak byli
+pokojni, jako já jsem. Ten pokoj držěli sú učedlníci, neb po seslání
+ducha svatého již sú byli učedlníci tiší, nesvárliví; již Petr meče
+nevytrhl, aby ucho komu ufal; již sú sě nevadili, kto by mezi nimi
+první neb věččí byl; ale každý již Krista v pokoji následuje, k smrti bez
+tělestné obrany šel. Nu, apoštolští náměstkové! vizte, máte-li ducha
+svatého, jenž jest duch jednoty, duch pokoje a milosti, tehdy tak jste
+živi jako apoštolé; ale že sě vadíte o dóstojenstvie pro zbožie, a lidi
+mordujete, a rozbroj v křěsťanstvu činíte, protož po skutciech
+ukazujete, že máte ducha zlého, nesvornosti, ducha lakomého, jenž
+jest vrah neb mordéř od počátku. A co jich jest, jenž mají ducha
+smilnosti, dábla, jenž dáví na duši smilníky! Neměli sú apoštolé toho
+ducha, ale ducha pravdy; protož sú měli pokoj Kristóv, že sú ho v
+ctnostech následovali, neb jest jim řekl: "Pokoj ostavuji vám, pokoj
+svój dávám vám, ne jako svět dává, já dávám vám."
+Tu věz, že pokoj světa jest tiché požívánie času, bez přiekazu
+znamenitého od nepřátel; a ten pokoj lidé světští velmě milují, a což sě
+vadie neb tepú, to činie vždy chtiece ten pokoj mieti, i lúpežníci, jenž
+proto lúpie, aby u pokoji bydlo tělestné dobré měli. A ten pokoj obecně
+jest velikými hřiechy zprzněn; neb když lidé nemají od nikudž
+přiekazy, rádi tancují, hodují, smilnie, hrají a jiné hřiechy páší; ale
+když je lúpie, jímají, pudie a tepú, tehdy nemají kdy tak hřěšiti, a co
+sú u pokoji byli boha zapomenuli, spieše na boha vzpomínají, k němu
+volají, aby sě
+
+Na den svatého Ducha.
+
+237
+
+ráčil smilovati. Protož die spasitel: "Pokoj svój," jenž jest utišenie duše
+od hřiecha, "dávám vám." A že toho pokoje svět, to jest lid zlý, nemiluje,
+ani dává, neb toho pokoje zlý lid nemá, protož die Kristus: "ne jako svět
+dává, já dávám vám," to jest: jiný pokoj a jiným úmyslem svět dává
+pokoj, a jiným já; neb svět dává k rozkoši těla, ale já dávám k věčnému
+odpočinutí. "Protož nermuť sě vaše srdce" pro mú smrt, jenž jest
+vykúpenie vaše, "ani sě strachuj" pro svú smrť, a pro puotky budúcie.
+"Slyšeli ste, že já řekl sem vám: Jdu," to věz na smrt, "a přijdu k vám,"
+to věz třětí den. Těch slov výklad Kristus skutkem ukázal. "Byste
+milovali mě" t. plně, a rozuměli, kam já jdu a co učiním dobrého vám,
+"radovali by sě jistě, že k otci jdu," to věz smrtí, na nebe vstúpením
+jelikožto člověk; avšak jelikožto bóh s vámi vždy budu. A proč jde k otci,
+ihned ukazuje, řka: "neb otec věččí mne jest" t. jelikožto člověka; neb
+bóh otec jest stvořitel, ale Kristus, jelikožto člověk, jest stvořenie; ale
+vedlé božstvie nenie věččí otec nežli syn, ale rovné jsú osoby i otec, i
+syn, i duch svatý, i v moci, i v dobrotě, i v znání všech věcí.
+Pak proč tak mluví spasitel, ukazuje řka: "A již řekl sem vám prvé,
+než sě stane," to věz proto, "aby když sě stane, věřili," to věz, že jsem já
+syn boží, pravý bóh, jenž s-em vám pravil budúcie věci. "Již nemnohé
+věci budu mluviti s vámi," t. přěd smrtí; "neb přišlo jest knieže světa
+tohoto," to jest dábel, jenž jest knieže a král nad tiemto světem, t. nad
+zlým lidem, "a na mě nemá nic," t. nižádného hřiecha; "ale aby poznal
+svět," t. lid vešken z světa, "že miluji otcě," t. chci umřieti, abych naplnil
+proroctvie, vykúpil vyvolené a dal příklad v poslušenství otcě. A že
+miluji otcě, drže jeho přikázanie, "jakož dal jest mi otec přikázanie, tak
+činím," káži slovo božie a jdu na smrt pro vaše spasenie, a tak dokazuji,
+že miluji otcě. Tento konec čteme potvrzuje počátka tohoto čtenie. Řekl
+Kristus: "Ač kto miluje mě, řeč mú zachová;" týmž dovodí, že on otcě
+boha miluje, řka: "Jakož dal jest mi otec přikázanie, tak činím."
+Milostivý spasitel položiv zprávu milovánie pravého, i dal jest na sobě
+příklad. Amen.
+
+238
+
+Čtenie 31.
+

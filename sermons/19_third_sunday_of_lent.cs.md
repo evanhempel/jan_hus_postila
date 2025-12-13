@@ -1,0 +1,293 @@
+---
+layout: sermon
+sermon_id: "19"
+lang: cs
+version_name: Czech original
+title: Third Sunday of Lent
+---
+
+NEDĚLE TŘĚTIE U PUOSTĚ.
+Lukáš v 11 kapitole, 14-28 verši.
+
+V ten čas vymieťáše Ježíš dábla, a ten bieše němý
+lže člověka oněmil]; a když vyvrže dábla, mluvil jest
+němý (člověk]. A divili sú sě zástupové (lidé sprostní];
+ale někteří z nich (zákonníci a kněžieJ lekli sú:
+Belzebubem (tiem ďáblem neb jeho mocí], kniežetem
+dáblóv, vymietá dábly. A jiní, pokúšejíce (Ježíše), divu
+Jznamenie neb zázraku] s nebe hledáchu od něho. A
+on jakž uzřě (jako bóh poznal myšlenie jich, řekl jest
+jim: Každé královstvie v sobě rozdělené (nesvorností v
+lidu] zpustie a dóm na dóm padne; a poňavadž Šatan
+(jenž protivník mój jeslJ v sobě rozdělen jest
+(vyhániem-li já ďáblem dábly], kterak stane (po jeho
+voli] královstvie jeho [v lidu, neb zlí lidé jsú královstvie
+dáblovo, jako dobří Kristovo J, že diete Belzebubem
+vymietati mě (t. že vymietám] dábly? A vymietám-li já
+Belzebubem dábly, synové vaši Japoštolé, jenž jsú z
+vašeho pokolenie] kým vymietají? pro tož oni (t. pro to
+rúhánieJ súdcie vaši budú (v súdný den]. Jisté (porro
+neb pakli neb opět] vymietám-li prstem božím (t.
+duchem svatým, die S. Mat. 12 k. 28 v.] dábly, tehdy
+(profecto] přišlo jest mezi vy královstvie božie (t. já,
+jenž jsem hlava královstvie]. Když silný oděnec
+ostřiehá sieni své, u pokoji jsú všecky věci, kteréž má;
+pakli (neb: a když] silnější nad něho (t. silnější než on]
+přijda, přěmóž ho, všecka oděnie jeho odejme, v kteráž
+jest ufal, a lúpeže jeho (kteréž on lúpežem drží] rozdělí.
+Ktož nenie se mnú (láskúJ, proti mně jest (hřiechem,
+jako dábel]; a ktož nesbierá se mnú Iv jednotu láskú],
+rozptyluje (ote mne nesvorností]. Když nečistý (pro
+hřiech] duch [dábel] vy-
+
+Neděle třětie u puostě.
+
+119
+
+jde od člověka (vyhnán jsa pokáním], chodí po
+miestách
+(t.
+srdcích]
+suchých
+(od
+hřieehu
+smrtedlného], hledaje odpočinutie (věčného, by mohl,
+přěbývánie], a nenalezna /pro ducha čistého] die:
+Vrátím sě do domu svého (do hříešníka, jenž jest mój
+pro hřiech], odkud sem vyšel. A když přijde, nalezna
+jej chvoštišti jnebo metlami] vyčištěn a okrášlen, i jde
+a přijímá (assumit neb přijme] jiných sedm duchóv,
+horších sebe (neb než jest on], a vejdúce přěbývají tu
+(v člověku]; a jsú najposIednějšie věci (jakožto čas
+poslednějšie] člověka toho horšie prvnějších (i. hóře
+jemu jest než prvé]. A stalo sě, když ty věci m]uvieše,
+pozdvhši hlasu jedna žena z zástupu, vece jemu:
+Blahoslavené břicho (neb blahoslavený břich], jenž tě
+nosilo (nosil]! a cecíkové, které si ssál! A on vece:
+Ovšem (t. tak jest, jako diešj, blahoslavení, kteříž
+slyšie slovo božie, a ostřiehají ho (plniecej.
+A. Svaté toto čtenie mnoho zavierá v sobě rozumóv; protož najprvé
+vedlé slov chci je k rozumu vyložiti. Toto dábelstvie neb dábel
+slul jest "němý" proto, že byl jest oněmil člověka, jehož jest
+trápil; a jakož S. Mat. 12 k 22 v. die, byl jest i slepý i němý. A
+Kristus vyvrh toho dábla, člověka uzdravil, i zrak i slyšenie
+jemu vrátil. Aniž jest odpora mezi Lukášem, že die jedné: "bieše
+dábel němý," a mezi Matúšem, že die: "byl jest němý i slepý;"
+neb poňavadž jest byl i němý i slepý, tehdyt pravdu die Lukáš,
+že ten ďábel bieše němý, to věz, člověka činil němého. Pak když
+Ježíš vyvrh toho dábla, a němý promluvil, i prozřěl slepý, obec
+sprostná divila sě, a některak sě již přidržěla této pravdy, že
+Kristus jest Mesias, syn Davidóv; ale jsúce svedeni ti druzí z
+obcě, strachovali sú sě. A zákonníci, nemohúce zapřieti toho
+dobrého skutku, jejž sú očitě viděli, potupili řkúce, že zle činí,
+ač jest dobrú věc učinil; neb řekli sú, že by Kristus jako
+čarodějník měl moc pro stovařišenie s dábly, moc Belzebuba,
+toho dábla, jenž jest knieže nad jinými dábly; a tak že by jeho
+mocí dábly vymietal, tak že on přikázal jeho mocí, a dáblové,
+jakož menší, poslúchajíce Belzebuba, kniežete
+
+120
+
+čtenie 17.
+
+svého, vycházěli by z lidí; a tak že by Kristus slúžil a modlil sě
+Belzebubovi, aby on to svú mocí činil. Ale druzí majíce, že s
+nebe ta moc jest sě stala, že on ďábla vyvrhl, žádali sú divu s
+nebe, aby jim toho dovedl, že je to učinil boží mocí; a pán Ježíš
+vida z kořen myšlenie zlého kněžstva a zákonníkóv, položil jest
+pět dóvodóv proti jich bludnému myšlení.
+B.
+
+A pro tyto reptáky znamenaj, že za času Kristova byli sú od
+dáblóv trápeni mnozí a poraženi. A vědúce dáblové, že Mesias
+Kristus měl sě z toho pokolenie uroditi a přijíti, a bojiece sě, by
+Kristus nebyl ten, popudili sú mistróv, kněží a zákonníkóv, aby
+zle Kristovy skutky vykládali, a tak aby lidé na něho netbali, a
+jeho divy jako zlého čarodějníka zamietali. Protož řekli sú:
+"Belzebubem, kniežetem dáblóv, vymietá dábly!" A že by tak
+bylo, jako oni pravie, tehdy by moc ďáblova sama sě zkazila;
+protož aby toho Kristus dovedl, dává zjevný příklad, řka: "Každé
+královstvie v sobě rozdělené opustie, a dóm na dóm padne." Neb
+má-li královstvie státi dobřě, musí to býti, aby strany lidí jedné
+vóle byly, a tak aby jedna druhé nekazila. Pakli jedna boří
+druhú, tehdy nestane to dobřě královstvie; neb obě sě straně
+zkazíta, aneb jedna bude zkažena, a tak královstvie v jedné
+straně opustie. A Kristus die, že z kořen bude zkaženo a
+opustie: jakož vědomo jest o království dáblóv, jichž královstvie
+mocí Kristovú a posilením cierkvi svaté jest zkaženo. A dóm na
+dóm padá, když moc věččie tiskne nižší z pyšné závisti: jakož
+jest o dáblech, jenž vždy jsú sobě protivni. A poňavadž Kristus v
+ten čas uzdravoval jest tak mnoho od dáblóv poražené ne mocí
+Belzebubovú, tehdy musili sú toho v pravdě pojčiti, že poňavadž
+tak sě ruší dáblovo královstvie, že již jest přišel ten Mesias, to
+věz Kristus, jenž má nad ďábly moc, aby je vyháněl; a že
+nevyhánie mocí Šatanovú, neb by sám své králevstvie rušil.
+Druhý dóvod Kristóv, jímž treskce zákonníky, jest tento:
+"Vymietám-li já Belzebubem dábly, synové vaši kým vymietají?"
+To jest: jestl-li tak, tehdy já jsem člověk hřiešný, čarodějník
+nevěrný; a synové vaši, jenž jsú moji učedlníci, z vašeho
+pokolenie, vymietají ďábly ve jmeno mé. Protož oni budú
+
+Neděle třětie u puostě.
+
+121
+
+súdcie vaši v súdný den, súdiece, že mú mocí, jenž jest nade
+všechny dábly, sú vymietali, a že ste vy mně sě křivě rúhali.
+Třětí dóvod Kristóv jest tento: "Opět vymietám-li prstem božím
+ďábly," to jest duchem svatým, "tehdy přišlo mezi vás králevstvie
+božie," to jest syn boží, jenž jest hlava cierkvi svaté a králevstvie
+božie.
+Čtvrtý dóvod: "Když silný oděnec ostřiehá -sieni své, u pokoji
+c, jsú všecky věci, kteréž má." Jako dábel, silný oděnec, měl jest toho
+člověka němého, a silnější oděnec, Kristus, přišed na ďábla, otjal
+jemu moc a oděnie jeho i sieň; protož moc Kristova jest nad moc
+satanovu i Belzebubovu. A věz, že ďábel jest silný; neb die Job v 41
+k. 24 v.: Nenie moc v zemi, která by mohla sě jemu přirovnati. A mát
+také oděnie, to věz chytrosti přirozené, jimiž umie lid svésti; a sieň
+jeho neb dóm jest člověk biedný, v kterémž on přěbývá. A silnější
+nad něho jest Kristus, jenž oděnie jeho, to věz chytrosti, jemu otjal,
+když jest v trojiem pokušení jeho přěmohl, jako v 4 k. 1-11 v. S.
+Mat., a řečeno jest prvú neděli postu. A lúpež jeho Kristus svým
+údóm rozdává, když moc a ctnosti cierkvi svaté vracuje, kteréž jest
+byl ďábel otjal.
+Pátý dóvod Kristóv: "Ktož nenie se mnú, proti mně jest; a ktož
+nesbierá se mnú, rozptyluje." Tu dovodí, že mocí dáblovú nevymietá,
+proto že on a ďábel jsta sobě protivná, proto že Kristus jest dobrý a
+ďábel zlý, a že Kristus v jednotu lásky lidi vede, ale on rozděluje
+skrze hřiechy. K_terakž tehdy ďábel své moci by jemu pojčil? nikoli,
+neb by sám sě hubil. Aj těmi dóvody ukázal jest Kristus, že ne
+Belzebubovú, ale svú mocí ďábly vymietá.
+Dále die Kristus: "Když nečistý duch," to věz dábel hřiechem
+D. zprzněný, "vyjde od člověka." Tu skrze člověka miení Kristus
+lidské pokolenie, k němuž dábel najprvé v Adamovi s Evú při
+stúpil, a od toho času vždy jest byl pilen, aby uškodil. A vida,
+že svatých otcóv nemóž u vieřě a v ctnostech přěmoci, vyšel
+jest od toho pokolenie mezi pohany, jichž srdce byla sú suchá,
+nemajíce mokrosti, múdrosti, a milosti božie; a hledaje v nich
+odpočinutie, nemoha naleznúti, neb sě nemóž nikdež upokojiti,
+
+122
+
+Čtenie 13,
+
+i z své přivyklé zlosti die sám k sobě: "Vrátím sě do domu svého, z něhož sem vyšel!" to jest: vrátím sě do pokolenie židovského, z něhož mním, že sě Mesias urodí. A přišed za času židóv, i nalezl jě, ani jsú dóm prázdný od zachovánie zákona, a
+vyčištěný chvoštištěmi, to jest, svrchu zevnitř ustaveními jich
+okrášlený; neb sú měli ustavenie mnohá, aby zevnitř bylo
+všecko čisto, ale vnitř bylo vše nečisto a prázdno od milosti
+božie. Protož die S. Mat. v 12 k. 44-45 v.: Nalezne dóm prázdný, a jde i přijme z své chytrosti sedm duchóv horších sebe, to
+věz sedm úhlavních hřiechóv, jenž jsú tito: pýcha, lakomstvie,
+smilstvie, lakota, závist, hněv a lenost. A ti duchové, to věz ti
+zlého ducha hřiechové, jsú horší nežli který d'ábel; neb ďábel
+jelikožto duch, ten jest božie dobré stvořenie, ale jest zlý pro
+tyto hřiechy. A tak ti duchové zlí, vejdúce v toho člověka, jenž
+jest židovské pokolenie, přěbývají v něm hojnějie, ustavičnějie a
+obyčejnějie nežli v jiném pokolení; neb pohané v tu dobu byli
+sú méně vzěli daróv, nežli židé, protož méně sú byli hřiešní. A
+protož na znamenie tomu viece dáblóv pro věččí zlost bylo v tu
+dobu s židy, než s pohany. Mnoho jest bylo židóv a židovek, v
+nichž sú byli dáblové; a kněžie, jenž sú byli prvé v tom pokolení
+světější nad jiné, již za Krista byli sú mezi lidem najhorší.
+Protož v tom pokolení toho člověka najposlednější čas jest
+horší, než první časové; neb sú již syna božieho cYábelníkem
+nazvali a ukrutnú smrtí zamordovali, a tu jest dokonal sě vrch
+jich zlosti.
+E. A tak Kristus tú řečí mienil jest, že duch zlý byl jest od těch
+zákonníkóv pokolenie [t. od svatých otcóv] prvé odšel k pohanám, ale že již k nim sě navrátil; a tak že oni jsú ten člověk,
+zevnitř přěd lidem dóm ustavením jich umeten, ale vnitř všeho
+dobrého prázden; a že oni jsú již horší, než sú kdy přěd nimi
+byli. A též podobně móž býti rozumieno i o křěstanech: že dábel od prvních křestanóv byl jest odšel, nemaje také moci nad
+nimi, neb sú byli dobří, ale již k skonání světa navrátil sě
+zasě, že již křěstané jsú velmě zlí: proto že čím sú daróv viece
+vzěli, a nechtie jich právě požívati, tiem viece svú zlost
+ukazují,'Protož die S. Petr, 2 Pet. 2, 21: Lépe jim bylo cěsty
+pravdy nepoznati. A že kněžie Kristova zákona viece sú daróv
+vzěli, než
+
+Neděle třětie u puostě.
+
+123
+
+kněžie starého zákona, protož pro nevděčnost jsú horší. A tak
+jakož v starém zákoně byli sú prví kněžie světí velicí, a vždy sě
+ujímalo v potomciech dobroty, až sú poslední byli najhorší, že sú
+Krista zamordovali: též v novém zákoně první kněžie apoštolové
+byli sú dobří, a potom jiní méně dobří, a pak k skonání světa již
+kněžie jsú najhorší. A jakož oni pudili sú Krista až do smrti, tak
+tito budú puditi jeho zákon a jeho věrné až do smrti, ač jsú z
+téhož zákona s jinými, jakož i oni byli sú z téhož zákona s
+pánem Kristem.
+"A stalo sě jest, když ty věci mluvieše, povzdvihši hlasu," aby
+lépe byla slyšána v chvále Kristově proti rúhavým kněžím a
+zákonníkóm, "jedna žena," bóh ji zná, "z zástupu" hlasu povzdvihla, aby jedna mnohých kněží blud potupila, "řekla jemu:
+Blahoslavené břicho, jenž tě nosilo, a cecíkové, které si ssál!" Tú
+řečí i Krista i jeho matku vzvelebila, a zákonníky rúhavé potupila.
+Směle učinila, sama jim v hrdlo jich lež vrazila, jenž sú řekli:
+"Belzebubem, kniežetem dáblóv, ďábly vymietá!" O ženo! kde's tu
+smělost vzala, že mezi tak mnohými nepřátely Kristovými tak řéci
+sě nebála, a prelátóv svých si sě nestyděla? i kde's tu múdrost
+ohmatala, že si i matky i syna velice pochválila, a kacieřě si
+potom budúcie s těmi židovskými ruhači potupila? Jistě veliké
+viery, múdrosti i smělosti ten tobě .pojčil, jenž jest tvé řeči
+potvrdil, řka: "Ovšem," to věz, tak jest, jako dieš; ale netoliko tak
+jest, že bych já byl blahoslavený, a břicho, jenž mě nosilo, a
+cecíkové neb prsy, kteréž sem ssál: "ale blahoslavení ti, kteříž
+slyšie slovo božie" ušima tělestnýma neb vnitřníma "a
+zachovávají," plniece je skutkem. A tak zasě zlořečení, kteříž
+slyšiece mě, a vidúce mé skutky, a já ďábly vymietám, i
+nepřijímají, ale mým řečem nevěřiece, i mně sě rúhají.
+Pak již vedlé čtenie znamenám, že pán Ježíš ďábla jest z člověka vyvrhl, sluch a zrak jemu navrátil, a tak nad jedniem člověkem tři divné věci učinil, a čtvrtý, že myšlenie zlá v zákonníciech seznal: tiem jest ukázal, že jest pravý bóh, jemuž sú sě
+kněžie rúhali. Týž div i dnešní den duchovně Kristus činí, když z
+člověka dábla vymietá, jenž ho oněmil, aby hřiechóv sě nezpoviedal a boha nechválil, a oslepil, aby k nebeským věcem
+
+124
+
+Čtenie 17.
+
+pilně nepatřil; a tehdy z něho vymietá, když jemu svú milost dada,
+učiní, aby mluvil pravdu a boha chválil, a prozřěl a poznal spasitele
+svého. A má taký člověk pomněti, že když Krisstus vyvrže z něho
+dábla, jenž v něm smrtedlným hřiechem přěbývá, že vpustí-li potom
+zasě d'ábla, že bude jemu mnoho hóře než prvé; neb die Kristus, že
+"pojme s sebú duch nečistý sedm jiných duchóv, horších sebe, a
+bude přěbývati v něm, a bude poslé hóře jemu než prvé." Hóře, že
+mnoho těžší hřiech bude než prvé, pro nevděčnost dobroděnstvie
+božieho. Protož spasitel milostivý, uzdraviv jednoho, řekl jest jemu,
+Jan v 5 k. 14 v.: Aj uzdraven jsi, již viece neroď hřešiti, at sě hóře
+nepřihodí) Neb tomu, ktož sě v hřiechy navracuje, tyto sě věci
+přiházějí: Prvé, nevděčnost milosti božie. Druhé, v duchovniem
+životě zemdlenie. Třětie, slibu přěstúpenie. Čtvrté, od boha
+vzdálenie; neb taký člověk navrátě sě v hřiech, boha od sebe
+odžene, že v něm nepřěbývá milostí, a dává miesto zlému duchu s
+sedmi duchy horšími, že přěbývají v jeho duši. Páté, posmievánie
+božieho milosrdenstvie. Šesté, syna božieho druhé křižovánie; neb
+die S. Pavel k židóm v 6 kapitole 6 verši, že ti, kteříž v hřiechy sě,
+smrtedlné rozuměj, navracují, že druhé syna božieho křižují a v
+posměch mají.
+Protož velmě jest potřěbie každému křěstanu, aby pilně sě pádu v
+hřiech varoval; jakož sú činili světí, kteříž sú z pohanstva a z
+židovstva u pokánie přišli, že potom sú v hřiechy sě nevracovali. A
+blaze jemu, kterýž tak pokánie drží, jakož je Kristus vydal, aby jsa
+uzdraven na duši, zasě sě nenavrátil; a běda jim, kteříž jsú podobni
+psóm a sviniem, jakož die S. Řehoř, že vyvrhúce ven, zasě berú, a
+umyjíce sě, opět u bláto sě uvalují! Nebožátka druzí mnie, by bylo s
+bohem jako s krčmářkú, u niež propije v počet i zaplatí, a potom na
+jiný dluh pie opilec: též že by, povědúce knězi a spějíce páteřóv
+několiko, že by již toho byli prázdni, a opět též aby zasě hřěšili. A
+mají věděti, že pán bóh hřiechu neodpustí, jeliž úmysl plný člověk
+bude mieti, aby viece nehřěšil, tak že by v naději radějie umřěl, než
+by smrtedlně shřěšil; a když bude mieti tak velikú žalost, že jest
+hřěšil, že viece toho bude želeti, než by všecko zbožie, i přátely, i což
+
+Nedéle třětie u puostě.
+
+125
+
+má ztratě, těch věcí želel. Ta dva kusy zpravíta člověka, má-li pravé na
+hřiechy želenie, jenž slove skrúšenie. Jehož rač nám dopomoci konečně
+milostivý Ježíš, pro nás smrtí ukrutnú umučený!
+
+126
+
+čtenie 18.
+

@@ -1,0 +1,507 @@
+---
+layout: sermon
+sermon_id: "36"
+lang: cs
+version_name: Czech original
+title: First Sunday After Holy Trinity
+---
+
+NEDĚLE PRVA PO SVATĚ TROJICI.
+S. Lukáš v 16 kapitole, 19-31 verši.
+
+V ten čas ř. J. u. s. podobenstvie toto: Člověk jeden
+bleše bohatý a obláčieše sě v zlatohlav [ku pýše] a v
+bielé plátno (k rozkoši], a hodováše každý den stkvostně
+(a tak hojné a pyšně]. A bleše jeden žebrák, jmenem
+Lazar, jenž ležieše u vrat jeho, nežitóv plný, žádaje
+nasycen býti drobtóv, jenž padáchu s stolu bohatcě, a
+nižádný jemu nedáváte; ale i psi plichodiechu a lizáchu
+nežitý jeho. I stalo sé, že umře žebrák a nesen bleše od
+angelóv do lóna Abramahova; a umřěl jest i bohatec, a
+pohřěben jest v pekle. A vzdvih oči svoji, když bleše v
+mukách, uzřél jest Abrahama z daleka, a Lazara v lónu
+jeho; i on volaje vece: Otče Abrahame! smiluj sě nade
+mnú, a pošli Lazara. ať omočí konec prsta svého u vodu
+a svlaží jazyk mój, nebť mučím sé v tomto plameni. I
+vece jemu Abraham: Synu! nezapomeň sě, že vzal si
+dobré za svého života, a Lazar takéž zlé; ale již on veselí
+sě, a ty mučíš sé. A mezi těmi všemi věcmi, mezi námi a
+mezi vámi cíl veliký utvrzen jest, že ti, kteříž chtie odsud
+jíti k vám, nemohú, ani od onud sěm přijíti. I vece:
+Tehdy, otče! prosím tebe, aby poslal ho do domu otcě
+mého; nebť mám pět bratří, ať svědčí jim, aby i oni
+nepřišli v toto miesto muk. I vece jemu Abraham: Majíť
+Mojžieše a proroky, nechť poslúchají jich. A on vece: Nic,
+otče Abrahame! ale ač kto z mrtvých pojde k nim,
+pokánie činiti budú. 1 vece jemu: Poňavadž Mojžieše a
+prorokóv neuposlúchají, ani ač kto z mrtvých vstane,
+uvěřie jemu.
+A. Svatú řeč tuto proč jest mluvil milosrdný spasitel, ukazuje svatý
+Lukáš; neb když jest kázal proti lakomství spasitel chudý, řka,
+Lukáš, 16, 13-15: "Nižádný sluha nemóž slúžiti dvěma
+pánoma, nemóžte slúžiti bohu a zboží;" tehdy uslyševše to kněžie
+a zákonníci, kteříž sú byli lakomí, posmievali sě jemu. Tehdy řekl
+jest jim: "Vy jste, jenž spravedlivy sě činíte přěd lidmi, ale bóhť zná
+srdce vaše." A že sú byli pyšní, protož řekl
+
+264
+
+Ctenie 34.
+
+jest jim: "Což lidem vysoké jest," to věz vzácné, "ohavnost jest přěd
+bohem." A ihned toho dokázal na bohatci, jenž jest byl vzácný a
+vysoký přěd lidmi, a ohavný přěd bohem; a zasě Lazar byl jest
+zavržený přěd lidmi, a vzácný přěd bohem. I dal jest na příklad
+milostivý spasitel ta dva člověky, jako dvě zrcadle, aby bohatí,
+majíce přěd očima bohatcě pohřebeného v pekle, varovali sě pýchy,
+rozkoši a lakomstvie, těch tří hřiechóv, kteréž měl jest ten bohatec;
+a chudí, hlediece k Lazarovi, aby měli utěšenie, a v pokořě mile
+trpěli biedu těla a v světé zavrženie.
+B. Dva řebřie nám přěd vnitřní oči postavil Kristus: jeden, jímž
+vstupují v lóno Abrahamovo, a ten jest Lazaróv; druhý, jímž
+sstupují do pekla, a ten jest bohatcóv. Řebří Lazaróv z pokory a
+trpělivosti jest udělán, láskú sevřien; protož třěba nám patřiti, po
+kterém řěbří chceme lézti, neb bez pochybenie vždy některým tiem
+řěbřím každý z nás leze, a to pozná, když aneb k Lazarovi, aneb k
+bohatci přijde. A že bohatí zde na světě mají prvé miesto, protož
+vedlé jich obyčeje mistr náš, Ježíš, dává
+C. jemu ve čtení miesto prvé, řka: "Člověk jeden bieše bohatý,"
+nejmenuje ho, neb jest nebyl připsán k dvoru jeho; ale Lazara
+jmenuje, jako připsaného. Protož die svatý Jan zlatoústý: Viz
+milosrdenstvie božie! Lazar chudý, že jest byl svatý, jmenován jest;
+ale tento bohatý a pyšný jmena nebyl jest hoden. To by měli
+znamenati ti, kteříž z pýchy žádají své jméno v světě oznámiti
+mnohým; neb čímž je viece z pýchy velebie, tiem je viece přěd
+bohem tupie. Protož die písmo, Prov. 10, 7: Jmeno zlých shnie. Aj
+tomuto bohatci shnilo jest přěd bohem, že nechtěl ho jmenovati,
+aby naplnil, co jest řekl skrze Davida, Žalm 16, 4: Nebudu pamětliv
+jmen jich skrze rty mé. A tak bohatec tento, jenž jest imeno své
+velebil přěd lidmi, ztratil jest je přěd bohem. Proč? Proto že byl
+bohatým, jistě nic; ale proto že byl pyšný, rozkošný a nemilosrdný.
+Slyš co die pravda, že "obláčieše sě v zlatohlav," to ku pýše; a "v
+bielé plátno," to k rozkoši měkkosti, "a hodováše každý denn
+stkvostně," to k rozkoší břicha, a Lazarovi nic nedáváše, toť
+nemilosrdenstvie.
+D. Tu věz, že položil sem "zlatohlav," latině stojí purpura, jenž, jako die
+svatý Beda, jest rúcho barvěné rybí krví; a ta barva
+
+Neděle prvá po svaté Trojici.
+
+265
+
+neslušie na jiného jedné na krále, a jest velmě spósobná barva, a
+šlechtí rúcho. A že v Čechách nebývá, neumieme ho právě
+jmenovati; protož položil sem zlatohlav, že na nich na bohatých zde
+vídáme za najlepšie rúcho. A protož položil sem "bielé plátno," latině
+stojí bissus, a to, jakož die svatý Beda, jest plátno velmě ušlechtilé,
+bielé a tenké; a jinde neroste len k tomu plátnu jedné v Egyptě, a
+tak my ho česky neumieme jmenovati, ani Němci, ani Latinníci;
+proto tě dvě slově, purpura a bissus, jsta hostinně v latině. A pán
+Ježíš pověděl jest o bohatci, jakož tam jest v těch vlastech to rúcho,
+a jest s lehka lacinějšie purpura tam, než zde Levské, a to plátno
+lacinějšie, než zde plátno podbělné. Protož nemají výmluvy bohatci a
+bohaticě, řkúce, že nechodie v té purpuřě a v bissu; neb ač v tom
+nechodie, ale chodie v dražšiem zde, než jest ono tam; neb sobolový,
+kuní, hranostajový, běliznový kožich ještě bez sukna jest dražší než
+purpura tam, a čechlík, prostěradlo, košile a šlojieř bělný, bavlnný
+neb hedvábný viece zde platí, než tam bissus. A ještě najhoršie nad
+tohoto kochánka bohatce, zle sě odievají nynie lidé, že z dalekých
+vlastí toho dobývají, a dobudúce těžcě a drazě, pak šeředně, marně,
+a sobě škodlivě stříhají. I kterak ti nehřěšie tieže než tento bohatec v
+pekle pohřěbený, jenž chodil jest v tom rúšě, aby jiné přěsáhl, od
+jiných chválen byl, a jim vzácen a odiven, a druhé aby pyšným
+rúchem ustrašil, aby sě ho báli? a plátno, to rozkošné nosil jest k
+tělestné rozkoši, jako i nynie nosie košilky a čechlíky. A již rubáši
+skoro i u sedlek budú vypovědieni, ano každý chce choditi v drahém, v krásném a v pěkném a rozkošném rúše, a nechce znamenati,
+že bohatec, jenž sě odieval drahým rúchem, jest pohřeben v pekle.
+Tu die S. Řehoř, že jsú mnozí, kteříž pilnosti drahého rúcha a
+tenkého za hřiech nemají; ale by hřiech nebyl, nikoli by slovo božie
+tak pilně neřeklo, že bohatec, jenž obláčieše sě v zlatohlav a v bielé
+plátno, u pekle sě mučieše. Neb nižádný rúcha drahého nehledá,
+jedné k marné chvále, to jest, aby poctivější nad jiné vidien byl; a že
+pro samu marnú chválu drahého rúcha lidé pilni jsú, tiem sě
+dovodí, že nižádný nechce tu v rúcho drahé býti oblečen, kdež by od
+lidí nebyl vidien To S. Řehoř, a věrně pravdu die, neb poňavadž
+rúcho má býti
+
+266
+
+Čtenie 34.
+
+člověku, aby zimu zahnal a hanbu přikryl, a také aby v posměch
+lidu nebyl, vytrhna sě přielišnú potvorností neb odraností rubóv.
+Ale toho nebrzo sě kto ve čas dobrovolně dopustí!
+E. Dále die Kristus: "A hodováše každý den stkvostně." Tu ukazuje
+Kristus, že bohatec tento hřěšil jest lakotú; protož ostalo jemu
+znamenitě to jmeno bohatec, kochánek neb hodoválek. Tu věz, že
+lakotú hřěšie lidé paterým obyčejem: Prvé,
+když kto bez hodné příčiny jie, nedočakaje času řádně ustaveného; jako Jonata byl jest od otcě na smrt odsúzen, že nedočakav
+času ustaveného, medu jest okusil, 1 Reg. 14, 43-44. Druhé,
+když kto rozkošně sě krmí, jako tento bohatec. Třětie, když
+přěbierá potřěbu, jeda viece neb pije, než jest potřěbie tělu k
+živení; jako jest učinil Olofernes, jenž sě byl opil viece než kdy
+jindy, i požil jest toho, že jemu Judit, ta žena, hlavu sřězala, Jud.
+12, 20, a Judit 13, 8. Čtvrté, když jie kvapně neb pie, jako pes
+neb svině; jako jest učinil Esau, jenž jest dal svój prvorodní
+statek za chléb a za krúpy, chvátaje, aby sě kvapně najedl, I.
+Mojžíšova 25, 34. Páté, když jie kto přieliš pilně, tak že myslí o to
+velmě, které by krmě jedl, kterak by je připravil, a kterak by jich
+dobyl; a tak synové Eli knězě činivše, sú zmordováni, I.
+Samuelova 2, 12-17 a 4, 11. A chutně mohu řéci, že my kněžie
+těmi kusy obecně v lakotě nad jiné lidi hřěšíme; neb i póst
+smělejie než jiné rušíme, i rozkošně sě krmíme, i do říhánie jieme
+a pieme přielišně, i kvapnějie než jiní jieme, i divné krmě nad jiné
+vymýšléme, a pohřiechu! najviece hodujeme, a tak majíce býti
+najsmiernější v jedení a v pití, jsme najneskrovnější. O že
+nepomníme onoho slova spasitele svého, jenž jest zvláště kněžím
+řekl v 21 k. 34 v. S. Lukáše: Pilni buďte, aby srdce vaše nebyla
+obtiežena od obžerstvie a od opilstvie, a od péče tohoto života, at
+nepříde na vás náhlý den onen, to věz súdný.
+Aj již tento bohatec čije odsúzenie proto, že jest jedl každý
+den stkvostně, to jest přípravně a rozkošně, ale na chudého
+netbal; protož třětí hřiech, nemilosrdenstvie, do sebe měl. Pro
+F. tož die S. Řehoř: Tento bohatec ne proto, by cizie bral, tresktán
+jest, ale že svého nedával; ani také, by koho násilím potlačil,
+ale že dary od boha danými sě chlubil. Protož z toho máme
+
+Neděle prvá po svaté Trojici.
+
+267
+
+velmě pilně vybrati, kterú pomstu má ten trpěti, ktož cizie béře,
+poňavadž pekelné zatracenie trpí, ktož svého nedává. Protož
+nižádný sě jist nepokládej, řka: Aj, cizieho neberu, ale pojčeného
+hodně požívám! neb bohatec tento ne proto, by cizie bral, mučen
+jest, ale že vzem dané věci, sám sě zle opustil. A to jest bylo, že
+ho peklu dalo, že v svém zčestí nadutý jest byl, a dané dary k
+pýše jest obrátil, a milosrdenstvie jest nepomněl, a hřiec, ióv
+svých, maje čím odbyti, neodbyl. To S. Řehoř.
+~ Nu již's slyšal stav tohoto světa, jejž jest měl bohatec; již slyš
+stav chudého Lazara. O němž die spasitel: "A bieše jeden žebrák,
+jmenem Lazar," a tak dále. Tú řečí věrný a dobrý múdrý řečník
+Kristus chudého, obtěžuje hřiech bohatcě. Neb řekl-li by bohatec:
+Mnoho jest bylo chudých, nemohl sem všem dátil die Kristus:
+"Bieše jeden." Řekl-li by: Byl jest bohatý; die: "Bieše chudý." Řeklli by: Neznal sem ho; die Kristus: "Lazar jmenem." Řekl-li by:
+Mohl jest dělati, a vyběhati sobě; die Kristus: "Ležieše." Řekl-li by:
+Neviděl sem, kde jest ležel; die Kristus: "U vrat jeho" neb tvých.
+Řekl-li by bohatec: Činil sě nemocný, ale nebyl jest; die Kristus:
+"Nežitóv pln." Řekl-li by: Nežádal jest; die Kristus: "Žádaje
+nasycen býti." Řekl-li by: Chtěl jest penieze mieti, neb lahodné
+krmě; die Kristus, že jest žádal "drobtóv, jenž padáchu s stolu
+bohatcě." Řekl-li by: Čeleď má jemu dávala; die Kristus: "A
+nižádný jemu nedáváše," neb snad nesměli sú, aneb proto, že
+nemilosrdný bohatec mievá obecně nemilosrdné sluhy. Protož
+jest příslovie, že jakýž pán, takýž i sluha. A tak již máš vypsán od
+Krista stav žebráka Lazara, aby jeho viece odplata byla z jeho
+života biedného, jejž jest mile trpěl, oznámena, a bohatcě vina
+jiným, pro niž jest zatracen, ukázána.
+G.
+Dále die Kristus: "Ale i psi přichodiechu a lízáchu nežity
+`jeho." Die S. Jan zlatoústý: Ty nežity, jichž nižádný člověk
+nechtěl sě dotknúti a umyti, psi tiší líží! Opět die: O biedný! ač
+božieho přikázenie neznamenáš, ale smiluj sě nad svým přirozením, a boj sě, aby takýmž nebyl. Tu věz, že bohatec viece jest
+miloval psy, než Lazara, blížnieho svého. Dóvod toho jest, že
+psóm jest dával jiesti, poňavadž jest je choval, a Lazarovi ani
+drobtóv dával. V témž hřieše jest mnoho bohatcóv nyněj-
+
+268
+
+Čtenie 34.
+
+ších, kniežat, pánóv, rytieřóv, vládyk i měštěnínóv i měštěk,
+jenž chlupáčky a masojiedky k ničemuž neúžitečné chovají,
+myjí je, češi, do lázní nosie, maso jim zvláště vařie i kupují,
+ale chudému i taléře nedadie! A co jest biskupóv, opatóv,
+kanovníkóv i farářóv, jenž chudých statek, jímž vládnú, na
+psy nakládají, a tu almužnu, kterúž mají chudí lazarové
+jiesti, jedie jich psi tuční, chrtie, vyžlata a ohaři, a také tisty,
+kurvy neb ženimy~!i
+Dáleáie Kristus: "I stalo sě, že umřě žebrák, a nesen bieše
+od angelóv do lóna Abrahamova; a umřěl jest i bohatec, a
+pohřěben jest v pekle." Prvé spasitel ukázal jest rozdiel
+bohatcě a chudého Lazara v životě přěd smrtí; již ukazuje,
+kterak sě rozdielně máta po smrti. A již napřěd pokládá
+chudého, a nazad bohatého, aby ukáz l, že jinak na onom
+světě bohatcě zlé ctie, a jinak chudé dobré. I die spasitel: "I
+stalo sě, že umře žebrák." Nedie: umře Lazar, neb Lazar
+tepruv počal jest právě slavně živ býti; ale die: umře žebrák,
+proto, neb žebráctvie a bieda s psotú, ta jest na Lazaru
+pominula. "A nesen bieše od
+H. angelóv do lóna Abrahamova," to věz, duše jeho nesena jest v
+miesto otcóv svatých, v němž sú světí přěd vtělením syna
+božieho svými dušemi přěbývali.
+Tu dobří chudí mají mieti utěšenie, že nenesú-li jich těl k
+hrobu pyšně, ale nesú je angelé k bohu slavně. Tu die S. Jan
+zlatoústý: Tak veliká trpenie brzcě sě v rozkoši proměnila,
+aby nesen byl od angelóv; aby jda neustal, nesen jest po
+práci, nesen byl od angelóv; nebylo dosti chudému na jednom
+angelu, ale viece jich přišlo, aby sbor k zpievání veselému
+učinili, aby ho nesli. Raduje sě každý angel tak velikého
+břěmene chopiti, rádi takými břěmeny jsú obtieženi, aby
+přivodili lidi do královstvie nebeského. I veden jest i nesen
+jest v lóno Abrahamovo, ne podlé Abrahama, ale v lóno
+Abrahamovo, aby sě ho dotýkal, aby ho krmil, aby ho
+najmilosrdnější otec držěl v svém lónu, a vlažil nebo krmil. To
+vše zlatá ústa. A věz, že miesto, v něž jest nesen Lazar, slove
+zvláště "Abrahamovo lóno," jakož die S. Augustin, ne proto,
+by jedné Abrahamovo bylo, ale proto, že on jest otec mnohých
+lidí, jimž jest na příklad položen, aby ho u vieřě následovali.
+Také proto slove lóno Abrahamovo, že
+
+Neděle prvá po svaté Trojici.
+
+269
+
+on byl jest velmě hospodářný pocěstným, a rád je pro boha
+přijímal; protož aby bohatec nehospodářný a nemilosrdný svój
+viece hřiech shledal, to miesto slulo jest lóno Abrahamovo. Ale
+již lóno Abrahamovo slove tajemné odpočinutie u otcě v radosti
+nebeské, jakož die S. Řehoř: Co Abrahamovo lóno? jedné
+tajemné odpočinutie otcovo znamená. O němž pravda die, Matouš 8, 11-12: Přijdú mnozí od vzchod sluncě a od západu, a
+odpočinú s Abraham, a s Izákem a s Jakobem; ale synové králevstvie budú vyvrženi v temnosti zevnitřnie.
+I. Vále die Kristus: "A umřěl jest i bohatec a pohřeben jest v
+pekle." Tělo červóm, zbažie přátelóm a duše čertóm sě dostala;
+a tak duší bohatec, umřěv na těle, pohřěben jest v pekle. I co
+to slyším, že umřěl bohatec? Milý spasiteli! tobět věřím, že
+umřěl jest bohatec. Ale kterak jest to, že sě nevykúpil zbožím?
+neb neodhrozil smrti? aneb lékaři sobě nepomohl? Oj divná
+věc, že umřěl jest bohatec! I kde sú ho položili? milý Kristel a
+kto sú ho nesli? Dieš, že pohřeben jest v pekle. Tobět věřím,
+K. ačt bohatci druzí mnie, by pekla nebylo. Umřěl jest bohatec.
+Kterú smrtí? jistě trojí: prvú na těle, jakož i chudí mrú; neb ta
+smrt rovně dělí: ani šarlatu, ani šeři, všem rovně odměříl ta
+pána s sluhú, a královú berlu i papežovú v hrobě položí s
+motykú. Necht v kostnici rozeznají, které papežovy, královy a
+sedlákovy jsú kosti! Bohatci a Lazarovi ta smrt rovně odměřila.
+Druhú smrtí umřěl zde na duši, než jest ji z těla pustil; neb
+jest ji byl rozkoší tělestnú umořil. A tú smrtí mnoho jest nynie
+lidí zemřělo, ač jsú na těle živi. O té smrti die S. Pavel 1 Tim. 5,
+6, že vdova, v rozkoši jsúc živa, mrtva jest; živa jsúc t. na těle,
+mrtva jest t. na duši. Daj pán bóh, aby z té smrti mnozí vstali,
+a byli obživúce v duši osvieceni! Třětí smrtí umřěl bohatec, jenž
+jest odlúčenie od radosti věčné. O té die David Žalm 34, 22:
+Smrt hřiešníkóv najhoršie. Milý Kriste! rač nás té smrti zbaviti,
+nebt hrozné jest slovo tvé, že "umřěl jest bohatec a pohřeben
+jest v pekle! I kto ho tam tak brzy donesl? kto pohrabal v pekle
+t. u věčném zatracení, z něhož nenie vysvobozenie? Byl jest živ
+bohatec, a brzo pohřeben jest v pekle; neb die S. Job v 21 k.
+12-13 v.: Hudú na húsle, tepú na buben, radují sě, ano vzní
+stroj, t. hudby, píštby, trúbenie, vedú v roz-
+
+270
+
+Ctenie 34.
+
+koši dny své, a v brzkosti do pekel sstúpili sú! Aj jistotu slyšíme, avšak
+snad druzí lehcě vážíme, že do pekel sstúpili radovníci, z nichž jeden
+byl jest tento bohatec, jenž jest umřěl jako i chudý, ale jiný konec
+jemu, a jiný dostal sě chudému.
+To ukazuje S. Augustin v kázaní o túto dvú, a die: Chudý ten
+nemohl mieti kuorky neb drobte, a on nemohl mieti krapte. Irotož o
+túto dvú povězte mi, který jest umřěl dobřě, a který
+zle? Neroďte sě očí tázati, k srdci sě navraťte; neb budete-li sě očí
+tázati, křivdu vám povědie. Velmě stkvostné jsú věci a světsky
+okrášlené, ty kteréž mohly sú sě dáti bohatci, když jest mřěl; mohli sú
+býti zástupové plačících sluh i dievek, některá pýcha panoší, některá
+okrasa mrchy [mrtvého těla]. Který náklad pohřěbi! věru roním, že
+mastmi drahými byl jest obalen) Což tedy dieme, bratřie! že dobřě
+tento jest umřěl čili zle? Tiežete-li očí, velmě dobřě jest umřěl; pakli
+mistra svého vnitřnieho [rozumu] tiežete, velmě zle umřěl jest. Protož
+poňavadž tak mrú pyšní svého zbožie chovači, nic chudým nedávajíce,
+i kterak mrú ti, kteříž cizie berú? Protož pravduť sem řekl: Buďte dobře
+živi, aby zle nezemřěli, aby jako onen bohatec nezemřěli. Neukazuje zlé
+smrti jedné čas po smrti. Zasě znamenajte onoho chudého: neroďte
+očima věřiti, neb tak poblúdíte. Viera ta znamenaj, srdce [rozum] viz.
+Postavte ho přěd svoji oči ležícieho na zemi, nežitóv plného, ano ho psi
+líží; a když takého položíte před svoji oči, ihned plijete, tvář odvracijete,
+nos zacpáváte! Oj srdečnýma očima vizte: aj umřěl jest, a nesen jest od
+angelóv v lóno Abrahamovo! Čeleď bohatcě vidiena jest plačície, angelé
+nebyli sú vidieni radující sě. I co jest bohatci odpověděl Abraham:
+Pomni, synu, vzal si dobré věci za života svého vše S. Augustin.
+A tak již m s, kterak ihned po smrti stalo sě bohatému, a kterak
+chudému; a že Lazar pochován jest u ~v..,é osady, a bohatec u své;
+onen s bohem, a tento s ďáblem.Již slyš, že die dále spasitel: "A vzdvih
+oči svoji, když bieše v mukách, uzřěl jest Abrahama z daleka a Lazara
+v lónu jeho." I co slyším? Vzdvihl oči bohatec v mukách. Proč? Proto:
+neb tě oči, jež hřiech zavierá, muka otvierá. Byl jest oči upřěl v zemi,
+již jí povzdvihl k Abrahamovi; již vidí Lazara z daleka, jehož nechtěl jest
+viděti
+
+Neděle prvá po svaté Trojici.
+
+271
+
+z blízka; již brzké utěšenie minulo, a věčné zatracenie ostalo; tento v
+mukách, a onen v radosti. "I on volaje" neb křiče, "vece: Otče
+Abrahame! smiluj sě nade mnú." O bohatče! již's očí povzdvihl, i
+zdali nízko ležíš? již jsi v mukách, i zdalit sú zle ustlali? již křičíš, i
+zdali tě bolí? O bohatče! již těžko jest tobě muky trpěti, jenž si veliké
+měl rozkoši; těžko ležeti nízko, jenž si byl nad jinými vysoko; již sě
+nezespíš, jenž si dlúho spal; již měkkého pod tebú neprostrú! Bylo
+pomněti, Isaia písmo že die v 24 k.: Pod tebú bude prostřien mol, a
+přikrytie tvé budú červie. Již křičíš, křik tvój již po světě slyšie, neb's
+nechtěl Lazara slyšeti blízcě. I kde si tak veliký hlas vzal? Odpoviedá
+za tě svatý Jan zlatoústý, řka: Veliké muky veliký hlas činie. O
+bohatče! již-li čiješ muky, jichž si neznal, ani na ně tbal? již sě uč
+trpěti, nebt nelzě jest muk na věky zbýti! Již voláš: "Otče Abrahamel"
+otcem jeho nazýváš, jehož's nechtěl poslúchati jako syn. Ty jsi ten z
+pyšných kněží pokolenie, jenž sú řekli Ježíšovi, Matouš 3, 9: My otcě
+máme Abraha a.! pro něž Kristus o tobě jim jest pověděl toto čtenie.
+Dieš: 'Smiluj sě nade mnú!" Blázníš? již's zameškal čas smilovánie,
+již darmo vydáváš hlas pokánie v miestě, v němž nenie k
+vysvobození kánie! Jistě bolest tě pudí, že křičíš, řka: "A pošli
+Lazara, at omočí konec prsta svého u vodu a svlaží jazyk mój, nebť
+mučím sě v tomto plameni." O bohatče! blúdíš velmě; žádáš slitovánie, nechtěv sě slitovati; chceš, aby Lazar šel tak daleko k tobě, k
+němuž ty neposlal si svého sluhy blízko. Bylo pomněti, že tomu
+odsúzenie bude bez milosrdenstvie, ktož nečiní milosrdenstvie, Jac.
+2, 13.,Svatý Jan zlatoústý die: Vzpomeň, bohatčel na svój život: na
+Lazara nechtěl si hleděti, a již prstu jeho žádáš. Dieš: Pošli Lazara!
+To's ty měl činiti, když ještě byl živ Lazar, měl's ho navštieviti. To
+zlatá ústa. Co chceš? bohatče! Aby omočil Lazar konec prsta svého u
+vodu. O již žádáš kropě vody, a nedal si jemu kuorkyl Aj hřiešník!
+diejS Jan zlatoústý; viz svědomie hřiešníka, nesmie celého požádati
+prsta. Ha ha! již vody žádáš: nechtěl's najmenšie věci chudému s
+stolu dáti, již přinuzen jsi najmenšie věci žádati! I co žádáš kropě
+vody? Aby jazyk svlažil. Tvój jazyk s přielišnú chutí krmě i pitie přijímal, také snad nekázaných, utrhavých a marných řečí mnoho
+
+272
+
+Ctenie 34.
+
+mluvil; protož čím si hřěšil, tiem sě kaj. Již sě mučíš v ohni,
+nechtěv blížniemu i sobě prospěti u milosti; protož slyšíš, že die
+tobě Abraham: "Synu rozpomeň sěě synu přirozením, ale ne
+následováním. Synu! by mě byl následoval v milosrdenství, v pokořě
+a v skrovnosti, ne tak by sě mučil. Ale pomni, synul "že vzal si
+dobré, t. věci, za svého života," to jest, požíval jest dobrých věcí v
+rozkoši, "a Lazar také vzal zlé," to jest, trpěl jest na těle, ale
+pokorně; "protož on již veselí sě, a ty sě mučíš." Nebt tak má býti,
+aby ti, kteříž v těle jsúce živi mile trpie, na věky veseli byli; a ti,
+kteříž za čas rozkoš vedú, na věky sě mučili. Neb die dále spasitel:
+"A v těch všech věcech," t. mezi těmi všemi věcmi, "mezi námi," jenž
+slušiemy k spasení, "a mezi vámi," zatracenci, "cíl veliký;" neb
+daleko jest z pekla již do nebe. "Veliký cíl," die výklad, jest daleký
+rozdiel zaslúženie; a ten cíl "utvrzen jest" boží spravedlností.
+"Utvrzen jest," die S. Jan zlatoústý, obořen nemóž býti, nemóž jím
+hnuto býti, aniž móž kto zkaziti. Viděti móžeme, ale jíti nemóžeme;
+my vidíme, čeho sme sě vystřiehli, a vy vizte, co ste ztratili. Našě
+radosti množie vaše muky, a vaše muky množie naše radosti. To
+zlatá ústa. A tak veliký cíl utvrzen jest pevně, "že ti, kteříž chtie
+odsud jíti k vám, nemohú," z lóna Abrahamova do pekla, "ani ot
+onud," t. z pekla, "sěm, t. do lóna Abrahamova, přijíti." A tak
+vyvolení spasení nemohú býti zatraceni, ani zatracení spaseni.
+Ale dieš: Však S. Řehoř vyprosil jest ciesaře Trajana po jeho smrti
+z pekla, že šel jest v radost nebeskú. A také dábli neb čertie, ti
+mohú jíti z pekla, a dobří angelé i světí lidé mohú jíti sěm na svět, a
+v súdný den z pekla i z nebe přídú na súd. Tu věz, že to jitie miení
+sě, že z věčného zatracenie nemohú jíti zlí u věčné spasenie, ani z
+věčného spasenie mohú jíti do věčného zatracenie; neb by to bylo
+proti boží spravedlnosti. A z toho ihned jest odpověd o Trajanovi:
+jest-li tak, že jest spasen, že on nebyl jest věčně zatracen, ale
+zachován z milosti božie; neb ač jest byl pohan, ale že spravedlnost
+vedl, pán bóh jeho zachoval, aby nebyl na věky zatracen. A tak jest
+odpověď druhé řeči: že ač dábli chodie sám z pekla, a angelé neb
+lidé světí z nebe, však to nenie proti tomuto čtení; neb ani ďábli
+proto zbudú muk a zatracenie, ani angelé neb světí zbudú spa-
+
+Nedéle prvá po svaté Trojici.
+273
+senie a utěšenie. Ale ještěkjest otázka: Kterak jest to, že bohatec
+viděl jest Lazara, a nemaje očí? neb tělo jeho, to jest mrtvo ležělo v
+hrobě, a duše pohřebená v pekle, ta očí nemá, ani jazyku; kterakž
+tehdy viděl jest Lazara, a na jazyku sě mučil v plameni aneb v ohni?
+Tu věz, že viděnie Lazara a očí povzdviženie bohatcě, též i jazyka
+mučenie jest duchovnie, ne tělestné, tak že duše bohatcě poznala
+jest duši Lazarovu; a očí povzdviženie jest rozumu a paměti
+povýšenie; a pak jazyka mučenie jest duše mučenie od pekelného
+ohně, proto že jazyku přivolovala k přielišné chuti a k zlému
+mluvení. eště jest otázka: Kterak jest to pravda, že die Abraham:
+Mezi námi a mezi vámi cíl veliký utvrzen, že ti, kteříž chtie k vám,
+nemohú; i kterak ti, jenž jsú v láně Abrahamově, chtie k oněm do
+pekla, a oni z pekla k těmto zasě, poňavadž oněm nebylo by dobré v
+pekle býti, a pekelníci ze zlosti zatvrzené nechtie radosti? Tu věz, že
+světí mají jednu chtivost přirozenú, jíž jsú příchylni, aby nuznému
+pomohli, by mohlo býti; a tak ti, jakož die Abraham, chtie jíti, to věz
+pomocí přispěti oněm u pekle; ale že spravedlnost božie, jíž jest cíl
+utvrzen, ta v svatých po sobě tu žádost obrátila jest, protož nemohú
+oněm pomoci. U příkladě: některý súdcě spravedlivý popadne v
+zlosti bratra neb jiného milého přietele, jehož by mohl od smrti neb
+od pomsty vysvoboditi, a bude mieti k tomu chtivost a litovati velmě
+bude; ale že viece miluje pravdu boží než přietele, odsúdí ho a nad
+ním pomstí. Pak zatracenci, ti z přirozenie žádají svrchovaného
+dobrého, a tak i radosti věčné; ale zufalstvie, to je přěmáhá, že nemohú pokorně a mile žádati, aby jim bylo dáno. A tak Abraham,
+odpověděv bohatci v pomoci od Lazara svlaženie jazyka jednú kropí
+s prstka, ukazuje, že nižádné pomoci světí neučinie pekelníkóm. A
+tak že odpověd Abrahamova bohatci úplně naději jest v pomoci
+otjala, protož obrátiv sě k jiné pomoci, mně, by byl uslyšien, i die:
+"Tehdy otče! prosím tebe, aby poslal ho do domu otcě mého; nebť
+mám pět bratří, at svědčí jim," t. o mukách věčných a o radosti
+věčné, "aby i oni nepřišli v to miesto muk." Bohatec nemluví tak z
+lásky, jiež jest neměl, ještě živ tělem jsa, ale mluví, boje sě věččích
+muk; neb věděl jest, že z tovařistva jeho bratří přibylo by jemu
+muk.j
+
+274
+
+Ctente 34.
+
+Protož die S. Beda, že zachováno jest bohatci poznánie chudého, jímž
+jest pohrzěl, i paměť bratří, které jest po sobě ostavil, aby vida radost
+chudého, jímž jest hrzěl, a muky těch, jež jest neúžitečně miloval, viece
+sě mučil. Protož~Abraham zamietá jemu prosbu neúžitečnú neb
+nepodobnú, řka: "Majíť Mojžieše a proroky, nechť poslúchají jich."
+Nechtěl Lazara poslati zasě na svět, k němuž bohatec nechtěl přijíti u
+svých dveří, protož nehodně jest prosil; ale die: "Majít Mojžieše," jenžt
+jim píše desatero přikázanie, "a proroky ,~.",~ Izaiáše mají, jenž od
+boha přikazuje, brání v zlatohlavě chod1 i, brání každý den hodovati,
+velí nuznému pomoci, lačnému chléb lámati. Jeremiáš velí nesmilniti,
+a brání pyšnu býti. Nechť poslúchají jich." Ale že bohatec na božie
+proroky, a na Mojžiešovo přikázanie, živ jsa, netbal jest, protož maje,
+že též jeho bratřie činie, die k Abrahamovi: ť'Nic, otče Abrahamel ale ač
+kto z mrtvých pojde k nim, pokánie činiti budú." Aj vyznává, že bratřie
+jeho Mojžieše a prorokóv neuposlúchají, ale že by z mrtvých vstalého
+poslúchali. Tú řečí ukazuje, že on sám byl jest taký, Mojžieše a prorokóv neposlúchal, a muk pekelních byl nezkusil. Protož Abraham die:
+"Poňavadž Mojžieše a prorokóv neposlúchají," skrze něž jest bóh
+mluvil, "ani ač kto z mrtvých vstane, uvěřie jemu." Jakož sú učinili
+Lazarovi, jehož jest Kristus vzkřiesil: netoliko jemu neuvěřili sú, ale
+chtěli sú ho zabiti, Joh. 12, 10. A Kristovi svěřiti nechtěli sú z mrtvých
+vstalému, ale řekli sú, že jest ukraden. A tak túto řečí znamenal jest
+Kristus, že ti kněžie a zákonníci, k nimž jest mluvil, Mojžieše sú a
+prorokóv neposlúchali, a že sú snad myslili, že by kto z mrtvých vstal,
+toho by poslúchali a jemu by uvěřili.
+Pak k naučení našemu svatý nehoř takto čtenie zavierá: A vy, bratřie
+najmilejší! i odpočíváme Lazarovo, i muku bohatcě znajíce, opatrně
+čiňte, za své hřiechy přímluvcóv hledajte, a řečníkóv sobě chudých k
+súdnému dni dobývajte; neb mnohé Lazary nynie máte u svých dveří,
+přěd nimiž ležie a těch věcí potřěbují, kteréž vám již sytým s stolu
+padají. Slova svatého čtenie mají vás naučiti, [aby] od přikázanie
+milosrdenstvie naplnili [to jest, aby chudým milosrdni byli.] Každý den,
+hledáme-li Lazara, nalézáme; každý den Lazara, ač nehledáme,
+
+Nedéle prvá po svaté Trojici.
+
+275
+
+avšak vidíme. Aj náramně sě chudí nám vydávají; prosie nás ti, jenž
+mají za nás přímluvcě býti. Jistě ovšem my měli bychom jich prositi,
+avšak oni nás prosie. Vizte, máme-li odpovědieti? Co utrpíme,
+poňavadž dědici jsú ti, jenž prosie? Protož nerodte nynie časóv
+mařiti, nerodte vzatých pomocí krýti přěd mukami, pomněte o
+mukách JFo S. papež Řehoř, jehož v této řeči málo uposlúchají
+nynějšie kněžie, bohatci i papeži; neb kto z nich vyzná, že oni jsú
+jedné vladaři, a chudí jsú dědici toho, což oni mají? A kto opět z nich
+bude chudých radějie prositi, aby od něho vzěli, než by byl prošen,
+aby dal? Kto z nich také pilně o mukách věčných pilně myslí, aby
+jich zbyl? Poňavadž nechtie býti dobří a milosrdní, aby jich znikli,
+protož k bohatým a k lakomým kněžím a k zákonníkóm, a tak i k
+jiným, spasitel m1vil jest to svaté, veliké, krásné, a hlubokých
+smyslóv čtenie, Budiž nám dosti k naučení život Lazaróv a jeho
+odplata, abychom byli trpělivi, a vystřěz nás bohatcova psota,
+abychom ne tak jako on byli živi, a v též muky neupadli; ale
+abychom poslúchajíce Mojžieše a prorokóv, a tak svého spasitele,
+muk byli zbaveni a v radosti s Lazarem postaven
+
+276
+
+Ctenie 35.
+

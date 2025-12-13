@@ -1,0 +1,173 @@
+---
+layout: sermon
+sermon_id: "28"
+lang: cs
+version_name: Czech original
+title: Third Sunday After Easter Night
+---
+
+NEDĚLE TŘĚTIE PO VELICÉ NOCI.
+S. Jan v 16 kapitole, 16-22 verši.
+
+V ten čas ř. J. u. s.: Málo (za tři dni], a již neuzříte mne, a
+opět málo (za čtyřidcieti dní], a uzříte mě, neb jdu k otci
+(trpěním smrti a potom na nebe vstúpením]. Tehdy řekli sú
+učedlníci jeho k sobě: Co jest to, že die nám: Málo, a již
+neuzříte mne, a opět málo a uzříte mě, neb jdu k otci? Protož
+řekli sú: Co jest to, že die nám málo? nevieme co mluví. A
+pozna Ježíš, že chtěli sú ho otázati. i vece jim: O tom tiežete
+mezi sebú, že řekl sem vám: málo a neuzříte mne, a opět
+málo a uzříte mě, že jdu k otci. Věru věru [na mé božstvie, na
+mé člověctvie] pravi vám, že (káti [v duchu] a plakati (očima]
+budete vy, a svět (židé, jenž jsú svět, kterýž mne nezná]
+radovati sě bude, ale vy zamúlíte sě (po tři dni]; ale
+zamúcenie vaše obrátí sě v radost (t. po zamúcení, když mě
+uzříte, bude radosC]. Žena, když rodí, zamúcenie má, neb
+přišla jest hodina jejie (k trpění]; ale když porodí dietě, již
+nepomní davu (bolesti, již má davieci sěj pro radost, že urodil
+sě jest člověk na svět. Protož i vy nynie zamúcenie máte (že
+přišla hodina má, abych trpěl], ale opět uzřím vás (až vstanu
+z mrtvých], a radovati sě bude srdce vašě, a radosti vašie
+nižádný neodejme od vás.
+Svědomo jest z mnohých čtení, kteráž jest mluvil milosrdný spasitel
+na své poslednie večeři, kterak jest těšil své učedlníky pro budúcie jich
+zamúcenie, kteréž je mělo potkati pro jeho umučenie; protož i v tomto
+čtení praví jim i zamúcenie jich bu
+dúcie i obradovánie, a die jim: "Málo," to jest za tři dni, a již k tomu sě
+chýlí, že "neuzříte mne, a opět" po třech dnech "málo," to jest za
+čtyřidcieti dní, až do vstúpenie "uzříte mě." A tak sě stalo, že v tu noc a
+u pátek a v sobotu a v noc nedělní, za ten čas malý neviděli sú ho, a
+pak po z mrtvých jeho vstání, ten čas malý, až na nebe vstúpil,
+desětkrát viděli sú ho; v kterýžto čas již sú byli obradováni, a u vieřě, v
+níž sú pochybili,
+
+Neděle třětie po Velicě noci.
+
+201
+
+byli sú stvrzeni. A že tiem zpósobem měl jest Kristus jíti k otci, a potom
+na nebe vstúpiti, jakož od věčnosti to bylo od svaté Trojice uloženo,
+protož die, že "jdu k otci." "Jdu" skrze ukřižovánie, pro něž sě zamútíte,
+"a málo," to jest za tři dni, "neuzříte mne; a opět," to věz, až z mrtvých
+vstanu, "málo," to jest za čtyřidcieti dní, uzříte mě," nebt tiem řádem od
+otcě vydaným "jdu k otci."
+A tu móž rozumieno býti, že první čas malý znamená vešken čas
+synóv božích vyvolených, v kterýžto jsúce zde živi, vidie Krista jedné
+věrú, kteréžto viděnie přirovnávajíce k vidění v radosti nebeské, jest
+jako neviděnie. A ten čas zdejší jest velmě maličký proti věčnosti boží;
+neb nižádný nebyl jest živ zde v světě tisíc let, ač někteří blízko sú táhli
+k tisíc letóm. A David svatý die k bohu, Žalm 90, 4: Tisíc let přěd tvýma
+očima jako den včerajší, jenž jest minul. Pak po tom času, v němž zde
+vyvolení ne tak vidie boha jasně, příde čásek maličký na smrti, v
+kterýžto vyvolení mají jako jiskrku jasného poznánie radosti nebeské; a
+to jest počátek neb závdavek té radosti. A v ten čásek tak malý vyvolení
+zde na světě mají dtokrát viece, než sú pro Krista opustili, jakož die S.
+Mar. v 10 k. 29-30 v., že řekl Kristus: Věru pravi vám, nenie nižádný,
+kterýž opustí dóm, aneb bratří, aneb sestry, aneb otcě, aneb máteř,
+aneb děti, aneb rolí pro mě a pro mé čtenie, by nevzal stokrát tolikéž
+nynie v čas, a v věku budúciem život věčný. 0, který syn vyvolený, když
+na smrti uzří radost nebeskú, neváží sobě stokrát viece otcě nebeského,
+i bratří, i sestr v radosti nebeské, a královstvie viece než rolé? A
+poňavadž Kristus jde k otci, aby připravil svým věrným sluhám miesto
+blahoslavenstvie věčného, jistá věc jest, že bude třětí čas, v kterýž bude
+vyvoleným radost dokonána; a tu radost ktož srdečně váží, ten mile trpí
+všecky pótky v tom biedném světě, aby doskočil té radosti.
+Dále die čtenie, že učedlníci nerozuměli sú Kristově řeči, a to pro
+zamúcenie; neb sú věřili, že má skoro popaden býti, a tak že měli sú sě
+z tovařistvie všichni rozlúčiti. A také proto sú nerozuměli, že řeč
+Kristova zdála sě jim něco v sobě protivná, když jest řekl: "Málo a již
+neuzříte mne, a opět málo a uzříte
+
+202
+
+Čtenie 26.
+
+mě.'.' Protož i řekli sú dvakrát: "Nevieme, co mluví." A Ježíš poznav,
+že sú ho chtěli otázati, přědšel je, jako činí ve všech dobrých činech
+svých věrných sluh, i dává jim rozum, že pro prvé "málo," to jest,
+pro ten čas malý, jejž znamená to slovo "málo," učedlníci budú lkáti
+a plakati, proto že v ten čas bude on jim odjat umučením a smrtí; a
+svět, to jest židé, radovati sě budú, mnějíce, by již Krista, jako
+najvěččieho svého protivníka a kacieře rúhavého, konečně uhasili.
+A že tak mělo jistě býti, protož die Kristus: "Věru" na mé božstvie,
+"věru" na mé člověctvie, "pravi vám, že lkáti" v duchu "a plakati"
+očima "budete vy, a svět," t. židé, jenž jsú svět, jenž mne nezná a
+nechce mne přijieti, ("bude sě radovati"). A že svět, t. zlí lidé v světě,
+a věrní učedlníci Kristovi mají sě odporně neb protivně, tak že zlí s
+dobrými nemohú pravé radosti účastni býti, a dobří se zlými také
+neobcují v zlé radosti, a že zlí zde sě radují, protož dále die spasitel:
+"ale zamúcenie vaše v radost sě obrátí." Proč to? jistě proto, že bóh
+v svých vždy v lepšie prospievá, a ďábel vždy v svých v horšie
+pocházie, jako v bahno a v propast jich potiskuje. A že tak sě stalo,
+jako Kristus řekl jim, to sě ukázalo, když po jeho z mrtvých vstání
+radovali sú sě učedlníci, uzřěvše pána; a jich radost vždy sě
+množila, až sú došli radosti dokonané neb svrchované.
+A pokládá spasitel příklad obecný učedlníkóm ještě hlúpým, aby
+jeho řeči rozuměli, řka: "Žena, když rodí, zamúcenie má; ale když
+porodí, již bolest mine, neb radost již dlúhá nastane po krátké
+bolesti. A v duchovniem smyslu žena tato móž v podobenství býti
+Kristovo člověctvie, jenž jest velmě těžkú bolestí urodilo v
+duchovniem rodu člověka, to jest sbor všech vyvolených k spasení,
+a to velmě těžcě; neb sú dřěli údy rózno na kříži, nohy i rucě zvrtali,
+proklali bok, a on jest žieznil, jako žena kdy rodí některá žiezní, a
+pak napájeli žlučí, octem s mirrú. A také plakal jest velmě na kříži,
+prosě boha otcě za to dietě, jež jest měl tak těžcě uroditi, a křičal
+jest jistě věččím hlasem, než ženy křičie, když rodie; křičel na bolest
+řka: O vy všichni, jenž jdete, znamenajte a vizte, jest-li bolest
+podobná jako bolest má! A tak, jakož die S. Augustin, že jakož z
+boku
+Adamova vyšla jest Eva, tak z boku Kristova vyšla jest cierkev
+
+Neděle třětíe po Velicě noci.
+
+203
+
+svatá, tak že Eva tělestně jest z žebra stvořena, a cierkev svatá
+duchovně krví Kristovú, jenž jest z jeho boka tekla, jest duchovně
+urozena. A že Kristovo člověctvie, ač jest bylo umřělo, a on jelikožto bóh
+neumřěl jest, protož třětí den po veliké bolesti procítila ta žena, to věz
+člověctvie Kristovo, již majíc radost, že bolest minula, a že již člověka, to
+jest cierkev svatú, jenž jest sbor vyvolených k spasení, urodila. Aniž
+mni, by Kristovo člověctvie nemohlo tak slúti žena; neb poňavadž on
+sám každého člověka, kterýž činí vóli otcě jeho, nazývá sestrú i mateří,
+řka v 12 k. 50 v. S. Mat.: Každý, ktož činí vóli otcě mého, jenž v
+nebesiech jest, ten bratr mój, sestra má, i matka má jest; a také Kristus
+ve čtení často slove králevstvie nebeské, jenž jest sbor všech
+vyvolených; a tak S. Augustin často pokládá, že Kristus, jelikožto jest
+hlava cierkvi svaté, jest cierkev svatá spolu s údy svými. A že učedlníci
+jsú údové jeho, jenž mají s ním trpěti, protož die jim: "Protož," to věz, že
+přišla hodina má, abych trpěl jako žena rodiec, "i vy zamúcenie máte;
+ale opět uzřím vás," až vstanu z mrtvých, "a radovati sě bude srdce
+vaše, a radosti vašie nižádný neodejme od vás.
+A tu věz, že zamúcenie učedlníkóv netrvalo jest přěs tři dni; neb třětí
+den bylo jim Kristovo vzkřiešenie již některak oznámeno, neb ten den
+viděl jest je, a oni jeho radostivě. Ten den jich zamúcenie jest skrotil, a
+radost počatú až do na nebe vstúpenie a do jich smrti vždy tvrdě ji
+množil, a pak po smrti jich v království nebeském jest dokonal. Aniž
+jest mohl kto té radosti od nich odjieti, jakož nižádný nemohl jest
+milovánie věčného v bohu, jímž jest je vyvolil, zrušiti. Protož die Beda:
+Nižádný radosti jich neodjal od nich; neb ač potom trpěli sú
+protivenstvie, avšak v naději z mrtvých vstánie, a u vidění jeho jsúce
+zapáleni, za všelikakú sú radost měli, když sú v protivnosti upadli. A to
+učiniv Jakub apoštol, učí jiné témuž, řka v 1 k. 2 v.: Všelikakú radost
+mějte bratřie, když v rozličná pokušenie, to věz protivenstvie, upadnete.
+Apoštolé měli sú za radost, neb die S. Lukáš v skutciech apoštolských v
+5 k. 41 v.: Chodili sú apoštolé, radujíce sě, od sboru, to věz židovského,
+když sú byli mrskáni, že hodni sú byli, aby pro jmeno Ježíše Krista
+pohaněnie trpěli, A znamenaj ještě v řěči spasitele o té
+
+204
+
+Ctenie 26.
+
+radosti trojí věc: Prvú, že bude po zamúcení, a tak milejšie i věččie, též
+zpět zamúcenie po radosti tohoto světa bude věččie. Druhú věc
+znamenaj, že ta radost jest srdečná, neb die Kristus: "radovati sě bude
+srdce vašě." Třětie, že bude věčná, neb die: "a radosti vašie nižádný
+neodejme od vás." Té radosti po biedě světa tohoto rač nám dopomoci
+milý Kristus! Amen.
+
+Neděle čtvrtá po Velicé noci.
+
+205
+

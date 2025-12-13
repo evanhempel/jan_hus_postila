@@ -1,0 +1,187 @@
+---
+layout: sermon
+sermon_id: "56"
+lang: cs
+version_name: Czech original
+title: Twenty-First Sunday After Holy Trinity
+---
+
+NEDĚLE JEDENMEZCIETMÁ PO SVATĚ TROJICI.
+S. Jan v 4 kapitole, 46-53 verši.
+V ten čas bleše jeden králík, jehož syn nemocen bleše v
+Kafarnaum. Ten když uslyše, že by Ježíš šel z židovské země
+do Galileje, šel jest k němu a prosil jest ho, aby sstúpil a syna
+jeho uzdravil, neb počínáše mřieti. Tehdy řekl jest Ježíš k
+němu: Jedné ač znamenie a zázraky uzříte, nevěříte. Vece k
+němu králík: Pane! sstup prvé, nežť umře syn mój. Řekl jest
+jemu Ježíš: Jdi, syn tvój živ jest. Věřil jest člověk řeči, již řekl
+jest jemu Ježíš, i jdieše. A když on sstupováše, sluhy potkali
+sú ho, a pravili sú jemu, řkúce, že by syn živ byl. Tehdy
+tázáše sě na hodinu od nich, v kterú lépe sě měl; a řekli sú
+jemu, že včera v sedmú hodinu ostala ho zimnicě. I poznal jest
+otec, že ta hodina byla jest, v nižto řekl jest
+jemu Ježíš: Syn tvój živ jest! I uvěřil jest on a dóm jeho
+všecken.
+Svatý Řehoř die, že toto čtenie výkladu nepotřěbuje, proto že ukazuje
+upřiemo a zjevně, kterak sě jest stalo. Ale to váží S. Řehoř, že králík
+ten, jehož syn jest uzdraven, nebyl jest plné viery; neb věřil jest, že
+Kristus móž jeho syna uzdraviti, ale nevěřil jest, by to nejsa tělestně při
+něm mohl učiniti; a tak nevěřil jest králík, by Ježíš byl božstvím s jeho
+synem. A toto váže, sjednáš svaté, jenž mluviece o tomto králiku pravic,
+že jest nevěřil; neb jest řekl Ježíš k němu: "Jedné ač znamenie a
+zázraky uzříte, nevěříte." Tu die S. Jan zlatoústý: Tú řečí ukazuje zjevně
+pán, že jest nevěřil. A pak zasě die S. Řehoř, že s veliké strany nevěřil
+jest, jenž moci nedal jest božství. Sjednajž takto svaté: že když die S.
+Jan: nevěřil jest, to jest, že plně jest nevěřil; a když die svatý Řehoř neb
+kto jiný, že králík věřil jest, to jest, něco jest věřil, ale ne plně. A s obú
+stranú jest pravda: neb Ježíš ho i potresktal, že jest neměl plné viery, i
+také ho uslyšal, že jest věřil, že jemu móž syna uzdraviti. "A potom se
+vším domem," t. s čeledí, "uvěřil jest plně."
+
+Neděle jedenmezcietmá po svaté Trojici.
+
+419
+
+Váží druhé svatý Řehoř, proč Kristus nechce jíti k synu králíkovu,
+an ho za to prosí, a k sluzě centuriona slibuje přijíti, an ho neprosí?
+odpoviedá, řka: Co jest to, jedné že pýcha naše tiem sě porážie, že na
+lidech ne člověctvie, jímž sú k bohu podobní učiněni, ale čest a zbožie
+ctíme; neb když vážíme, co na nich jest, jistě meškáme vážiti, co jsú.
+Protož vykupitel náš, aby ukázal, že ty věci, kteréž jsú vysoké
+[vzácné] člověku, svatí nemají na ně tbáti, né brž je zamietati, k sluzě
+centuriona jíti byl jest hotov. Aj pohaněna jest pýcha naše. To S.
+Řehoř, ukazuje, že tiem Kristus potupil naši pýchu, že k synu
+králíkovu nechtěl přijíti, ano ho králík prosí, a pak k pacholku
+centuriona, rytieře pohanského, sám řekl, že chce přijíti, an ho
+neprosí. O biskupové, kněžie, i mnišie! bychom to vážili, že pohřiechu
+jsme hotovi jíti k bohatému, ale nechceme jíti k chudému: jest-li bohatý nemocen, jde jich mnoho, a jest-li chudý nemocen, nenazří
+jeden! A já slýchám, ani hekají: Poňavadž nemáme od svatého oleje
+bráti, nechtž nám nosie nemocné do kostela. O běda! že nepomnie i
+tohoto, že k sluzě sám Kristus, nejsa prošen, šel jest, i onoho, že die
+v súdný den, Matouš 25, 41 a 43: Byl sem nemocen, nepřišli ste ke
+mně; jdětež zlořečení do věčného ohně!
+A tak ze čtenie vedlé řeči S. Řehoře máme, že milostivý spasitel
+bludného králíka jest potresktal a naučil, milosrdenstvie jemu učinil,
+že syna jeho uzdravil, a zvláště že ho i s synem i s čeledí k vieřě
+milostivě povolal; a tak že jest pravý bóh a pravý člověk, ukázav to,
+nám jest dal příklad, abychom byli pokorni. A k tomu tak mluví svatý
+Řehoř: Nepýchajme, ač co dobrého činíme, nižádný nás skutek
+nenadýmaj, ani bohatstvie, ani nás dóstojenstvie povzdvihuj; neb ač
+kterými věcmi sě dmeme, bohu ohavni jsme. A dále die: To pomněte,
+bratřie najmilejší! vší myslí: nerodte na svých blížních zbožie tohoto
+světa ctíti; to pro pána boha ctěte na lidech, ač jim poručeni nejste,
+že jsú učiněni k obrazu božiemu. To Řehoř. A mluví na to, abychom
+byli pokorni, ničímž sě nechlubili, lidí ne pro jich zbožie, ani pro
+urozenie ctili, ani pro rúcho, ale proto, že jsú stvořenie podobné k
+svaté Trojici. A jistě v tom takměř vešken svět blúdí, že viece váží svět
+člověka bohatého oděného, než pokorného chudého. Ale ne tak bóh,
+jenž nepřijímá osob, to
+
+420
+
+Čtenie 54.
+
+jest, neváží viece člověka jednoho pro zbožie, ani pro urozenie, ani pro
+krásu tělestnú, než toho, jenž jest chudý, neurozený, neoděný, jedné
+jest-li ctnostnější. A tak ctnost člověka činí bohu vzácna, tak že ktož
+jest ctnostnější, ten jest přěd bohem lepší a tak vzácnější. A tak my
+máme také vážiti, když aspoň po skutciech znamenáme, že chudý
+člověk zdá sě nám lepší než bohatý, abychom nehleděli na zbožie, ani
+na rúcho krásné. A tomu nás učí svatý Jakob apoštol v 2 k. 1-6 v.,
+řka: Bratřie mojil neroďte v přijímání osob mieti viery pána našeho
+Ježíše Krista. Neb aj vejde-li v sbor váš muž, zlatý prsten maje, v rúše
+bielém, a vejde také chudý v smrdutém oděvci; a budete střěpěti k němu, jenž jest oděn rúchem bielým neb krásným, a diete jemu: Ty
+sedni tuto dobře! a chudému diete: Ty stój onde, aneb sedni pod
+stolicí noh mých! i zdali nesúdíte sami u sebe, a ste učiněni súdcie
+myšlení zlostných? Slyšte, bratřie moji najmilejší! však bóh vyvolil jest
+chudé v tomto světě, bohaty u vieřě, a dědice královstvie, kteréž jest
+slíbil milovníkóm svým: a vy nectíte chudého. To vše S. Jakub. O
+běda mně! kolikokrát já přěstúpil sem toto svaté písmo, vstávaje neb
+kuklu snímaje, aneb sě kláněje bohatému, a ne chudému! a spieše
+posielaje po pitie bohatému groš, než dada chudému peniez! Avšak
+ufám milosrdnému Ježíšovi, našemu vykupiteli, že mi to odpustil, a že
+mě již od toho zachová.
+Již sě vrátím ke čtení, o králíkovi ještě něco poviem. Aj die S. Aug.
+na to čtenie takto: Ten jenž prosieše, kterak věřieše? Co ote mne
+čakáte slyšeti? pána otiež, coť o něm vie; neb když ho prosil, tak jest
+odpověděl: "Jedné ač znamenie a zázraky uzříte, nevěříte." Treskce
+člověka u vieře vlažného, neb studeného, aneb ovšem jenž nižádné
+viery nenie, ale chce zkusiti o zdraví syna svého, kaký by byl Kristus a
+kto by byl, a kterak by mnoho mohl. Jistě slova, jimiž jest prosil,
+slyšeli sme, ale srdce nevěřícieho neviděli sme; ale tent jest vypověděl,
+jenž jest i slova slyšal, i v srdce hleděl. A také i evangelista svědectvie
+dává, že ještě jest nevěřil ten, jenž jest žádal, aby pán do domu jeho
+přišel. To S. Augustin, ukazuje, že králík jest aneb ihned nic v Krista
+nevěřil, aneb neplně věřil.
+
+Nedéle jedenmezcietmá po svaté Trojici.
+
+421
+
+Jest také znamenitě položeno, že Kristus die: "Jedné ač znamenie a
+zázraky uzříte, nevěříte." A ve čtení S. Mat. v 12 k. 38-39 v. kněžím a
+zákonníkóm, když sú řekli k Ježíšovi: Mistře! chceme od tebe zázrak
+s nebe viděti, odpověděl jest jim, řka: Pokolenie zlé a cizoložné divu
+neb znamenie žádá. Těmi řečmi milý spasitel ukazuje, že nejsú věřící
+lidé, kteříž divóv žádají u vieřě: jedné ač by který svatý pro potvrzenie
+jiných žádal, aby pán bóh svú moc ukázal, jako sú žádali apoštolé,
+když sú mrtvé křiesili. A mají pilni býti křěsťané, zvláště nynějšieho
+času, aby nedali sě falešným prorokóm, poslóm Antikristovým,
+zázraky i divy svésti; neb vystřiehá milý spasitel nás, řka v 24 k. 11
+v. S. Mat.: Vstanú falešní prorokové, t. kazatelé, a dadie, t. činiti
+budú divy, neb znamenie a zázraky veliké, a svedú mnohé. Protož
+třěba opatrnu býti věřícím právě, aby sebú nedali hnúti nikam s
+pravdy zákona a následovánie pána našeho Jezu Krista, jenž
+vystřiehá nás, řka, Matouš 24, 4: Vizte, ať vás nižádný nesvede!
+Také znamenám, že die čtenie: " bieše jeden králík," a nedie: "král,"
+na znamenie tomu, že každý král tohoto světa jest malý králík v
+připodobnění k velikému králi Kristovi, jenž jest král nad králi: neb
+královstvie tohoto světa králóv jest maličké, neb jest kus země; druhé,
+že na krátký čas má; třětie, že bezděky je ztratí, a spieše než sě
+naděje. Protož die písmo, Eccl. 10, 11: Všelikaké panovánie jest
+krátké, to věz, každé panovánie tohoto světa jest malé. Protož blázniví
+jsú lidé, kteříž pilnějie pracují a žádost věččí mají k panství neb k
+království světa tohoto, nežli k království nebeskému, o němž die
+spasitel, Mat. 6, 33: Najprvé hledajte královstvie nebeského.
+Také tu věz, že každý vyvolený, jsa u milosti boží, to jest bez
+hřiecha smrtedlného, jest král: Prvé proto, že jeho jest nebeské
+královstvie. Druhé proto, že jest syn krále najvyššieho, jemuž hodně
+řieká, Matouš 6, 9: Otče náš, jenž jsi v nebesiech. Třětie proto, že jest
+svobodný, neb die Kristus král, Joh. 8, 36: Jisté svobodni budete,
+když vás syn vysvobodí. Čtvrté proto, že každý syn vyvolený boží, jsa v
+milosti, jest mazán darem ducha svatého k nebeskému království,
+jakož die S. Jan v 1 ep. v 2 k. 20 v.: Mazánie máte od svatého, to věz
+ducha. A tomu na zna-
+
+422
+
+Čtenie 54.
+
+menie maží na krstu každého obecně, aby bojoval o královstvie
+nebeské s dáblem, jenž ztrativ je, rád by, aby ho neměl nižádný
+člověk.
+Také móž i čtenie znamenáno býti duchovně, že syn králóv jest
+žádost člověka, jenž pro přěstúpenie prvého člověka slove králík, a ne
+král jako bóh. Toho králíka syn, to věz žádost, nemocna jest v
+Kafarnaum, t. v rozkoši; neb Kafarnaum vykládá sě "pole tučnosti," v
+nížto člověk pasa sě, jest nemocen často, netoliko na duši, ale i na
+těle, jakož die bóh, V. Mojžíšova 32, 15: Ztučněl jest a ztlustěl, a
+rozšířil sě jest a vzpietil sě jest, t. od-stúpiv od mého přikázanie. A
+této řeči božie nenie třěba dovoditi, neb vidíme očitě, že čím lidé jsú
+rozkošnější, tiem obecně jsú na těle i na duši nezdravější. Protož die
+Šalomún v přísloví v 2 k.: Zčestie bláznov zatratí je. A Kristus die v 6
+k. 24 v. S. Lukáše: Běda vám bohatým, kteří máte zde utěšenie své!
+Pak nemoc ta syna králíkova, jenž jest byla zimnice, znamená hřiech,
+jenž člověkem třěse, jako jest pýcha, závist a hněv; neb ten hřiech
+trój netoliko vytřěse milost boží z duše, ale i tělo častokrát klátí, jakož
+jest očité poznánie na lidech pyšných, závistivých a hněvivých.
+Jiných smyslóv duchovních jest mnoho v tomto čtení; ale že pro
+ukrácenie jedné vždy táhnu, aby rozuměli lidé slovám ve čtení, protož
+musím těch smyslóv duchovních nechávati. A že toto čtenie v
+slovách, jakož vzní, jest lehké k rozumu, protož nenie třěba ho slova
+od slova vykládati.
+
+Neděle dvamezcietmá po svaté Trojici.
+
+423
+

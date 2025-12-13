@@ -1,0 +1,353 @@
+---
+layout: sermon
+sermon_id: "44"
+lang: cs
+version_name: Czech original
+title: Ninth Sunday After Holy Trinity
+---
+
+NEDĚLE DEVATA PO SVATĚ TROJICI.
+S. Luk. v 16 kapitole, 1-9 verši.
+V ten čas ř. J. u. s. podobenstvie toto: Člověk jeden
+[Kristus] bieše bohatý, jenž mějieše vladaře (každého
+člověka]; a ten obžalován jest přěd ním, jako by řozptýlel
+(neb marně utratil] zbožie. I povolal jest ho, a řekl jest
+jemu: Co to slyším o tobě? daj počet vladařstvie svého,
+neb již nebudeš moci vlásti (neb vladařiti]. I vece (t. myslil jest] vladař v sobě: Co učiním, že pán mój [doslyš: již/
+odjímá ode mne vladařstvie? kopati nemohu, žebrati sě
+stydím. Viem, co učiním, aby, když odstrčen budu od
+vladarstvie, vzěli mě v domy své. A tak (neb tehdy, neb
+protož, neb: Asvolav] svolav všecky dlužníky pána
+svého, vece prvému: Kterak mnoho dlužen jsi pánu
+mému? A on vece Sto lahvic oleje. I vece jemu: Vezmi
+zápis svój, a sed brzo a napiš padesát. Potom vece
+jinému: A ty kterak mnoho dlužen jsi? Kterýžto vece: Sto
+mtuov pšenice. Vece jemu: Vezmi listy a napiš osmdesát.
+I chválil jest pán vladaře zbožie, že by opatrně učinil;
+neb synové tohoto světa opatrnější synóv světla v
+pokolení svém jsú. A já pravi vám, čiňte sobě přátely z
+zbožie zlosti, at kdy nedostatečni budete, vezmú vás u
+věčné přiebytky.
+A. Spasitel dobrotivý, chtě své učedlníky opatrnosti naučiti a
+milosrdenství, k nim jest zvláště toto čtenie mluvil; jakož die S.
+Lukáš, že řekl jest k učedlníkóm svým: "Člověk jeden bieše
+bohatý," a dále. Neb úřad vladarstvie a vydánie počtu zvláště
+slušie na preláty, t. na povýšené, jenž jinými vládnú, z nichž i z
+sebe mají vydati počet pánu bohu. I pokládá spasitel podobenstvie, v němž tři věci hrozné znamenám každému, ktož zbožie
+marně tratí: prvá věc hrozná, že obžalován jest; druhá hroznějšie,
+že má počet dáti; třětie, že nebude moci vladařiti, a to
+najhroznějšie. I kto by sě nebál obžalovánie přěd králem, věda, že
+jest vinen? a ovšem viece, že by jistě měl počet učiniti přěd ním?
+a nad to, že by úplně úřadu byl zbaven? a k tomu, že by
+
+328
+
+Ctenie 42.
+
+nemohl dělati, a po vladařství styděl by sě žebrati? Tak sě má báti
+každý úředník pána velikého, Krista, maří-li jeho zbožie; neb on
+jest ten člověk bohatý, o němž jest toto čtenie, jenž die: "Člověk
+jeden," t. Kristus, "bieše bohatý," zvláště jsa jeden pravý bóh i
+pravý člověk, a tak nad jiné bohatý. Neb die S. Jan v 19 k. 16 v.
+Apok., že má napsáno na lóně svém: Král nad králi a pán nad
+pány!
+B. "Jenž má vladařě," t. každého člověka, a zvláště preláta neb
+světského pána. Každého člověka proto, že každému poručil jest
+jeho duši, aby ji čistu zachoval, a tělo s jeho smysly, aby ho
+ostřiehal, blížnieho, aby ho jako sě miloval, a Kristus sám sě jemu
+dal, aby ho najviece ctil, miloval a poslúchal. A mimo tyto věci
+každému ještě něco jiného dal: jakožto zdravie, uměnie a tělestné
+zbožie; a ještě ctnosti na krstu i potom: jakožto vieru, naději,
+lásku, a jiné ctnosti mnohým jest dal, a vladařstvie nad jinými
+lidmi. Že každému jest dal duši i tělo, nemóž nižádný zapřieti; neb
+die písmo, že on jest všech věcí stvořitel, a že což má člověk, to od
+něho má. A dal jest člověku svobodu, chce-li duši svú zachovati;
+neb die písmo, Ecc. 15, 14-18: Bóh od počátka stvořil jest člověka,
+a nechal ho v rucě rady jeho, přidal jemu přikázanie svá, aby je
+zachoval. A ač budeš chtieti přikázanie zachovati, zachovají tě, a
+na věky vieru libú činiti. Přiložil jest tobě vodu a oheň: kterémuž
+chceš, ztiehni ruku svú. Přěd člověkem život i smrť, zlé i dobré:
+což sě jemu bude líbiti, dáno bude jemu.
+Aj máš tecT, kterak bóh dal jest každému člověku duši v jeho
+ruku, to jest v moc rozumu, aby rozumem ji zpravoval, držě božie
+přikázanie; a bude-li je držěti do smrti, tehdy zachovají ho věčně.
+A položil přěd rozum člověka vodu i oheň, život i smrt, zlé i dobré,
+aby ztáhl ruku neb žádost, kteréž věci chce; chce-li sám ruku
+vložiti v oheň, sám sebú bude vinen. Též dobré přěd ním jest,
+přikázanie božie, a za ním život věčný, a zlé hřiech, a za ním smrť,
+t. věčné zatracenie; má svobodu, kam chce, tam svú vólí siehni.
+Protož má býti pilen člověk každý, aby duši zachoval čistú pánu
+svému, a též i tělo od hřiecha, drže přikázanie jeho, a tak ctě,
+miluje, i chvále pána boha nade všecky jiné pány; a nečiní-li toho,
+tehdy již obžalován jest
+
+Neděle devátá po svaté Trojici.
+
+329
+
+C. přěd pánem bohem. Obžalován najprvé hřiechem, neb hřiech ten
+najprvé žaluje na člověka, a hyzdí ho přěd bohem; aniž móž kto
+obžalovati člověka, a zhyzditi přěd bohem a přěd jeho nebeskú říší
+škodlivě, když hřiechu nemá smrtedlného, a konečně i všednieho.
+A jakož smrad hyzdí věc smrdutú a oznamuje ji, tak hřiech hyzdí a
+oznamuje člověka hřiešného. Příklad toho jest na Sodomských
+měštěnech, na něž jich hřiech přěd bohem křičel jest. Genesis v 18
+k. 20 v. A máme písmo, že třie hřiechové zvláště žalují na hřiešné:
+němý, vražda, a zadrženie mzdy. Pak druhé žaluje na člověka přěd
+bohem jeho svědomie, třětie angelé, čtvrté čertie, a v súdný den
+bude žalovati každé stvořenie. A na toho člověka bude věččie
+žaloba, který jest zbožie pána svého viece zmařil.
+Aj ted die čtenie, že "člověk," t. Kristus, "jeden," t. nad jiné
+zvláštní, a "bohatý," neb jest pán všeho světa, a tak bieše i jest
+bohatý, "jenž mějieše vladaře," t. jemuž dal jest vlásti nad ji
+D. nými zvláště. "A ten obžalován jest přěd ním, jako by rozptýlel," t.
+marně utratil, "zbožie jeho." Tu věz, že dvojím obyčejem lidé marně
+tratie zbožie: jedniem, že zle ho chovají; protož die S. Jakub v 5 k.
+1-3 v.: Kvělte již, bohatí! plačte již, lkajíce v psotách svých, kteréž
+přijdú vám. Zbožie vaše shnila sú, a rúcha vaše od molóv snědena
+sú; střiebro vaše a zlato zerzěvělo jest, a rez jich bude na
+svědectvie vám, a bude jiesti maso vaše jako oheň. Udělali ste sobě
+poklad na poslednie dny. O běda bohatým, jichž toto písmo
+dotýká, nepokají-li sě! Druhým obyčejem marně sě tratí zbožie,
+když je lidé zle utracují: jako na pýše, a na tělestné rozkoši. Tak
+jest mařil zbožie bohatec, jenž jest chodil v zlatohlavu a v bielém
+plátně, a jedl jest každý den stkvostně; a umřěv, jest pohřeben v
+pekle, jakož die Kristus, Lukáš 16, 19 a 22-23. O tom psal sem
+napřěd v kázaní 33. A z toho již máš, že marně tratie zbožie skúpí
+a přielišní; mezi nimiž prostřědek držie stédří, jenž dávají, kde mají
+hodně dáti. Skúpí jsú, kteříž nedávají majíce, kdež by měli hodně
+dáti; a přielišní, jenž obecně slovú marnotratcie, ti dávají, kdež
+nemají dáti: jako hercóm, ženám na freji, na opilstvie, obžerstvie, a
+rozličně jinak utracujíce na pyšném rúše, stříhajíce je. A kto móž
+krátcě vypsati, kterak marně tratie?
+
+330
+
+čtenie 42.
+
+Ale ač já nepopíši na ně každého marnotracenie, však každý taký
+marnotratcě jest obžalován přěd pánem bohem, že marně tratí jeho
+zbožie.
+Dále die čtenie: "I povolal jest ho." Ač to povolánie, po němž
+nebude moci člověk vladařiti, ani kopati, a styděti sě bude žebrati,
+jest povolánie na smrti: avšak volá pán člověka vnitřním
+napomínáním, některého kázaním slova svého zevnitřním,
+některého nemocí, některého velikými dary, a některého velikým od
+lidí protivenstvím, a některého, jakož die výklad, bóh volá, dávaje v
+duši bázeň věčného zatracenie. Jakož učinil jest onomu bohatci, o
+němž die Kristus v 12 k. 19-20 v. S. Luk.: Duše! máš mnohé věci
+položeny na mnohá léta; odpočívaj, jez, pij, hoduj! A řekl jest jemu
+bóh: Blázne! tuto noc duše tvé požádají [t. ďábli a vezmú ji jako svú]
+od tebe, a ty věci, které si připravil, čie budú? A pak poslednie
+povolánie naše bude, když nám v den súdný die bóh: Vstaňte,
+mrtví, podte k súdu!
+E. Dále die čtenie: "A řekl jest jemu: Co to slyším o tobě? daj počet
+vladarstvie svého!" Tu mají naučenie páni a preláti, aby
+obžalovaného prvé povolali, než by nad ním mstili pro jiných
+žalobu. Druhé, aby hřiechu zjevného pomstili, a nečinili sě, jako by
+nevěděli; aj tuto die čtenie, že povolal, a povolav otázal. Třětie, aby
+sě na něm samým vztázal; aj ted die: "řekl jest jemu." Čtvrté, aby o
+té věci tázal, z kteréž jest obžalován, aby jistotu vzvěda, mohl právě
+tresktati, jest-li vinen, aneb vymluviti, jest-li nevinen; aj ted die: "Co
+to slyším o tobě?" Páté, aby tiše přěslyšel; neb die: "daj počet
+vladarstvie svého." Šesté, jest-li nehodný, aby ho ssadil; to když die:
+"neb již nebudeš moci vladařiti" neb vlásti.
+Tu znamenám sobě hrozné slovo, že mi die pán: "Daj počet
+vladarstvie svého!" Hrozné, že die pán, přěd nímž nelzě nic tajnu
+býti; pán, přěd nímž nelze nic zapřieti; pán, jehož nelze sě skrýti;
+pán, od něhož nemóž nižádný vysvoboditi; pán, jenž chce z
+najmenšieho slova i pomyšlenie počet mieti; pán, jenž die v 12 k. 36
+v. S. Mat.: Z každého slova prázdného, kteréž promluvie lidé, dadie
+počet v den súdný. Aj tak mocný, múdrý a spravedlivý pán die mi:
+"Daj počet vladarstvie svého!" Jistě
+
+Neděle devátá po svaté Trojici.
+
+331
+
+slyším k sobě hlas hrozný, neb otieže mne pán, kterak sem v
+kněžstvie všel: proto-li, abych jeho chvály najviece hledal, blížním a
+sobě k spasení prospěl? čili proto, abych zbožie dosti měl, nad jiné
+vzveleben byl, a rozkošný život vedl? Také otieže mne, proč sem a
+kterak v kněžství stál? a třětie, kterak sem v něm skonal? Kterak
+sem všel, die, Mat. 22, 12: Přietelil kterak si sěm všel, nemaje rúcha
+svatebnieho? přieteli! kto tě uvedl? pravda-li či lež? Kristus-li či
+d'ábel? láska-li či pýcha? prácě-li či rozkoš? peniez-li či ducha
+svatého milost? Daj počet z toho! daj počet z skutkóv svých! daj počet
+z lidí, které si měl vésti k spasení a nevedl silBa běda nám kneěžím,
+nevedeme-li lidu k spasení, že máme počet za ně vydati! neb die pán
+bóh v Ezechielovi v 3 k. 17-18 v.: Synu člověčí! strážným dal sem tě
+domu [t. lidu mému] Israhelskému, a uslyšíš z úst mých slovo, a
+budeš jim praviti ote mne, že já diem k hřiešnému: Smrtí umřeš
+[zatracen budeš]! a ty nepovieš jemu, ani mluviti budeš, aby odvrátil
+sě od cěsty své zlé a byl živ; jistě on hřiešný v zlosti své umře, ale
+krve jeho [pomsty za hřiech, jako by krev jeho vylil] z tvé ruky
+požádám! O běda knězi, který zmešká koho, nepravě jemu slova
+božieho! běda tomu, jenž brání kázati! běda tomu, ktož nedrží nad
+lidem strážel běda, ktož jiné zlým příkladem aneb ponúcením jiné v
+hřiechy vede! Die S. Pavel k Římenínóm v 14 k. 12 v.: Každý sám za
+sě počet vydá. Ale nám kněžím přiškvrnil, řka k židóm v 12 k. že
+máme počet vydati za duše [poddacích neb poddaných]. A to sě
+stane, když každému z nás die pán veliký: "Daj počet vladařstvie
+svého, neb již nebudeš moci vladařiti." Neb již vladařstvie stane, když
+již nic v své moci člověk mieti nebude.
+Dále die čtenie: "I vece vladař v sobě: Co učiním, že pán mój odjímá
+ode mne vladařstvie? kopati nemohu, žebrati sě stydím. Viem, co
+učiním, aby, když odstrčen budu od vladařstvie, vzěli mě v domy
+své." Tento vladař mudřě učinil: najprvé sám sě k sobě navrátil; neb
+jest doma při rozumu nebyl, když jest zbožie mařil. Protož die
+Kristus, že "vece vladař v sobě;" t. pomyslil přěd smrtí, co ho má
+potkati po smrti. I pokládá prvé, že
+po smrti, když sě vladařstvie skoná, již čas nebude k zaslúžení; to sě
+miení, když die: "kopati nemohu." Druhé vyznává, že
+
+332
+
+čtenie 42.
+
+hanběné jest mrtvých prošenie za pomoc od živých, jedné ač
+zaslúžili sú jsúce živi, tehdy jest bez hanby; a to sě miení v tom
+slově: "žebrati sě stydím." Neb ani zatracenci, ani ti, jenž jsú v
+očistci, smějí bez hanby žebrati, nezaslúživše sobě: poňavadž
+bohatec pohřebený v pekle neuslyšán jest, aby jedna krópě vody
+byla jemu dána. Třětie, vladař tento obrátil sě jest ku pomoci dobré,
+že dobřě jest učinil spolusluhám, aby, když by on umřěl, oni jsúce
+živi, mohli jemu pomoci; a to sě miení, když die: "Viem, co učiním,
+aby, když odstrčen budu od vladařstvie, vzěli mě v domy své." Ty tři
+věci znamenati máme, a poznati své krátké vladařstvie, a znajíce svú
+biedu, řéci s svatým Jobem, Job. 31, 14: Co učiním, když vstane k
+súdu bóh? a když tázati bude, co jemu odpoviem?
+Dále die čtenie: "A tak" neb tehdy "svolav všecky dlužníky pána
+svého, vece prvému: Kterak mnoho dlužen jsi pánu mému? A on
+vece: Sto lahvic oleje." Tu znamenaj, že svolal jest dlužníky a
+odpustil jest jim, nejsa prošen od nich, aby vděčnějie přijeli, Dlužníci
+ti jsú chudí, jenž sú bohu dlužni sto lahvic oleje, t. nábožnú a
+laskavú vóli. Dále die: "I vece jemu: Vezmi zápis svój, a sed brzo a
+napiš padesát." Tu die výklad, že polovici jemu odpustil. V tom
+znamená sě, že křěsťané mají býti hojnější v almužně než sú byli
+židé, příkladem Zachea, jenž jest řekl v 19 k. 8 v. S. Luk.: Pane! aj
+polovici zbožie svého dávám chudým. Dále die čtenie: "Potom vece
+jinému: A ty kterak mnoho dlužen jsi? Kterýžto vece: Sto mtuov
+pšenicě. Vece jemu: Vezmi listy, a napiš osmdesát." Prvému odpustil
+puol, ale tomuto pátý diel; v tom sě znamená, že jednomu chudému
+mají křěsťané viece odpustiti, některému méně; jednomu viece dáti,
+druhému méně. Opět že viece odpustil oleje než pšenice, an jest
+dražší, jest naučenie, aby kto má mnoho, dal mnoho chudému, a
+kto má viece, aby dal viece. A opět, že má každý z nás viece žádati
+dáti než dává; a opět, že viece nemocným než zdravým; a opět, viece
+těm, jenž jsú viece prospěšní, než těm, jenž jsú méně prospěšní. A
+tak milý spasitel uvedl jest toto podobenstvie proto, abychom my,
+jenž jsme vladaři boží, měli slitovánie nad chudými, a z milosti jim
+pomáhali, a zvláště my kněžie, jenž jsme vladaři almužny chudým
+dané.
+
+Neděle devátá po svaté Trojici.
+
+333
+
+Dále die čtenie: "I chválil jest pán vladařě zbožie," latině stoji
+iniquitatis, to jest zlosti; a to móž rozumieno býti takto: Chválil jest
+pán vladařě zlosti, to jest vladaře zlostného, jenž jest byl zlý vladař,
+proto že mařil jest zbožie pána svého, a že nevěrně jest učinil pánu
+svému, odpustiv dlužníkóm bez jeho vědomie. Druhé móž takto býti
+rozumieno: že chválil jest pán vladařě zlosti, to jest vladaře zbožie,
+kteréžto zbožie vede mnohé lidi v zlost; a ten smysl neb rozum jest k
+řeči Kristově, jenž die: "A já pravi vám, čiňte sobě přátely z zbožie
+zlosti," to jest z zbožie, jenž zavodí v zlost: ne tak, aby zbožie bylo vino,
+ale že člověk, žádaje jeho zle, padá v hřiechy. A tak ve čtení položil
+sem vladařě zbožie, a nepoložil sem vladařě zlosti. "A chválil jest pán
+vladařě zbožie, že by opatrně učinil." Chválil ho ne proto, že nevěrně
+by učinil k svému pánu, ale že opatrně učinil, vzpomínaje, že zle
+vladařil, a rozuměje svého pána spravedlnosti, a opatruje svój budúcí
+nedostatek. A tak my máme býti opatrni, želejíce toho, co sme zmařili,
+a hlediece na spravedlnost boží, a patřiece k biedě, která by nás
+mohla potkati; a kdy bychom to učinili, tehdy chválil by nás pán Kristus z té opatrnosti.
+Dále die: "neb synové tohoto světa v pokolení svém jsú opatrnější
+synóv světla." To jest: milovníci tohoto světa opatrnější jsú v svých
+obchodiech, než synové boží v svých; neb oni velmě žádostivě, pilně a
+snažně jdú okolo s obchody svými, a ne tak duchovní s obchody
+svými. A to pro dvojí věc: prvé proto, že milovníci světa ihned vidomě
+mají odplatu svých obchodóv, ale synové světla čakají odplaty; druhé
+proto, že tělo velmě váží duši k věcem zemským, jakož die písmo, II.
+Korintským, 4, 16: Tělo, jenž sě ruší, obtěžuje duši. A tu věz, že lidé
+zlí slovú synové světa tohoto: Prvé proto, že sě v obyčejích sjednávají s
+tiemto světem, proti onomu slovu svatého Pavla, Rom. 12, 2: Neroďte
+sě připodobniti tomuto světu. Druhé proto, že jsú pilni zbožie tohoto
+světa, proti tomu, jenž die S. Pavel, 1 Tim. 2: Nižádný, ktož rytěří
+bohu, neplete sě v obchody světské. Třětie proto, že jsú velicí
+milovníci tohoto světa, a nepřietelé boží; jakož die S. Jakub v 4 k. 4 v.:
+Ktož kolivěk přietel tohoto světa chce býti, nepřietel boží bude. Čtvrté
+proto, že viece
+
+334
+
+Ctenie 42.
+
+milují dědictvie tohoto světa, než dědictvie královstvie nebeského.
+Pak dobří lidé slovú synové světla: Prvé proto, že činie skutky světla,
+to jest ctnosti, jenž jsú skutkové světla pravdy; jakož die S. Pavel,
+Rom. 13, 12-13: Oblecme sě v oděnie světla, abychom ve dni poctivě
+chodili. Druhé proto, že jsú milovníci světla, to veěz Krista, jenž die v
+8 k. 12 v. S. Jana: Já jsem světlo. Třětie, že jsú dědici věčného
+světla.
+Dále die Kristus: "A já pravi vám, čiňte sobě přátely z zbožie zlosti,
+at kdy nedostatečni budete, vezmú vás u věčné přiebytky." Túto řečí
+ukazuje Kristus, co jest mienil tiem podobenstvím: že abychom
+zbožie chudým dávali, a tak je sobě přátely zdělali, aby nás po smrti
+do přiebytka nebeského vzěli. Protož die: "A já," jakožto pán ten, jenž
+má vladařě, "pravi vám," mým sluhám a vladařóm, "čiňte sobě
+přátely," t. angely, svaté lidi a chudé, z zbožie tělestného, jenž slove
+"zbožie zlosti", proto že mnohým jest příčina zlosti. Tu věz, že nevelí
+Kristus, aby kto zle dobývaje zbožie, i dával chudým, ale z zbožie
+dobřě dobytého; neb die písmo, Jezu Sirach 34, 24: Ktož obětuje oběť
+z lúpeže chudého [t. oblúpě chudého], jako by obětoval syna přěd
+obličejem otcě jeho [t. morduje ho otci dal]. I klamají sě velmě
+lúpežníci, lichevníci, a jiní zlí dobyvači zbožie, mnějíce, by tiem sě
+bohu líbili, že mnoho zle dobudú a málo chudým dadie, neb oltářóv
+nastavějí a kaplanóv. S. Augustin die, že dávajíce tak bohu, chtie,
+aby bóh byl účasten jich hřiechóv, jako příjemník lichvy a lúpeže. A
+kněžie berú, a mnišie hulejí, a obojí chválé, že dávají jim; ale
+nepovědie jim, že těžcě hřěšie, a chtěli-li by sě káti, aby navrátili těm
+nebožátkóm, které sú zklamali neb zlúpili; jako Zacheus přěd
+Kristem řekl jest, Luk. 19, 8: Pane! aj polovici zbožie svého dávám
+chudým, a ač sem co koho zklamal, navracuji čtvero, to jest třikrát
+viece. A ktož tak učiní jako Zacheus, ten učiní sobě přietele: Krista
+pána, všechny svaté, i ty, jimž navrátí, že zaň budú boha prositi.
+Ale dieš: Některá žena frejem neb smilstvím peněz neb zbožie jest
+dobyla; a poňavadž nemóž ho právě požívati, kam má to zbožie neb
+penieze dieti? a pán bóh zapověděl jest těch peněz obětovati. Tu
+diem, že také žena, želejíc hřiechóv svých, móž na chudé obrátiti
+penieze ty neb jiné zbožie; neb nenie hodné,
+
+Neděle devátá po svaté Trojici.
+
+335
+
+aby zlosynóm vrátila, jenž sú jí pro hřiech dali; a sama jich také
+nemóž požívati, jedné ač by byla tak chudá, že by rubáš i suknici za
+smilstvie měla, tehdy aby nahá neostala, nemá-li přietele kterého,
+jenž by ji přioděl, mohla by v rubáši v tom neb v sukni dotud choditi,
+až by sobě jiný vydělala, řkúc: Milý pane bože! ty jsi pán té suknicě:
+račiž mně hřiešné popřieti, ať v ní chodím, jako od tebe milostivého
+pána mající; neb poňavadž hřiešné přijímáš, a dáváš jim milost, jenž
+lépe odievá, něž které rúcho tělestné, také mně hřiešné popřěješ toho
+rubáše neb suknicě. A tak i jiný hřiešný, jenž jest zle dobyl zbožie
+neb rúcha, v poslední núzi móž učiniti; neb v núzi takú všecky věci
+mají býti obecny, jakož jest pán bóh obecný i zlým lidem i dobrým,
+dávaje jim potřěbu tělestnú, i slunce i děšť.
+Aj již slyšíš, kterak máme činiti sobě přátely z zbožie, jakož velí
+spasitel; a ne darmo, neb die: "ať kdy nedostatečni budete," to jest,
+když samiem sě vám vašich skutkóv nedostane, aneb takto, a zdá mi
+sě lépe, neb latině stojí: cum defeceritis, to jest: když zemřete, "vezmú
+vás," to jest, přijmú světí u věčné přiebytky. Latině stojí: tabernacula,
+to jest: u věčné stany; česky d<obřě "přiebytky", v nichž na věky světí
+budú přěbývati. A tak jest, že lidé milosrdní, jenž chudým milosrdné
+skutky činie, a jsú dobřě živi, ihned po smrti bývají v nebeské
+královstvie přijeti. Jehož nám rač dopomoci milosrdný spasitel, jenž
+die v súdný den milosrdným: Poáte, požehnaní! přijměte královstvie
+nebeské, jenž vám jest připraveno přěd stvořením světa. Amen.
+
+336
+
+Čtenie 43.
+

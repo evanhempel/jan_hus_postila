@@ -1,0 +1,298 @@
+---
+layout: sermon
+sermon_id: "13"
+lang: cs
+version_name: Czech original
+title: Seventh Sunday After Christmas
+---
+
+NEDĚLE SEDMA PO KRISTOVU NAROZENI.
+S. Mat. v 13 kapitole, 24-30 verši.
+
+V ten čas ř. J. u s. podobenstvie toto: Podobno
+jest učiněno králevstvie nebeské člověku, jenž
+rozsiel jest dobré siemě na svém poli (neb na své
+roliJ. A když sú spali lidé, přišel jest nepřietel jeho, i
+nasál jest kúkole mezi pšenici, i odšel jest. A když
+vzroste zelina (herba t. zelina, neb v tomto čtení
+herba pšeničné osěnieJ a úžitek učini, tehdy ukáza
+sě i kúkol. A přistúpivše sluhy hospodářovy, řekli sú
+jemu: Pane! však's dobrého semene nasál na poli
+svém, i odkud má (t. pochop] kúkol? I vece jim:
+Nepřietel člověk to učinil. 1 vecechu jemu sluhy:
+Chceš-li, jdeme (t. at jdeme] i vytrháme (vyplejem
+neb vybéřemj jej. I vece: Nic [t. nechodte]! neb snad
+trhajíce kúko], vytrhali by s ním spolu pšenici;
+nechte obého rósti až do žně, a v čas žně diem
+žencóm: Vytrhajte najprve kúkol. a sviežte jej v
+snopky k páleni, ale pšenici sbeřte (neb sklidteJ do
+stodoly mé.
+Když jest milostivý spasitel tuto řeč odmluvil, učedlníci jeho
+A. nerozuměvše, jakož die S. Mat., přistúpili sú k němu, řkúce:
+Vylož nám podobenstvie o kúkoli a o roli. A on odpověděv řekl
+jest: Ten jenž rozsievá siemě dobré, jest syn člověka, ale
+pole neb rolí jest svět, a dobré siemě jsú synové králevstvie, a
+kúkol jsú synové zlostní, a nepřietel, kterýž jich nasál, jest
+dábel; a žeň jest skonánie světa, a ženci angelé jsú. Protož
+jakož kúkol bývá sebrán a ohněm spálen, též bude na skonání
+světa: pošle syn člověka angely své, a vyberú z králevstvie jeho
+všecka pohoršenie, a ty kteříž činie zlost, pustie je v pec
+ohnivú; tu bude pláč a skřěhot zubóm. Takt jest vyložil sám
+Kristus svú řěč, jehož nižádný nemóž polepšiti; protož byt nebylo nižádného výkladu jiného, věrná duše tomuto srozumějíc,
+měla by co rozjímati a vážiti pilně. Neb proto řekl jest Kristus
+přěd tiem čtením, Matouš 13, 9: Kto má uši slyšeti, slyší
+
+Neděle sedmá po Kristovu narození.
+Ale že nevyložil Kristus, co jest králevstvie nebeské, protož
+věz, že králevstvie nebeské v podobenství jest on sám; neb poňavadž on die: "Ten jenž rozsievá siemě, jest syn člověka," a
+na počátku čtenie die, že "podobno jest královstvie nebeské
+člověku, jenž rozsiel jest dobré siemě na svém poli," tehdyt
+sám sě miení v tom podobenství. A tak on jest nasál dobrého
+sěmene v světě, neb jest všecky dobré věci stvořil, člověka
+Adama a Evu bez hřiecha stvořil. A přišed nepřietel i sál v
+nich kúkol neposlušenstvie, ale najprvé nevěry; neb Eva
+nevěřila jest bohu, by umřěla, když by s dřěva zapověděného
+jedla; protož řekla jest, pochybující v božiem slově: Snad
+bychme umřěli? Protož kdyžť die Kristus, že dábel nasál
+zlosynóv, rozuměj, ne by on je stvořil, ale že on je zlosyny
+svým návodem učinil;
+B. a tak rozsievaje v ně nevěru, bludy a všelikaké hřiechy, zdělal
+jest je kúkolem.
+Pak pro budúcie výklady, že často ve čtení zmienka jest o
+nebeském králevství, a v jednom čtení jinú věc znamená, a v
+jiném jinú, protož věz, že královstvie nebeské, jakož vzní slovo,
+znamená sbor svatých, jenž jsú v nebesiech s bohem, nad
+nimiž bóh jest král; s nímž jsúc, požívají sbožie nebeského, to
+jest radosti, kterúž mají z jeho poznánie. A v tomto smysle
+obecně lidé berú v rozum králevstvie, když slyšie, ano jmenují
+královstvie; a tak móž rozumieno býti v modlitbě Mat. 6, 10,
+když řiekáme: Příď tvé králevstvie, to jest: naplň sě sbor
+vyvolených, kteříž s tebú mají býti v nebesiech. Též kdy jest
+řekl jeden člověk, sedě s Kristem u oběda, Luc. 14, 15:
+Blahoslavený ten, kterýž jiesti bude chléb v království božieml
+to jest mienil, který po smrti v nebesiech bude sě sytiti.
+Pak druhé, králevstvie nebeské v písmě znamená Krista,
+jako v 17 k. 20-21 v. S. Luk.: Otázán Ježíš od zákonníkóv, kdy
+přijde královstvie božie, odpověděl jim a řekl jest: Aj královstvie božie mezi vámi jest. Tu, die výklad,. králevstvie božie sě
+nazývá; to jako by řekl: Ptáte sě, skoro-li v králevství nebeském budú lidé? aj já mezi vámi jsem, jenž věrným svým dám
+králevstvie, a vy mne neznáte.
+Třětie, královstvie nebeské znamená zde cierkev, to jest sbor
+křěsťanský; jako v onom čtení Mat. 13, 41: Pošle syn člo-
+
+71
+
+72
+
+Ctenie 11.
+
+věka angely své, a vyberú z královstvie jeho všecka pohoršenie.
+A k tomu slovu jest řeč S. Řehoře, jenž die: Vědieno má býti, že
+častokrát v svatém písmě králevstvie nebeské nynějšieho času
+cierkev slove, o němž v jiném miestě pán die: "Pošle pán angely
+své, a vyberú z královstvie jeho všechna pohoršenie." Neb v
+onom království blahoslavenstvie, v němž svrchovaný pokoj jest,
+nebudú moci nalezena býti pohoršenie, která by byla vybierána.
+To S. Řehoř.
+Čtvrté, královstvie nebeské slove miesto svatých v nebesiech;
+jako v 20 k. 21 v. S. Mat. matka synóv Zebedei prosila Krista,
+řkúc: Rci, at sedneta tato dva syny má, jeden na pravici tvé a
+druhý na levici tvé, v království tvém. Aj ted máš, že králevstvie
+Kristovo znamená miesto, v němž on sedí s svými svatými.
+Páté, královstvie nebeské znamená písmo svaté, jako v 21 k.
+43 v. S. Mat. die Kristus kněžím a zákonníkóm: "Bude otjato od
+vás králevstvie nebeské," to jest písmo zákona, "a bude dáno
+lidu, kterýž činí póžitel>," to jest dobrému křěstanstvu, jenž požívá právě písma. A v 23 k. 13 v. S. Mat. die Kristus: "Běda vám,
+mistři a zákonníci a pokrytci! jenž zavieráte králevstvie nebeské
+přěd lidmi; vy nevchodíte, a těm, kteří vchodie, vjíti brá
+C níte." Co jest: zavieráte králevstvie nebeské přěd lidmi? S. Jan
+zlatoústý die, že písmo, jenž ukazuje královstvie nebeské; brány
+toho královstvie jsú rozumové, a ty rozumy mistři, zákonníci a
+pokrytci přěd lidem zavierají, brániece, aby sprostní písmu
+nerozuměli, a sami také v písmě rozumem pravým nevcházejí.
+Protož velmé neradi vidie, že lidé světští umějí písmo, a bránie
+jim, jako ted Kristus die, aby nevchodili, to jest, aby nečtli, a
+tak aby nerozuměli, a zvláště proto, aby lidé nesrozuměli,
+kterak oni mají býti živi; druhé proto, aby jich hřiechóv
+netresktali; a třětie proto, aby v kázaní jich bludu neznamenali,
+a že musějí sě pilnějie učiti; a čtvrté, že mnějí, by od světských
+ne tak vzácni byli. Ale dali jest jim Kristus požehnánie za to,
+řka: Běda vám! A kdyžt Kristus die: "běda," tut za hřiech
+smrtedlný úkazuje věčné zatracenie; neb běda jemu, ktož v ně
+sě dostane.
+
+Neděle sedmá po Kristovu narození.
+Také doktorové, mistři, kněžie, zákonníci a pokrytci, ač mají
+druzí klíče toho králevstvie, avšak jim otvierati nechtie, a hóře
+že bránie; protož die jim k pozdravení Kristus v 11 k. 52 v. S.
+Luk.: "Běda vám zákona umělým, jenž ste vzěli klíče uměnie! '
+to věz písma; "sami ste nevchodili, a těm, kteří vchodili, bránili
+ste.," Aj tato slova Kristova vykládají prvú jeho řeč, že co dřieve
+řekl: "zavieráte králevstvie," to teď die: "zavieráte písmo,
+vzemše klíč," to věz rozum písma. A těch jest nynie mnoho,
+jenž umějíce písmo, nechtie vedlé ho živi býti, ani jiných učiti;
+a ač kto chce učiti, ale bránie. Nuž pro rozum Kristova čtenie
+pomni, ktož chceš rozuměti, kde ve čtení králevstvie nebeské
+co znamená, neb jinak neurozumieš. Aj toto čtenie die:
+"Podobno jest učiněno králevstvie nebeské člověku, jenž rozsiel
+siemě dobré na svém poli," to jest: podoben jest Kristus, syn
+člověka, člověku, jenž rozsiel jest siemě dobré, jako tomu, jenž
+jest pšenice nasál na svém poli: sedlák pšenice na svém poli, a
+syn člověka, Kristus, dobrých lidí v své cierkvi; neb pole
+znamená svět, jako Kristus vyložil, a svět znamená sbor lidský,
+jako onde v 1 k. 10 v. S. Jana: Svět ho nepoznal, to jest: sbor
+zlých lidí Krista pravú věrú nepoznal. Pak siemě jest slovo
+božie, viera, jenž jest siemě dobré, neb činí syny božie. A to
+siemě rozsál jest Kristus v poli cierkvi svaté tak, že prvé byli sú
+lidé země dobrá; neb sú byli jelikožto od boha stvořeni bez
+hřiecha, ale zprzněni hřiechem byli sú země chamradím a
+trním zkažená; ale z milosti Kristovy věrú, tiem semenem, sú
+synové boží učiněni. A tak Kristus die: "Siemě jsú synové
+královstvie," to jest: jsú synové moji, jenž ke mně a k spasení
+příslušejí věrú a milováním.
+"A když sú spali lidé," to jest, když sú léní byli prelátové
+D. a kněžie, neostřiehajíce Kristova pole, jakož die S. Augustin; a
+také když sú jiní lidé spali, to věz, netbali svého spasenie,
+"přišel jest nepřietel jeho," Kristus die: dábel, jenž od stvořenie
+člověka, z své závisti vždy jest nepřietel člověka. Ten nepřietel
+dábel, jehož Kristus nazývá člověkem, nasál jest najprvé
+kúkole, když v čistú zemi, v Adama a v Evu, naučenú u vieřě
+od boha, vsál jest lež, jakož die písmo Genesis v prvních knihách v 3 k. 4 v., řka, že neumrú; a to jest učinil chytřě, počav
+
+73
+
+74
+
+čtenie 11.
+
+od ženy, když při ní Adam nebyl, jako činie zlosynové, když
+muže s ženú nenie. Také otázal jie, aby mohl vzvěděti, jest-li
+příchylna k přivolení; a znamenav v odpovědi, ana řkúc:
+11abychme snad neumřěli," ihned jako prvý lhář, né brž lež
+pravdě Kristově protivná, řekl jest: "Nikoli neumřete." A tak
+nasáv kúkole, jakož die čtenie, "i odšel jest." Jakož die S. Beda,
+že často starý nepřietel, když již člověka pokušením porazí, za
+čas otejde: ne proto, aby své zlosti konec učinil, ale aby potom
+brzcě sě navrátě, lehčejie pokusil. A tak někdy uveda člověka v
+hřiech, již maje jako jistého v své moci, jako rybář rybu u vrši
+neb na udici, pohledá jiného; a někdy pokúše člověka v jeden
+čas, nemoha ho přěmoci, otejde, aby potom, když sě on nevystřěže, spieše sklalnal; jako die čtenie: "když sú spali lidé", to
+věz, nevystřiehajíce sebe, přijda i pokusí, a nasěje kúkole. "A
+když vzroste zelina a úžitek učiní, tehdy ukáže sě i kúkol;" to
+jest, když viera tak od ďábla zprzněná vzjide a úžitek učiní, to
+jest skutek v sobě dobrý: jako když člověk postí sě, almužny
+činí, modlí sě, a v hřiechu smrtedlném vědomě stojí.
+"Přistúpivše sluhy hospodářovy," to věz světí a nynější věrní,
+túž žádostí jdúce, kteříž znamenají, kterak mnoho kúkole jest
+nasáto od ďábla v pšenici, "řekli sú," jako diviece sě: "Panel
+však's dobrého semene nasál na poli svém, i odkud má, to věz
+pochop a moc kúkol— a dále řkú: "Chceš-li, vytrháme jej."
+E. Tohoto slova nynější prelátové velmě sě držie, a neumějíce
+rozeznati mezi kúkolem a mezi pšenicí, co jest lepšieho, i viece
+trhají pšenici než kúkol, tupiece viece pravdu než křivdu, a
+majíce pravdu za lež, a zasě lež za pravdu, tak že plní sě na
+nich proroctvie Isai. v 5 k. 20 v. o nich: Běda, kteříž řkú tomu,
+co jest zlé dobré, a co jest dobré řkú zlé! A druzí slepci řkú: že
+neškodí, ale dobré jest, s jedniem zlým mnoho dobrých lidí
+zahubiti! Jakož sem od nich slýchal, ani dávají příklad, že pro
+jednu tunu heryňkóv zlých upalují někomu jiných mnoho
+dobrých, a též postavóv sukna; a již zjevně sú toho potvrdili, že
+sú u papeže Jana XXIII buly dobyli, na níž přikazuje zjevně,
+aby i zlé i dobré knihy mistra Jana Viklefa spálili, neb je velmě
+hnětú, že psáno v nich o jich svatokupectví, o pýše, o smilství a
+o lakomství; a najviece sě hněvají, že je nazývá almužníky,
+
+Neděle sedmá po Kristovu narození.
+a že nemají jako světští páni panovati; a také proto, že píše,
+když sú kněžie zle živi a nechtie zlosti ostati tehdy světští řádem a dobrým úmyslem, aby neměli nač hřěšiti, mohú jim
+sbožie otjieti, a také desátkóv jim nedávati. A tyto řeči potupili
+sú někteří doktorové s kanovníky, s faráři, a s mnichy u Prazě
+v radnici, po německu řkúce na rathauzě; ale mnozí mistři, a
+takměř věččie strana jich, a obec bakalářóv a studentóv, k
+tomu potupení sú nepřistúpili ale brž mistři stáli sú v obecné
+škole v kolleji, a dovodili sú písmem, že sú ti doktorové s rotú
+svú pravdu potupili, a volali sú ty doktory do školy, aby dovedli písmem; a oni sú nechtěli, neb sú nesměli, nemajíce
+písma, jímž by mohli dovesti svého potupenie. A toho všeho
+byl jest póvod Štěpán Páleč, ten doktor, někdy když jest
+pravdu milo
+F. val, mój věrný a milý přietel, a druhý Stanislav; a vzdvihla sta
+sě proto, že sme my nechtěli přivoliti k bule papežově, na níž
+jest dal kříž, to jest moc, aby, ktož kolivěk chtie, bulte kněžie,
+jeptičky, i mnišie, připravili sě na zahubenie krále Ladislava
+Napulského, i všech, kteříž pod jeho mocí jsú a s ním držie; a
+v té bule odsúdil ho do čtvrtého pokolenie, a mnoho jiných
+věcí, a dává odpuštěnie hřiechóv i muk, ktož to učinie, neb
+penieze dadie. I dal jest milosrdný spasitel poznánie mnohým
+mistróm, kněžím i světským, že sú k tomu nepřivolili pro
+mnohé věci; a druzí sú hrdla svá na tom složili, neb sú proti
+kazatelóm odvolávali, když sú kázali, že papež jest bóh
+zemský, a móž komu chce dáti odpuštěnie hřiechóv i muk, a
+že má mečem železným bojovati, jako světský král; a z těch
+Martin, Jan a Stašek sú stěti, a ve jmeno božie položeni sú u
+Betlémě, a jiní potom sú jímáni, mučeni, i žalařováni.
+Toto píši za věrnú kroniku, aby naši potomci, přihodí-li sě
+též, věděli, že sú sě přěd nimi jiní směle na smrt posadili. A
+dobřě přileží k tomuto čtení, že bránil jest hospodář sluhám,
+aby nevytrhávali kúkole, aby mnějíce, by kúkol vytrhali, nevytrhali i pšenicě; neb die čtenie, že řekl jim hospodář: "Netrhajte kúkole, aby snad trhajíce kúkol, nevytrhali spolu s kúkolem i pšenicě, ale nechte obého rósti až do žni." Toho nenie
+nečinie, ale trhají pšenici a kúkole nechají rósti; neb lhářóv s
+odpustky čert jest všudy takměř nasál, a těch velmě prelá-
+
+75
+
+76
+
+Čtenie 11.
+
+tové a kněžie druzí hájějí, i doktorové a druzí mlčie, a nesmějí
+proti dáblovu kúkoli úst otevřieti. A tak že sú zesnuli lidé, jedni
+léností, druzí bázní, a třětí dáblovú poraženi jsúc chytrostí,
+protož nasál jest nepřietel člověk mnoho v pšenici kúkole; nasál
+jest také proto zvláště ďábel kúkole, že nechtie nynie preláti i
+doktorové, aby písmo svatého čtenie rozsúdilo pravdu, ale aby
+oni sami súdili: jakož sú biskupové, mistři, kněžie a zákonníci
+Krista falešným svědectvím odsúdili. A tak svými hanebnými
+ustaveními súdie i odsuzují věrnú kněží, jenž proti jich
+svatokupectví a proti jiné zlosti káží. Avšak mají to věděti, že
+poňavadž panny Marie, a tak všie říše nebeské jest tato rada:
+"Což kolivěk die vám Ježíš, to čiňte," a Ježíš die, Matouš 10, 7-9,
+aby oni napomínali, aby zlata a střiebra sobě nesobili, aby darmo
+dávali, aby nesmilnili; a teď die, aby obého rósti až do žně
+nechali, aby z své hlúposti, a snad druzí i ze zlosti, pšenicě s
+kúkolem, t. dobrých se zlými nezahubili; neb
+on sám, jenž nemóž poblúditi, v súdný den die angelóm svým, -_
+jako spravedlivý súdcě, aby kúkol v snopky svázali. Neb zlým budú
+nohy i rucě svázány, a budú v zevnitřnie temnosti uvrženi; ale
+pšenicě, to jest všichni vyvolení, do stodoly radosti nebeské budú
+sebráni.
+A znamenaj tu, že jakož kúkol některak prospěšen jest pšenici,
+neb vieže spolu stéblé, že móž lépe státi proti větru, aby neklátil
+jí, jako by klátil, když by kúkole nebylo; a na počátcě něco
+podoben jest kúkol k pšenici, a vytrhánie by kúkole bylo škodné,
+kdyby jej trhali a pšenici tlačili: tak zlí, když sú řiedce rozsieti
+mezi dobrými, něco jsú dobrým ku pomoci veliké odplaty, a jsú
+jim jako k zvykání v boji duchovniem. Neb kdyby nižádný zlý
+dobrému nEpřěkazil, dobrý by neměl pokušenie, a tak ani boje
+velikého, protož neměl by veliké odplaty; ale že zlý jest dán
+dobrým na pokušenie, aby setrvajíce proti jeho zlosti, měli velikú
+odplatu, protož všěch zlých vytrhánie, kdyby nynie bylo, byla by
+dobrým veliká újma. Protož najvyšší pán a najmúdřější die:
+"Nechte obého rósti až do žně."
+G. Avšak druhdy slušie světským kúkol vypleti, vedlé rady písma
+božieho, ale ne vedlé jich všech ustavení; i mohú to druhdy
+učiniti, ale c velikú radú rozumných lidí v písmě bo-
+
+Neděle sedmá po Kristovu narození.
+
+77
+
+Lem a z milosti, a s pilností , aby pšenicě nepotlačili, ani z kořen
+vytrhali. Ale Petrovi v 18 k. 17 v. S. Mat. přikázal jest spasitel, člověka
+hřiešného po třětiem napomenutí, když má hřiech na sobě zjevný a
+obcě nechce poslúchati, aby sě ho varoval jako pohana a zjevného
+hřiešníka; ale nepřikázal mu zabiti: a pak nynější náměstkové Petrovi
+upletli sú sě v popravy, a vzdějíce věrnému křěstanu kacieř, a upálé,
+jako sú kněžie učinili Ježíšovil
+
+78
+
+čtenie 12.
+

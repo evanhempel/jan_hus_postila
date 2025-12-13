@@ -1,0 +1,282 @@
+---
+layout: sermon
+sermon_id: "15"
+lang: cs
+version_name: Czech original
+title: Ninth Sunday After Christmas
+---
+
+NEDĚLE PO NAROZENI BOZIEM DEVÁTA.
+Píše svatý Lukáš v 8 kapitole, 4-15 verši.
+
+V ten čas, když zástup mnohý sbieráše sě a z měst
+chvátáchu k Ježíšovi, řekl jest v podobenství: Vyšel jest ten,
+jenž rozsievá, rozsievat semene svého. A když rozsieva, jiné
+padlo podlé cěsty a potlačeno jest, a ptáci nebeští szobali
+(snědli] je; a jiné padlo na skálu, a všed uvadlo (uschlo], neb
+nemělo jest vláhy; a jiné padlo mezi trnie (mnohá], a spolu (s
+trním] vzrostlá trnie utlačila sú je (siemě]; a jiné padlo v zemi
+dobrú, a všed (t. kdy jest vzešlo] učinilo úžitek stý. Ty věci
+řek, voláše: Ktož má uši k slyšení, slyš! I tázáchu učedníci
+jeho, které by to bylo podobenstvíe? Jimž on vece: Vám dáno
+jest znáti tajemstvie (mysterium] králevstvie božieho, ale
+jiným v podobenství (neb skrze podobenstvie, per
+similitudinem], aby vidúce (tělesině] neviděli [duchem hodně]
+a slyšiece nerozuměli (k spasení sobě]. A jest toto
+podobenstvie (Est autem haec parabola t. takto sě vykládá]:
+Siemě jest slovo božie; a kteříž podlé cěsty, ti jsú, jenž slyšie,
+pak přijde ďábel i vynme slovo z srdce jich, aby neuvěřiece
+spaseni nebyli. A kteří na skálu, ti jsú, kteříž když uslyšie, s
+radostí přijímají slovo; a ti kořenóv (radices] nemaji, neb za
+čas lad tem pus] věřie, a v čas pokušenie odstupují. A kteréž
+v trnie padlo, ti jsú, jenž slyšie, a v pečlivostech a v zbožích a
+v rozkošech života (tělestného obyčejem zlým] jdúce, udušeni
+bývají (t. v. duchovniem životě, neb slovo božie v nich zhyne].
+Ale které v zemi dobrú, ti jsú jenž v srdci dobrém a
+najlepšiem, s]yšiece slovo, zachovávají a úžitek přinosie v
+utrpení (t. trpiece do kontě pro slovo božie].
+Ukazuje svatý Lukáš, že lid veliký chvátal jest k Ježíšovi; druhé, že
+Ježíš mluvil jest v podobenství; třětie, že sám jest
+vyložil učedlníkóm podobenstvie. O prvém prvé řečeno jest, že
+rozličnými úmysly chvátali sú lidé k Ježíšovi: že pro zdra
+vie, pro nasycenie, pro divy, pro dobré naučenie, a kněžie pro
+
+88
+
+Ctenie 13.
+
+utrhánie a rúhánie. A tak die čtenie: "když zástup mnohý
+sbieráše sě a z měst chvátáchu k Ježíšovi," to věz, jedni aby
+slyšeli ho sobě k spasení. A že těch bylo málo, protož
+nekázal jim, aby všickni ihned rozuměli; jakož sám die ve
+čtení, že proto mluví v podobenství, aby slyšiece nerozuměli.
+I die čtenie: "Řekl jest
+A. v podobenství." V tom naučil jest spasitel své učedlníky, aby
+nevděčným ne ihned, když chtie, pravili božieho tajemstvie,
+an jest řekl v 7 k. 6 v. S. Mat.: Nerodte svatého dávati psóm;
+to jest: slova, jenž svaty lidi činí, nedávajte utrhačóm. Bych
+jiné příčiny pravil, proč jest mluvil v podobenství, netřěba
+jest; neb jest on sám odpověděl, že proto tak mluví, aby zlí
+nerozuměli. Ač jsú jiné příčiny, jako ta: aby příkladem naučil
+a v paměť sprostným položil; a také aby skrze věci časné k
+nebeským věcem nás povzdvihl. A tak milostivý spasitel
+někdy jest mluvil zjevně, a někdy skrytě v podobenství; a
+potom jest nám vyložil, jakož ukazuje svaté čtenie. Protož die
+S. Řehoř, že již toto čtenie výkladu nepotřěbuje, jedné
+napomenutie; neb poňavadž je sama pravda vyložila, o to sě
+všetečně člověk křehký nepokúšej. Tak die Řehoř.
+Protož mile držě spasitele našeho vyloženie, vzpomínám i
+sobě i jiným, že siemě, jenž jest slovo božie, padne-li v smilníky, jenž jsú vedlé cěsty, kterážto cěsta jest srdce
+myšleními smilnými utlačené, to uvadne, nepřinese
+blahoslavenstvie; a upadne-li na skálu, to věz na srdce
+tvrdé pýchú a zufalstvím, opět úžitka nepřinese; a upadne-li
+v trnie, to věz v lakomé
+B. srdce, opět zhyne; jakož Kristus die, že bude udušeno pro
+pečlivosti, pro sbožie, a pro rozkoši. A tak smilní, pyšní a
+lakomí od Krista, že v nich slovo božie neprospievá, sú
+ukázáni; a že vešken svěť těmi jest naplněn, protož malíčko
+jest těch, v nichž slovo božie úžitek nese. A že jimi svět
+naplněn jest, svědčí S. Jan 1 v 2 k. 16 v. řka: Všechno, což
+jest v světě, neb jest žádost těla, neb žádost očí, neb pýcha
+života. Žádost těla jest chlipnost smilstvie a rozkoši; žádost
+očí jest lakomstvie, neb lakomý, což uzří, chce mieti; pýcha
+života ta sě sama miení. Aj těmi hřiechy lid světský, to věz v
+světě zlý, jest naplněn, že každý zlý neb jest smilný, neb
+lakomý, aneb pyšný, a některý všěch těch hřiechóv plný.
+Aniž móž býti kto v hřieše po
+
+Neděle po narození božiem devátá.
+
+89
+
+krstu v smrtedlném, by nebyl pyšným; neb die písmo, Ecc1. 10, 14:
+Počátek každého hřiecha jest pýcha. Neb d'ábel najprvé v pýchu jest
+upadl, chtě býti najvyššiemu podobný v moci neb rovný, nechtě
+jemu býti poddán; neb ktož nechce nižádného mieti nad sebú, ten
+chce býti najvyšší. Tak jest mienil angel Lucifer, i učinil sě již jest
+Luciper, to jest byv jasný, jest v temnostech.
+C. Týmž hřiechem hřěší každý, ktož božieho přikázanie jednoho,
+kterého kolivěk, nedrží. U příkladě: bóh die: "Nesesmilníš," a ty pak
+v svátek sesmilníš: tu ihned najprvé pýchu ukážeš bohu, že ho
+neposlúcháš. Druhé lakomstvie ukážeš, viece saháš, než máš mieti;
+neb netoliko jest lakomstvie na penězích, ale jako na kravách, neb
+kobylách, též i na ženách. Třětie si sesmilnil. Čtvrté si závist učinil,
+že's záviděl té ženě, vdově neb panně, neb i prázdné ženě, že ona bez
+tebe jsúc, od tebe nebyla pohrzěna. Páté si hněv učinil své duši; neb
+die S. David, žalm 11, 5: Ktož miluje zlost, nenávidí duše své. Šesté
+učinil's lenost, neb's měl v ten čas bohu slúžiti, a to si zmeškal.
+Sedmé's libost tělestnú, jenž přěsahá lakotu, učinil. A tak mně, by
+jeden hřiech smrtedlný učinil, sedm's jich spáchal, né brž všecka's
+božie přikázanie přěstúpil.
+D. Prvé jest: ''Nebudeš mieti bohóv jiných." A ty si ženu za boha oblíbil;
+neb pravie světí: Což kto miluje viece než boha, ten to za boha má.
+Věř svatému Pavlu apoštolu, jenžt k Filipenským v 3 k. 19 v. píše,
+řka, že jich bóh břicho jest, to věz obžerníkóv: a jinde die,
+Kolossenským 3, 5, že lakomstvie jest modloslúženie. - Druhé
+přikázanie jest: "Nevezmeš jména pána boha svého nadarmo." A ty
+přisáh na krstu Kristovi, odřěčil si sě smilstvie, pýchy i každého
+hřiecha smrtedlného, a pak smilníš; a vzal's jmeno křěstan od
+Krista, a pak si darmo jeho jmeno vzal. Neb die S. Augustin i svatý
+Cyprian, veliký mučedlník a biskup, že nadarmo ten jmeno
+křěstanské béře, ktož Krista v skutciech nenásleduje; a smilník
+kterak následuje čistého panicě Jezu Krista? - Třětie přikázanie:
+"Pomni, aby den sváteční světil." Jejž světiti jest, od hřiechu sě pilně
+vystřieci: a ty pak v svátek smilníš, aneb o smilstvie frejem, tacem,
+úmyslem stojíš. - Čtvrté přikázanie: "Cti otcě svého i máteř svú."
+
+90
+
+čtenie 13.
+
+A ty smilně, nectíš otcě pána boha, ani matky najdóstojnějšie,
+cierkvi svaté, jenž jest_ sbor všech vyvolených k spasení s pánem Kristem. - Páté přikázanie: "Nezabieš." A ty pak smilstvím
+zabil si svú duši, a druhú té smilnicě, s níž si smilnil. - Šesté
+jest: "Nesesmilníš." To si upřiemo přěstúpil. - Sedmé:
+"Nepokradeš." A ty kradeš bohu chválu a sobě čas smilstvím, a
+jako zloděj kryješ sě, aby tebe neviděli, a nepomníš, že všudy
+jest bóh a všudy tě vidí, i angelové i také v nebesiech světí. A
+když vzvieš, že krásti jest cizí věc vzieti bez přivolenie toho, čie
+jest ta věc, a ty vzla's ženu boží bez jeho přivolenie k smilství, i
+kterak nejsi zlodějem? - Osmé přikázanie: " Nepromluvíš proti
+blížniemu svému křivého svědectvie." A ty proti svému spasiteli s
+dáblem stojíš, a skutkem svědčíš, že on nenie tvój bóh. Neb die S.
+Pavel k Titovi v 1 k. 16 v., že hřiešní vyznávají boha, ale svými
+skutky zapierají. - Deváté přikázanie: "Nepožádáš domu blížnieho
+svého, ani ženy jeho." A ty žádaje k smilství které kolivěk ženy,
+žádáš domu Kristova, svého blížnieho, v kterém domu on chce na
+věky přěbývati; a táž žena jest Kristova vedlé stvořenie a jeho krví
+vykúpenie. Pak-li jest dobrá a ty jie žádáš, tehdy žádáš Kristovy
+pravé manželky; neb každá dušě, jenž jest v milosti boží bez
+hřiecha smrtedlného, jest pravá choť Kristova, a zvláště jest-li
+vyvolena k spasení věčnému. - Desáté přikázanie: "Nepožádáš
+věci blížnieho svého." A ty žádáš, jakož řečeno jest, ženy Kristovy,
+jenž jest tvój blížní, člověkem jsa; neb die S. Augustin: Každý
+člověk jest každému člověku blížní.
+A této řeči potvrzenie jest slovo S. Jakuba v epištole 2 k. 10 v.,
+jenž die: Ktož v jednom jest vinen učiněn, jest všech vinen. To
+jest: ktož jedno přikázanie jest přěstúpil, všemi jest vinen, neb
+nižádného nedrží. A chtěl bych, by tuto řeč každý člověk i uměl, i
+dobřě ji pamatoval; neb zdá mi sě, že by spieše sě hřiechóv
+smrtedlných uvaroval. A k tomu velmě pomocno jest čtenie
+Kristovo, v němž položil jest, že siemě, božie slovo, padá ve čtvery
+lidi, a jedné v jedněch ostává a přinášie úžitek.
+E A tu znamenaj, že slovo božie slove siemě: prvé proto, že jakož
+země jest úžitečná, proto že plodí siemě a úžitek přinosí, a tak
+pro siemě jest vzácná: též slovo božie činí srdce člověčie
+
+Neděle po narození božiem devátá.
+
+91
+
+bohu vzácné. Protož die spasitel, že země dobrá jsú, kteříž v
+srdci dobrém a najlepšiem, slyšiece slovo, zachovávají, a přinosie úžitek v trpění neb v setrvání. Druhé, že jakož z jednoho
+zrna bývá jich mnoho: též z slova božieho rodí sě synóv božích
+mnoho. O tom v 13 k. 8 v. S. Mat. die Kristus, že některé
+přineslo póžitek stý, některé třidcátý, některé šedesátý. Třětie,
+že sěmene nesětie jest lidu k smrti, tak že by lidé nesěli, neměli
+by co jiesti, a tak by hladem mřěli: též slova božieho nesětie jest
+lidu k smrti duchovní. Protož Isaias v 1 k. 9 v.: By nám bóh
+zástupóv byl semene neostavil, jako Sodoma bychme byli a
+Gomorra, to věz, nynie v hřiešiech a potom v mukách. Gomorští
+měštěné a Sodomští měli jiesti a píti dosti, byli prázdni, a
+neměli, kto by jim kázal, protož němými hřiechy duchovně
+zemřěli sú.
+F. Z toho máš dóvod, kterak jest úžitečné slova božieho rozsievánie; neb poňavadž to siemě, slovo božie, jest pokrm, jímž sě
+krmí a živí člověk vnitřní, dušě, aby rostl v synovstvu božiem v
+dóstojenstvie některak nesmierné, zjevno jest, že velmě jest
+úžitečné, hodné rozsievánie toho semene a přijímánie. Protož
+Kristus, váže toho semene rozsievánie, "vyšel jest" od otcě boha,
+vtělil sě jest, aby to siemě rozsieval; protož on jest ten, o němž
+sám die: "Vyšel jest ten, jenž rozsievá, rozsievat semene svého."
+A poňavadž siemě jest slovo božie a on jest bóh, ukázal jest tiem
+čtením, že on jest bóh, jenž jest vyšel z života panny Marie
+"rozsievat semene svého." Protož on jest sám pravý a prvý
+rozsěvač, ale jiní jsú rozsievky, z nichž on rozsievá. Protož řekl
+jest učedlníkóm svým, Mat. v 10 k. 20 v.: Vy nejste, jenž mluvíte,
+ale duch otcě vašeho, jenž mluví v vás. To věz: ne vy od sebe
+máte, což pravdy mluvíte, ale od ducha svatého, a tak ode všie
+svaté trojice. Protož milý brachu! hrzieš-li mnú, rozsievkú
+nečistú a košíkem smrdutým, ale nezamietaj semene slova
+božieho; nebi bóh skrze ten košík tobě rozsievá. Protož die
+Kristus, Lukáš 10, 16: Ktož vámi hrzie, mnú hrzie! to věz, když v
+tom jich neposlúchá, co Kristus skrze ně velí.
+Druhý dóvod, že velmě úžitečné jest slova božieho kázanie a
+slyšenie dóstojné: neb syn boží sám jest rozsieval neb kázal,
+
+92
+
+Čtenie 13.
+
+a mezi jinými činy svými najviece pilen kázanie byl; málo krstil,
+mši jedinú slúžil, když chtěl život skonati; ale kázati počal ve
+dvanadsti letech, když jest v chrámě mistry učil, Luk. 2 k. 46 v.
+Potom od třidcieti let počav, tři léta a několik měsiecóv až do
+smrti kázal, a pro kázanie ukřižován; pak z mrtvých vstav, opět
+kázal učedlníkóm svým, a vstupuje na nebesa, za odchodné jim
+přikázal, řka, Mr. 16, 15: Jdúce po
+všem světě, kažte čtenie každému stvoření. A tak z jeho příkladu
+jest dóvod prospěchu kázanie pravdy božie.
+Opět dóvod: že mše slúženie, jenž jest chleba posvěcenie, aby
+byl božím tělem, ta mšě činí, že chléb bude tělem božím; a to
+nebude na věky: ale hodné kázanie to činí, že duše některak
+vboží sě a s Kristem v jednotu v milosti vejde, a na věky tak móž
+ostati. A tak že troje přívuznost s Kristem slovem zachovaným
+bývá, jakož die sám Kristus, Mat. 12, 50: Ktož kolivěk činí vóli
+otcě mého, jenž v nebesiech jest, ten mátě má, sestra má, i bratr
+mój jest. A váže viece to duchovnie přirozenie než tělestné, řekl
+jest ta slova jednú na kázaní k jednomu, když mu řekl, Matouš
+12, 47: Otec tvój a mátě tvá hledají tebe; a on ihned řekl, Matouš
+12, 48 a 50: Kto jest otec mój a mátě má? každý, ktož činí vóli
+'otcě mého, ten mátě má, sestra má, i bratr mój jest. A též kdy
+žena jedna chválila ho a jeho matku, řkúc, Lukáš 11, 27:
+Blahoslavený břich, jenž tě nosil, a prsí, které's ssál! a on váže
+viece duchovnie rozenie, jenž jest z hodného slyšenie slova
+božieho, odpověděl jest, řka, Lukáš 11, 28: Ovšem, to věz: tak
+jest; ale blahoslavení, kteříž slyšie slovo božie a zachovávají je, to
+věz plně. A ti jsú země dobrá, v níž slovo božie, to siemě, upadá a
+úžitek přinosí.
+G, Ale by ta země srdce našeho byla dobrá, musie mieti do sebe
+pateru ctnost: Prvé, aby jako země má stálost pevnú, že stojí,
+jako jí bóh přikázal: též země našeho srdce má mieti viery
+ustavičnost. Opět země má spoludržělivost, tak že všechna chce
+spolu býti: a my máme k sobě mieti lásku, abychom všichni
+spolu byli u milosti. Země jest studená: a my máme býti tiší,
+zapálenie hněvivé hasiece. Země suchost má: a my v pití a v
+jedení máme mieti skrovnost. Země má těžkosť a vždy dolóv sě
+tiehne: a my máme mieti pokoru proti pýše, abychom sě
+
+Neděle po narození božiem devátá.
+
+93
+
+s ďáblem nepali vzhóru. A tak bychom byli země dobrá, o níž Kristůs
+mluví ve čtení; a chtě abychom dobřě to pamatovali, řekl jest: Ktož
+má uši k slyšení, ten slyš. Tu die S. Řehoř: Pomněte, co sě die: Kto
+má uši k slyšení, ten slyš. A dále die: Protož pilni bulte, aby přijatá
+řěč v srdečném ušě ustala; pilni budte, at siemě vedlé cěsty
+nepadne, at zlý duch nepříde a z paměti slova nevynme! To Řehoř.
+H. Ještě znamenitá řeč jest Kristova, že zbožie nazývá trním; a ne
+darmo, ale proto, že dusí slovo božie, neb ho i kázati i slyšeti brání,
+a ovšem zachovávati. Neb die Kristus: "A jiné padlo mezi trnie, a
+spolu vzrostla trnie i utlačila sú je," to věz, zbožie mnohá utlačila sú
+slovo božie, jakož die Kristus. Tu die S. Řehoř: Bratřie najmilejší!
+bychom my vám trním zbožie nazvali, snad byste nám nevěřili; neb
+kto by mně věřil, bych že trnie jest sbožie vyložil? a najviece proto, že
+trnie bode a zboží těší. Avšak zbožie trnie jest: neb myšleními
+mnohými mysl derú. To Řehoř. Miení, že zbožie jest trnie, jakož
+Kristus die; neb pečlivostí velikú člověka derú, a v něm slovo božie
+dusie ta zbožie. Bode zbožie člověka v zdravém životě, na smrti, na
+súdě, a v pekle. Na světě třmi bodeními, to věz: dobýváním, držením
+a ztracením; neb těžce ho člověk dobývá, těžce chová, a těžce
+ztracuje. Na smrti bode, an by nerad ot něho umřěl a s sebú nelzě
+vzieti, an sě vrtí, komu sě dostane, myslí. Na súdě ubodne, neb die
+bohatcóm Kristus, Matouš 25, 41-42: Lačen sem byl, a nedali ste mi
+jiesti; žieznil sem, a nedali ste mi píti; jdětež zlořečení do věčného
+ohně! Pak u pekle budú bósti na věky, jako onoho bohatcě, jenž jest
+chudého Lazara nekrmil, a jest pohřeben v pekle. Jehož nás uchovaj
+milý Kristus!
+
+94
+
+Čtenie 14.
+

@@ -1,0 +1,273 @@
+---
+layout: sermon
+sermon_id: "29"
+lang: cs
+version_name: Czech original
+title: Fourth Sunday After Easter Night
+---
+
+NEDĚLE ČTVRTÁ PO VELICĚ NOCI.
+S. Jan v 16 kapitole, 5-15 verši.
+
+V ten čas ř. J. u. s.: Jdu (t. skrze utrpenie jelikožto člo věk) k
+němu (k otci], jenž mě poslal (abych pravdě svědectvie vydal a
+za lid umřěl], a nižádnýzvás netieže mne: Kam jdeš? A že ty
+věci [o vašich pátkách budúcích] mluvil sem vám, zamúcenie
+naplnilo srdce vaše. A já pravdu pravím vám, úžitečné jest
+(neb potřěbie jest] vám, abych (neb aCj já šel (pojdu]; neb
+neodejdu-li já (vstúpě na nebesa po zmrtvých 'vstání], utěšitel
+(duch svatý] nepříde (v dařiech] k vám, a pakli odejdu, pošli
+ho k vám. A když příde on, tresktati bude svět z hřiecha (jejž
+mají J, a z spravedlnosti (jiež nemají], a z súdu (jehož sě
+nebojie]: z hřiecha proto, že nevěřili sú (mně a v mé řeči]; a z
+spravedlnosti (jimž sem ji ukázal), že jdu k otci, a již neuzříte
+mne (t. do třětieho dne]; a z súdu, že knieže [dábel] světa
+tohoto (zlých lidí v tomto světě] již súzeno jest (k zatracení].
+Ještě mnohé věci mám vám praviti (potom], ale nemóžete (pro
+hlúpost a pro času krátkosř] snésti (slyšeti a spamatovatiJ
+nynie, ale když přijde onen duch pravdy, naučí vás každé
+pravdě (k spasení prospě2né]; neb nebude mluviti od sebe
+samého (ale i od otce mého i ode mne], ale kteréž kolivěk věci
+uslyší (t. s otcem i se mnú věčně vólíJ, mluviti bude (vám vnitř
+i jiným skrze vás], a které věci budúcie jsú, praviti bude
+(vnitřním učením] vám (abyste mě měli za boha, a jiné témuž
+učili]. On mé oslaví (slavného v lidu učiní], neb z mého vezme
+[to což pravdy jest] a praviti bude vám. Všecky věci, kteréž má
+otec, mé jsú (jako otcovy]; protož řekl sem, že z mého vezme
+(duch svatý] a praviti bude vám.
+Rozum tohoto čtenie jest podobný mnoho k dřevniemu čtení, v němž
+milostivý spasitel mnoho rozumóv zavierá, kteréž duchem svatým
+potom sú seznali. A najprvé praví svým učedlníkóm, že od nich jde;
+druhé že jim ducha svatého pošle; třětie,
+
+206
+
+Čtenie 27.
+
+že duch svatý nadarmo nepřijde, ale že bude svět tresktati, učedlníky
+pravdě učiti, a Krista slaviti. I die milý Kristus: "Jdu." skrze utrpenie
+jelikožto čověk, "k němu," to věz k otci, "jenž mě poslal," abych pravdě
+svědectvie vydal, a za lid umřěl; a jdu také, to věz časem svým
+vstúpím k otci na nebe. A tak od počátka svého vtělenie vždy jest
+Kristus šel k otci, jakož i každý z nás od počátka života svého neb jde
+k spasení, a tak k otci nebeskému, neb k zatracení, a tak k ďáblu
+šeradnému.
+„A nižádný z vás netieže mne: Kam jdeš?" To miení Kristus, že tak
+jest bylo jeho jitie zjevné vedlé skutkóv, aby byl blahoslaven jelikožto
+člověk, že nižádný z učedlníkóv v tom nepochyboval, by tak nešel k
+blahoslavenství králevstvie nebeského; neb i pohané to držie, že ktož
+jest dobřě v ctnostech živ, že pojde k bohu do nebe. A ač bóh všudy
+jest, avšak zvláště jest v nebi neb nad nebesy, neb nic ho nemóž
+oklíčiti a osáhnúti; ale Kristus jelikožto člověk byl jest osažen břichem
+panny Marie, a chodil jest, ač božstvím všudy jest byl, a sstúpil jest
+do pekla duchem, umřěv vedlé těla na kříži, a pak jsa živým člověkem,
+na den vstúpenie šel jest k otci, jenž ho jest poslal, veda s sebú
+vyvolené, kteréž jest z pekla vyvedl. A o tom jití řekl jest jim: "Jdu k
+němu, jenž mě poslal." A že pravil jest mnohé pótky budúcie
+učedlníkóm, řka, že je posielá jako ovcě mezi vlky, a že v nenávisti
+budú všem, a že budú je honiti z jednoho miesta do druhého, a že je
+vyobcují a zmordují; protož zamútivše sě, že on jim praví, že od nich
+chce, v ten čas netázali sú ho, kam jde? Protož die: "a nižádný z vás
+netieže mne: Kam jdeš? ale že ty věci mluvil sem vám, zamúcenie naplnilo jest srdce vaše." Neb přirozená jest věc, že slova milého přietele,
+smiešená s zamúcením a s milostí, popúzějí přátel k zamúcení a k
+bolesti; a tak učedlníci Kristovi, že sú milovali Krista, slyšiece, že on
+zamúcen jsa, mluví k nim lítostivě, a praví jim i své pótky budúcie, i
+jich, i byli sú zamúceni. Ale věrný a milostivý Kristus těší je, řka: "A já
+pravdu pravím vám: úžitečné jest vám, abych já šel; neb neodejdu-li,
+utěšitel nepříde k vám." Jako by řekl: Nezřiezeně milujete mé tělesenstvie, protož úžitečné jest, abych skryl člověctvie přěd vašima
+
+Neděle čtvrtá po Velicě noci.
+
+207
+
+očima, aby žádostí duše byli vzhóru povzdviženi. Tu die S. Beda:
+Úžitečné jest, abych známé člověctvie do nebe vnesl, aby věččí žádostí
+tam vzdychali, a tak srdcí k nebeským věcem pozdvihnúce, aby dary
+ducha svatého byli hotovi přijieti. To Beda.
+Tu věz, že ač Kristovo člověctvie má milováno býti a má býti ctěno nad
+jiná stvořenie, avšak mohl by člověk poblúditi v milování božstvie a ve
+ctění, tak že by viece přichýlil milovánie žádosť i ctěnie člověk k
+člověctví Kristovu neb k jinému stvoření viece, nežli k božství; jakož
+učedlníci byli sú nezřiezeně přichýleni k člověctví Kristovu, jakož jest to
+ukázal Petr, radě Kristovi, aby nedal sě na utrpenie. A pro tu
+nezřiezenú příchylnosť ostřě ho Kristus tresktal, řka jemu, Mt. 16, 23:
+Jdi po mně, Šatane! nesmýšlíš božských věcí, ale lidské. Jako by řekl:
+Nezřiezeně mě miluješ, chtě, abych netrpěl; neb nemiluješ viece
+božstvie, než mého člověctvie. A toto by měli znamenati ti, kteříž
+nezřiezeně milují těla svatých a kupují za penieze u papežóv, aby je za
+svaté stvrdili. Také mají to znamenati ti, kteříž chtie tělestným okem
+zde, smrtedlni jsúce, krev Kristovu v oplatcě, neb jeho tělo viděti, že
+blúdie obojí. Neb co platno jest kterému svatému, aby pro penieze
+papež ho potvrdil, a móž býti, že z falešného domněnie, z dáblova
+zklamánie a z křivého svědectvie? a pro biedné lakomstvie potvrdil-li
+by, že by oplatek nesvěcený měli za svatý zpósob chleba a tak za tělo
+božie, a některého kněze krev, jiež jest ukropil na oplatek, měli by za
+Kristovu krev? jakož sě přihodilo v mnohých miestech, a zvláště v
+Litomyšlském biskupství, v němž sú byli kněžie krví svú oplatek
+zkrvavili; ale potom když sú zkúšeni, přiznali sú sě, že sú to učinili. K
+těm lakomcóm, jenž tak lid svodie, a mají žádosť nezřiezenú, jíž jsú
+přichýleni viece k zboží než k nebeskému království, duch svatý
+nepříde! Neb poňavadž k apoštolóm, jenž sú neměli žádosti k zboží, byl
+by duch svatý nepřišel, jakož die Kristus, by on byl neodšel a jich od
+nezřiezené milosti a bázni nevyčistil, a oni by sě byli po jeho vstúpení
+posty, modlitbami a svatým myšlením nespósobili: o kterak mohú přijieti dary ducha svatého lakomci, smilníci, svatokupci, kostečníci, žráči,
+pyšní a pijáci, poňavadž duch svatý nemóž přěbývati v člověku, jenž
+jest v hřieše smrtedlném, a jenž treskce
+
+208
+
+Čtenie 27.
+
+svět z hřiecha? O němž die Kristus: "A když přijde on, tresktati bude
+svět z hřiecha, a z spravedlnosti, a z súdu."
+Tři bludy jmenuje Kristus, z nichž duch svatý bude tresktati svět,
+to jest lid zlý, kterými bludy jest takměř vešken lid starý oklíčen: Prvý
+blud, a tak hřiech, jejž mají lidé, jest nevěra, že lidé majíce tolik od
+Krista naučení, a tak mnoho dóvodóv i dobroděnstvie, nevěřie v boha
+otcě i syna, tak že ač věřie, že bóh otec jest bóh, též i syn, ale nevěřie
+v něho, že nemilují nade všechny jiné věci, a neposlúchají. A ten
+hřiech, jenž slove nevěra neb nevěřenie, jest nad jiné hřiechy veliký, a
+jest kořen všech jiných hřiechóv; o němž die Kristus, že duch svatý
+bude tresktati svět ""z hřiechu, že sú nevěřili;" jako jsú židé, pohané,
+kacieři, a zlí křěsťané, jenž nevěřie v boha, a tak ducha svatého
+nemají, jenž je bude tresktati. Druhé bude duch svatý tresktati svět
+"z spravedlnosti," jiež nemá, maje ji mieti, proto že Kristus přěd smrtí
+učil řečí, i svými skutky, i svými divy, aby právě věřili; a vstav z
+mrtvých, mnohými dóvody potvrdil jest pravé viery; a třětie, zjevně
+jest přěd apoštoly na nebe vstúpil, dav cěstu všem, aby jeho v
+dobrých činech následujíce, spravedlivě živi byli a po něm vstúpili. A
+že toho svět nečiní, protož die Kristus: že "duch svatý tresktati bude
+svět z spravedlnosti, že jde k otci," to věz, jsa muž spravedlivý, po
+němž svět nechce jíti. Třětie bude tresktati duch svatý svět "z súdu,"
+to věz poslednieho, že sě ho nebojí, věda, že již dábel na věčné zatracenie pro hřiech jest odsúzen. Protož die Kristus: "z súdu, že knieže
+světa tohoto," to jest dábel, jenž jest král i knieže nad smrtedlnými
+hřiešníky, již "súzen jest," to věz na věčné zatracenie.
+A z toho máš, že jakož židé za Krista, že sú jemu a v něho nevěřili,
+a tak hřiech nevěry majíce, spravedlivě sú od ducha svatého
+tresktáni měli býti, a z spravedlnosti, kterúž sú měli mieti z
+následovánie Kristova, a pak sú neměli, a třětie z súdu, že sú zle
+Kristovy skutky súdili: též do dnešnieho dne zostal jest ten trój
+hřiech v světě, z něhož duch svatý bude je tresktati. Neb kto nynie,
+počnúce od papeže, v boha věří, vší žádostí nade všechny jiné věci
+jeho sě držie, jakož sě má držeti? kto druhé
+
+Neděle čtvrtá po Velicě noci
+
+209
+
+pamatuje divy Kristovy a obyčeje svaté jeho, aby ho následuje byl
+spravedlivý? a kto třětie z těch, jenž pravie, že v moci své mají
+vykládati zákon boží, činí pravý súd, právě sě vedlé zákona Kristova
+rozsuzuje, a právě boží zákon vykládaje? ani pohřiechu! lstivými
+výklady všechen zákon, jenž velí Krista nám následovati, aneb jinak
+vyložiece, sě i lid svodie, aneb oblehčují, nebojiece sě súdu, jímž jest
+dábel již odsúzen. Ale hybět bude tomu člověku, jenž jest Antikrist,
+neb Kristus zabie ho duchem úst svých, jako die S. Pavel, 2. Thes. 2,
+8; to jest, duchem svatým porazí ho. Neb duch svatý bude tresktati
+svět z hřiechu, jejž má, z spravedlnosti, jiež nemá, a z súdu, jehož
+netbá; a zvláště bude tresktati zlú kněží, jenž sú měli sě najviece
+hřiechu varovati, a spravedlnost mieti, a súdu věčného sě zatracenie
+báti.
+Hřiechu mají sě kněžie najviece nad jiné lidi střieci; neb jich hřiech
+najviece sboru křěsťanskému škodí, bohu sě nelíbí, a ďáblu velmě líbí.
+Najviece, diem, škodí; neb hřiech kněžský tu stranu cierkvi, jenž by
+měla býti najčistějšie, przní, a jiné tiehne po knězi. A proto sě ďáblu
+velmě líbí, a bohu jsú nelibi; neb oni majíce uměnie, měli by jiné učiti,
+sami jsúce vedlé vóle božie živi. Protož hybět jim od ran mnohých; neb
+die Kristus v 12 k. 47 v. S. Lukáše: "Sluha, věda vóli pána a nečině,
+ranami bude bit mnohými," A zvláště že sědají se pánem o mísu a s
+ním chléb jedie, a na něho sě pasú; protož die žalostivě Kristus skrze
+Davida, Žalm 41, 10: Člověk pokoje mého, jenž jest jedl mé chleby,
+vzveličil na mě vysazenie. To jest: vysadil mě, mně cti nedávaje; jako
+die S. Bernard, že kněžie ve cti chodie z bohatstvie božieho, jemuž cti
+nečinie. Protož koho viece v světě než nás kněží, když hřiech máme,
+spravedlnosti nemáme, a súdu sě nebojíme, bude duch svatý
+tresktati? hyběť bude těm, kteří sú lidské almužny jedli a jich sú
+neučili, ani z hřiechu tresktali! Die S. Řehoř: Važme, kaký hřiech jest
+přěd bohem, nic proti hřiechóm nečiniti, a hřiechóv penieze jiestil to
+jest, penieze utracovati, jež sú za hřiechy lidé dali. A S. Bernard die:
+"Přijdú, přijdú přěd súd boží, tu kdež slyšiena bude sirotkóv žaloba
+těžká, dóvod tvrdý, jichž sú byli živi statky, a hřiechóv neomývali! Běda
+tučným prdivalóm, jenž almužnu jedie,
+
+210
+
+Ctenie 27.
+
+pijí, jinak zle utracují, a na svú duši ani na jiných duše netbají!
+jistě bude je duch svatý tresktati z hřiecha.
+Dále die Kristus k učedlníkóm: "Ještě mnohé věci mám vám
+praviti, ale nemóžete snésti nynie," to věz pro zamúcenie vaše, a
+pro hlúposť. Tu jest dal Kristus mistróm i kazatelóm naučenie, aby
+neobtěžovali těch, kteréž učie, a darmo řeči nepravili, když
+znamenají, že posluchači nemohú sněsti. "Ale když přijde," to věz
+sstúpí v dařiech, sám sě nikam nehýbaje, "onen duch pravdy," to
+jest duch svatý, jenž jest pravda věčná, a jenž miluje pravdu a učí
+pravdu, "naučí vás každé pravdě," jenž jest k spasení vašemu a k
+cierkvi svaté prospěchu. A tak sě stalo, že od dne seslánie ducha
+svatého až právě do smrti učil jest duch svatý apoštoly, kterak
+mají živi býti, a lid učiti, a cierkvi svaté po sobě písmo pravdy
+ostaviti; a tak je učil, že sú došli blahoslavenstvie, a knih živých, v
+nichž mohú znáti každú pravdu. A že což učí duch svatý, to učí
+bóh otec i syn, jakož což činí otec, to činí i syn, i duch svatý, protož
+aby v blud neupadli lidé, mniece, že by duch svatý učil každé
+pravdě, a nic Kristus, die dále: "neb nebude mluviti od sebe
+samého, ale kteréž kolivěk věci uslyší," to věz od otcě boha i od
+syna; neb každé znánie ducha svatého jest od otcě i od syna, jakož
+i on duch svatý pochodí od otcě i od syna. A tak což kolivěk duch
+svatý koho učí, neb komu praví, to vše od věčnosti od otcě boha i
+od syna slyší: ale ne uchem tělestným, jehož nemá, poňavadž jest
+jedné duch netělestný, ale to slyšenie jest v každé pravdě s bohem
+i otcem i s bohem synem svolenie.
+A že duch svatý učí řádem nekvapně, protož die dále Kristus: "a
+které věci budúcie jsú, praviti bude vám." A tak jest učil apoštoly,
+že sú pravili i psali budúcie pravdy; neb Janovi tomu duch svatý
+pravil, Apok., že popsal jest stav křěsťanský, kterak poběhne až do
+súdného dne; Petrovi pověděl, že na konci světa budú kazatelé a
+kněžie lakomí, smilní, lživí, jenž vymyšlenými řěčmi budú lidi o
+penieze klamati; to píše v druhé epištole v 2 kap., 1 a 3 v. Také
+svatému Pavlovi duch svatý pravil,
+II. Timoteovi 4, 3-4, aby psal budúcie věci, kterak k skonání světa
+budú lidé zlí, jenž od pravdy sluch odchýlé, a k básniem
+
+Neděle čtvrtá po Velicě noci.
+
+211
+
+sě obrátie, a sberú sobě mistry pochlebné, aby je lektali v uši. A tak
+máš naplněno i o jiných apoštoléch, žet jest učil je duch svatý budúcím
+věcem. A že zde v světě apoštolóv ne všech věcí naučil jest duch svatý,
+ale po smrti v radosti dal jim je znáti, protož prvé die Kristus: "kteréž
+kolivěk věci uslyší, mluviti bude," to věz tam v radosti; pak potom die:
+"a které věci budúcie jsú, praviti bude vám," to věz zde. Aj tu die: "které
+věci budúcie jsú," ale nedie: všecky věci budúcie praviti bude vám; neb
+některých věcí budúcích, dokud sú byli živi, nepravil jim, a některé jest
+pravil jim.
+Dále die spasitel: "On mě oslaví," to jest slavného v lidu učiní, že lidé
+jsúce duchem svatým naučeni, budú mě za slavného boha mieti. "Neb z
+mého vezme," to což pravdy jest, "a praviti bude vám," to věz, abyste mě
+měli za boha a jiné témuž učili. A dovodí Kristus, že jest bohem; a že
+svatý duch, což praví, to vše jest také Kristovo, protož i die: "Všecky
+věci, které má otec, mé jsú; protož řekl sem, že z mého vezme a praviti
+bude vám." Aj v té řeči zjevně ukazuje Trojici svatú, to jest tři osoby
+věčné, neb ukazuje otcě, i ducha svatého, i sě syna božieho; neb když
+die: "-všecky věci, kteréž má otec," aj toť jedna osoba, otec; "mé jsú," aj
+toť syn; a když die: "praviti bude vám," to věz duch svatý, jenž jest třětie
+osoba. A že Kristus jest rovný otci bohu, a tak že jest bohem, to sě
+miení v té řeči, když die: "všecky věci, které má otec, mé jsú;" a že otec
+má ducha svatého, tehdy má ho i syn Kristus; a poňavadž všecky věci
+Kristovy jsú, tehdy to pravda jest, že což praví duch svatý, to také
+Kristovo jest, a tak i otcovo; a což duch svatý praví, to praví k oslavě i
+otce, i syna, i k své, abychom my slavně boha chválili, věřiece, že otec,
+syn a duch svatý jsú tři osoby slavné, všemohúcie a věčné, a což činí
+jedna osoba, to každá, a tak komuž svědčí jedna osoba, tomu svědčí
+bóh otec, i syn, i duch svatý. Protož prav vešken svět zde na člověka, že
+jest kacieř: svědčí-li jemu Kristus, že ten člověk jest jeho věrný sluha,
+tehdy ho pravda vysvobodí, jenž nade všechny věci přěmáhá, a ostojí na
+věky. Protož požehnaný bud pán bóh pravdy, jenž svých sluh věrných v
+pohanění konečně neopustíl Amen.
+
+212
+
+Čtenie 28.
+
