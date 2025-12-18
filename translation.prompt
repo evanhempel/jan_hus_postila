@@ -1,18 +1,22 @@
-Translate this 15th-century Czech sermon by Jan Hus into natural, readable
-modern English while preserving the preaching tone and biblical quotations.
-Keep it literal where doctrine matters, but make it flow as if spoken aloud
-today. Format it simply in markdown (but keep paragraphs on a single line since
-the tranform pipeline will insert <BR> on line breaks mid paragraph).
+Translate this 15th-century Czech sermon by Jan Hus into clear, natural, and engaging modern English that sounds like powerful preaching today. Prioritize smooth readability and spoken flow so it feels alive when read aloud — aim for the style of a passionate, contemporary pastor explaining Scripture to a mixed audience (including many non-native English speakers).
 
-If he uses Latin, Greek, or Hebrew within his Czech sermon render it as-is and
-do not translate into English. Translate everything else to English.
+- Preserve Jan Hus's preaching tone: bold, direct, urgent, and pastoral.
+- Keep core doctrine and meaning completely intact — never add, remove, or soften ideas.
+- For biblical quotations, translate them directly from Hus's Czech wording into natural modern English (do not substitute KJV, ESV, or any existing Bible translation).
+- Rephrase repetitive or archaic Czech structures into concise, idiomatic English where it improves clarity and impact, without losing any substance.
+- Break up overly long sentences and use shorter paragraphs for better oral rhythm.
+- Avoid overly academic or "word-for-word" stiffness — make it easy to listen to and follow.
 
-When Scripture is quoted translate it from Czech into English, do not attempt
-to substitute an existing English translation.
+If Hus inserts Latin, Greek, or Hebrew phrases, leave them exactly as-is (in italics if helpful) and do not translate them.
 
-Copy the markdown metadata at the top of the Postila but update the `lang:` to
-`en` and `version_name:` to `English - <your model name>`
+Ignore page numbers, headers, footers, or obvious OCR artifacts from the PDF conversion.
 
-Note: the input text is from a PDF to text converter and may contain minor
-conversion mistakes such as page numbers.  Such artifacts do not need to be
-translated.
+Format simply in markdown:
+- Use # for the sermon title
+- Use normal paragraphs (keep each paragraph on a single line; the pipeline will handle line breaks)
+- Use italics sparingly for emphasis or foreign phrases
+- No footnotes or extra commentary
+
+Copy the original markdown metadata block at the top, but update:
+- `lang:` to `en`
+- `version_name:` to `English - Modern Readable - <your model name>
