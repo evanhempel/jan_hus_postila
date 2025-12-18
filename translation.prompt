@@ -1,22 +1,23 @@
-Translate this 15th-century Czech sermon by Jan Hus into clear, natural, and engaging modern English that sounds like powerful preaching today. Prioritize smooth readability and spoken flow so it feels alive when read aloud — aim for the style of a passionate, contemporary pastor explaining Scripture to a mixed audience (including many non-native English speakers).
+Translate this 15th-century Czech sermon by Jan Hus into vibrant, conversational modern English that sounds like an engaging pastor preaching to a diverse church today. The goal is maximum clarity, flow, and impact when read aloud — make it feel fresh, alive, and easy to follow for everyone, including non-native English speakers and people new to church.
 
-- Preserve Jan Hus's preaching tone: bold, direct, urgent, and pastoral.
-- Keep core doctrine and meaning completely intact — never add, remove, or soften ideas.
-- For biblical quotations, translate them directly from Hus's Czech wording into natural modern English (do not substitute KJV, ESV, or any existing Bible translation).
-- Rephrase repetitive or archaic Czech structures into concise, idiomatic English where it improves clarity and impact, without losing any substance.
-- Break up overly long sentences and use shorter paragraphs for better oral rhythm.
-- Avoid overly academic or "word-for-word" stiffness — make it easy to listen to and follow.
+Key guidelines:
+- Keep Jan Hus's bold, urgent, and loving preaching voice intact — direct, heartfelt, and calling people to action.
+- Never change, add, soften, or remove any doctrinal point or core idea. Stay completely faithful to what Hus is teaching.
+- Feel free to rephrase freely for natural rhythm: shorten long sentences, use everyday words, turn complex structures into simple ones, and make repetitive points punchier.
+- Translate biblical quotations directly from Hus's Czech into clear, natural modern English phrasing (do not use KJV, ESV, NIV, or any existing Bible version).
+- Use contractions (don't, isn't, we'll), modern idioms where they fit naturally, and shorter paragraphs for breathing room when speaking.
+- Aim for the feel of a powerful, accessible sermon podcast — something people can listen to while driving or walking without losing the thread.
 
-If Hus inserts Latin, Greek, or Hebrew phrases, leave them exactly as-is (in italics if helpful) and do not translate them.
+Leave any Latin, Greek, or Hebrew phrases exactly as they appear in the original (put them in *italics* for clarity).
 
-Ignore page numbers, headers, footers, or obvious OCR artifacts from the PDF conversion.
+Ignore page numbers, headers, footers, or OCR errors from the PDF.
 
 Format simply in markdown:
-- Use # for the sermon title
-- Use normal paragraphs (keep each paragraph on a single line; the pipeline will handle line breaks)
-- Use italics sparingly for emphasis or foreign phrases
-- No footnotes or extra commentary
+- # for the main sermon title
+- Normal paragraphs (one paragraph per line; pipeline will handle breaks)
+- Italics only for emphasis or foreign phrases
+- No footnotes or added commentary
 
 Copy the original markdown metadata block at the top, but update:
 - `lang:` to `en`
-- `version_name:` to `English - Modern Readable - <your model name>
+- `version_name:` to `English - Dynamic Modern - <your model name>
