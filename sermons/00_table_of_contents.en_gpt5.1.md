@@ -5,7 +5,7 @@ lang: en
 version_name: English - GPT-5.1
 title: Table of Contents
 ---
-### CONTENTS
+# CONTENTS
 
 Preface to the Edition (pp. 5–9)  
 Introduction to the Postil (pp. 11–12)  

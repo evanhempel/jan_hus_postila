@@ -19,3 +19,13 @@ This is a summary of Jan Hus's sermon based on Matthew chapter 20, verses 1-16, 
 ### Key Quote:
 > "For many are called, but few are chosen."  
 > *(Matthew 20:16)*
+
+---
+
+**Translator's Note on the Title**
+
+This sermon is headed in the original Czech as *Neděle, jenž slove Devietnik* ("Sunday which is called Devietnik"). "Devietnik" (an archaic form of *devátník*) literally means "the Ninth" or "Ninth Sunday."
+
+In the late medieval Bohemian liturgical calendar, this name refers to **Septuagesima Sunday** – the ninth Sunday before Easter (counted in a traditional manner common in Slavic churches) and the first of the three pre-Lenten Sundays. It is not a continuation of the numbered Sundays after Christmas, but a distinct Sunday with its own traditional name, marking the beginning of the preparatory season before Lent.
+
+The apparent interruption in the post-Christmas numbering occurs because the number of Sundays after Epiphany/Christmas varies each year depending on the date of Easter. In years when Easter is early, Septuagesima arrives before a full sequence of post-Epiphany Sundays can be observed. The title has therefore been retained as a close rendering of the original, reflecting the historical Czech naming practice rather than modern liturgical terminology.

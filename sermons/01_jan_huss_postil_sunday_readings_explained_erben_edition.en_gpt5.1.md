@@ -5,7 +5,7 @@ lang: en
 version_name: English - GPT-5.1
 title: Jan Huss Postil Sunday Readings Explained Erben Edition
 ---
-### WRITINGS OF THE COMENIUS EVANGELICAL FACULTY OF THEOLOGY
+# WRITINGS OF THE COMENIUS EVANGELICAL FACULTY OF THEOLOGY
 
 DIRECTORS  
 F. M. BARTOŠ, F. M. DOBIÁŠ, J. L. HROMÁDKA,  
