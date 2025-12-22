@@ -1,0 +1,56 @@
+#!/usr/bin/env bash
+
+# Script to rename .cs.txt files to .cs.md and add Jekyll front matter
+# Run this in the directory containing the files
+
+shopt -s nullglob  # Avoid issues if no files match
+
+for file in *.cs.txt; do
+    [[ -f "$file" ]] || continue  # Skip if no files match
+
+    # Extract the base name without extension
+    base="${file%.cs.txt}"
+
+    # Extract the sermon number: digits at the beginning before the first _
+    if [[ "$base" =~ ^([0-9]+)_ ]]; then
+        sermon_id="${BASH_REMATCH[1]}"
+    else
+        echo "Warning: Could not extract sermon_id from $file, skipping..."
+        continue
+    fi
+
+    # Extract the descriptive part after the number and first _
+    desc_part="${base#*_}"
+
+    # Create title: replace underscores with spaces and title-case each word
+    title=$(echo "$desc_part" | sed 's/_/ /g' | awk '{for(i=1;i<=NF;i++){ $i=toupper(substr($i,1,1)) substr($i,2) }}1')
+
+    # New filename
+    new_file="${base}.cs.md"
+
+    # Temporary file for adding header
+    tmp_file=$(mktemp)
+
+    # Create the front matter
+    cat << EOF > "$tmp_file"
+---
+layout: sermon
+sermon_id: "$sermon_id"
+lang: cs
+version_name: Czech original
+title: $title
+---
+
+EOF
+
+    # Append the original content
+    cat "$file" >> "$tmp_file"
+
+    # Move the modified content to the new filename (git will track this)
+    git mv "$file" "$new_file"  # First rename the file in git
+    mv "$tmp_file" "$new_file"  # Then overwrite with new content (git sees this as a modification)
+
+    echo "Processed: $file → $new_file (sermon_id: $sermon_id, title: $title)"
+done
+
+echo "All done!"
